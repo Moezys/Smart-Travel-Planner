@@ -1,0 +1,25 @@
+# Environments
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Notebook + ML artifacts
+.ipynb_checkpoints/
+model/*.joblib
+model/results.csv
+
+# Build / cache
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/

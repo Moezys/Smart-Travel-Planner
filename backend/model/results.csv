@@ -1,0 +1,2 @@
+timestamp_utc,model,params,cv_acc_mean,cv_acc_std,cv_f1_mean,cv_f1_std,tuned_cv_f1,test_accuracy,test_macro_f1,n_train,n_test,random_state,sklearn_version
+2026-04-30T19:25:06+00:00,random_forest,"{""max_depth"": 16, ""max_features"": ""log2"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.5799,0.0187,0.4628,0.0458,0.4893,0.6085,0.4104,845,212,42,1.8.0

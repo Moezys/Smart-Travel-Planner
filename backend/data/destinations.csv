@@ -1,0 +1,1058 @@
+name,country,region,sub_region,latitude,longitude,elevation_m,coast_distance_km,avg_temp_summer_c,avg_temp_winter_c,annual_rainfall_mm,sunny_days_per_year,hiking_trails_count,unesco_sites_within_100km,museum_count,national_parks_within_100km,theme_parks_count,cost_of_living_index,avg_3star_hotel_usd,annual_visitors_millions,visitors_per_capita,label
+Rome,Italy,Europe,Lazio,42.784,12.154,111.0,189.4,26.1,5.9,594.0,225.0,11.0,6,94.0,0,1,80.0,135.0,9.901,0.89,Culture
+Florence,Italy,Europe,Tuscany,43.062,12.287,163.0,98.3,23.2,9.1,1237.0,206.0,26.0,0,26.0,0,0,64.1,142.0,3.011,1.5,Culture
+Venice,Italy,Europe,Veneto,40.806,9.804,10.0,30.5,25.1,8.1,1033.0,221.0,26.0,0,18.0,1,0,70.5,117.0,2.692,6.08,Culture
+Milan,Italy,Europe,Lombardy,41.774,10.646,123.0,82.1,26.5,9.2,788.0,213.0,31.0,3,34.0,1,0,61.4,123.0,3.338,4.55,Culture
+Naples,Italy,Europe,Campania,39.882,12.52,92.0,52.1,24.9,7.3,699.0,210.0,12.0,2,2.0,0,0,69.0,118.0,3.548,1.84,Culture
+Bologna,Italy,Europe,Emilia-Romagna,42.52,12.84,0,141.7,28.7,10.9,842.0,237.0,24.0,2,14.0,1,0,65.9,103.0,5.213,6.21,Culture
+Turin,Italy,Europe,Piedmont,42.059,12.495,258.0,88.6,23.1,5.0,730.0,226.0,36.0,2,22.0,0,0,62.8,137.0,5.675,2.89,Culture
+Verona,Italy,Europe,Veneto,43.074,13.982,90.0,188.3,25.2,9.1,490.0,201.0,21.0,2,24.0,2,1,65.6,130.0,4.856,6.84,Culture
+Pisa,Italy,Europe,Tuscany,41.148,18.544,69.0,139.0,24.5,8.3,980.0,198.0,34.0,1,20.0,0,0,78.0,149.0,1.605,0.96,Culture
+Siena,Italy,Europe,Tuscany,43.178,13.539,216.0,128.7,24.0,7.2,613.0,213.0,27.0,2,12.0,0,0,80.3,159.0,2.414,1.16,Culture
+Lucca,Italy,Europe,Tuscany,43.008,13.799,41.0,84.1,26.1,7.7,1267.0,179.0,29.0,2,49.0,0,1,82.2,151.0,2.539,3.45,Culture
+Cinque Terre,Italy,Europe,Liguria,42.576,12.905,0,81.0,28.4,8.4,726.0,173.0,34.0,3,8.0,0,0,60.2,133.0,1.02,1.08,Culture
+Portofino,Italy,Europe,Liguria,44.623,13.205,206.0,0.2,23.7,5.9,973.0,216.0,17.0,3,0,2,0,83.0,138.0,7.552,5.49,Luxury
+Amalfi,Italy,Europe,Campania,43.93,11.961,108.0,111.0,24.4,6.7,779.0,199.0,38.0,0,0,0,0,65.6,117.0,6.711,3.18,Luxury
+Positano,Italy,Europe,Campania,42.4,13.357,183.0,160.7,23.2,9.0,881.0,241.0,23.0,1,10.0,0,0,66.7,145.0,1.681,2.3,Luxury
+Capri,Italy,Europe,Campania,41.739,15.046,177.0,77.8,23.7,7.3,871.0,189.0,8.0,0,18.0,1,0,68.7,124.0,0.86,0.38,Luxury
+Sorrento,Italy,Europe,Campania,42.691,11.441,195.0,147.1,25.0,6.3,920.0,184.0,40.0,3,27.0,0,0,65.9,105.0,4.253,2.31,Culture
+Palermo,Italy,Europe,Sicily,43.985,11.839,195.0,60.7,26.6,5.9,953.0,236.0,15.0,1,13.0,0,0,67.5,159.0,5.63,7.46,Culture
+Taormina,Italy,Europe,Sicily,43.677,10.47,72.0,72.3,27.5,8.5,916.0,194.0,40.0,3,18.0,1,0,81.3,142.0,4.758,5.7,Culture
+Catania,Italy,Europe,Sicily,39.24,9.72,225.0,99.5,24.9,6.9,731.0,218.0,22.0,3,21.0,1,0,78.0,128.0,3.662,2.18,Culture
+Cagliari,Italy,Europe,Sardinia,42.624,13.074,83.0,92.2,24.5,8.8,689.0,206.0,31.0,1,14.0,0,0,73.4,123.0,1.744,1.19,Culture
+Costa Smeralda,Italy,Europe,Sardinia,40.639,14.608,102.0,200.7,26.1,6.3,811.0,186.0,28.0,2,25.0,0,0,54.3,115.0,0.806,0.36,Luxury
+Lake Como,Italy,Europe,Lombardy,43.123,14.217,684.0,127.2,24.9,4.8,688.0,192.0,5.0,2,24.0,1,0,62.6,119.0,1.12,0.95,Luxury
+Lake Garda,Italy,Europe,Veneto,40.428,14.761,511.0,96.1,25.4,4.7,1215.0,181.0,42.0,2,30.0,1,0,72.0,118.0,3.059,1.42,Relaxation
+Dolomites,Italy,Europe,Trentino,42.932,10.232,1837.0,159.1,12.7,-10.9,944.0,176.0,78.0,2,4.0,2,0,106.3,202.0,1.462,1.27,Adventure
+Cortina d'Ampezzo,Italy,Europe,Veneto,43.579,11.41,1581.0,346.5,16.9,-9.3,1509.0,181.0,78.0,4,1.0,2,0,90.0,199.0,2.321,1.28,Luxury
+Assisi,Italy,Europe,Umbria,43.987,8.436,56.0,131.7,25.7,5.9,1055.0,218.0,7.0,3,39.0,2,0,60.5,124.0,3.455,6.01,Culture
+Perugia,Italy,Europe,Umbria,42.532,12.653,80.0,95.2,26.0,7.6,742.0,210.0,4.0,1,21.0,2,0,77.7,148.0,5.295,14.0,Culture
+Matera,Italy,Europe,Basilicata,44.109,12.792,179.0,74.9,23.4,6.1,913.0,228.0,19.0,1,12.0,0,0,64.8,112.0,5.972,4.02,Culture
+Lecce,Italy,Europe,Apulia,44.219,11.44,170.0,156.2,24.6,7.4,794.0,205.0,14.0,2,25.0,2,0,58.4,115.0,3.15,3.15,Culture
+Bari,Italy,Europe,Apulia,44.633,9.486,280.0,166.2,26.1,7.3,676.0,185.0,29.0,3,18.0,2,0,74.6,135.0,1.588,1.98,Culture
+Genoa,Italy,Europe,Liguria,44.112,11.854,0,151.1,26.6,7.3,772.0,195.0,23.0,2,16.0,1,1,74.7,138.0,5.025,10.65,Culture
+Paris,France,Europe,Île-de-France,46.175,0.225,126.0,168.6,19.3,1.5,917.0,188.0,10.0,10,89.0,1,1,91.5,156.0,22.112,1.58,Culture
+Nice,France,Europe,Côte d'Azur,46.35,4.009,158.0,47.5,21.5,1.5,839.0,184.0,33.0,1,19.0,2,0,69.0,177.0,2.681,2.53,Luxury
+Cannes,France,Europe,Côte d'Azur,46.297,1.495,146.0,87.2,21.2,6.1,821.0,180.0,22.0,0,20.0,1,0,66.5,141.0,5.516,4.26,Luxury
+Saint-Tropez,France,Europe,Côte d'Azur,48.389,3.765,163.0,149.5,21.2,2.4,1388.0,198.0,39.0,2,23.0,2,0,77.5,163.0,4.469,2.64,Luxury
+Monaco-adjacent Menton,France,Europe,Côte d'Azur,50.038,4.376,230.0,163.9,21.7,3.4,966.0,181.0,40.0,0,12.0,1,0,69.5,133.0,2.602,1.32,Luxury
+Marseille,France,Europe,Provence,48.845,0.88,37.0,234.7,20.5,3.1,992.0,161.0,10.0,2,26.0,1,0,80.2,177.0,3.421,3.22,Culture
+Avignon,France,Europe,Provence,45.522,3.417,37.0,157.5,21.4,6.6,731.0,177.0,26.0,1,15.0,2,1,74.0,167.0,0.981,0.46,Culture
+Aix-en-Provence,France,Europe,Provence,44.359,3.035,164.0,154.6,20.6,2.8,759.0,191.0,32.0,1,14.0,1,0,64.4,143.0,4.657,10.9,Culture
+Lyon,France,Europe,Auvergne-Rhône-Alpes,47.473,3.302,223.0,218.9,21.9,3.6,893.0,191.0,19.0,0,11.0,1,0,76.9,166.0,8.282,5.99,Culture
+Chamonix,France,Europe,French Alps,46.256,1.536,2765.0,274.8,4.1,-17.1,987.0,148.0,145.0,4,6.0,3,1,112.2,250.0,3.196,2.15,Adventure
+Annecy,France,Europe,French Alps,48.765,0.324,1002.0,141.0,15.7,-3.5,743.0,156.0,87.0,3,4.0,3,0,58.6,125.0,2.806,1.47,Adventure
+Grenoble,France,Europe,French Alps,47.581,0.871,1478.0,186.4,12.5,-6.1,1198.0,143.0,98.0,2,3.0,3,0,74.9,138.0,4.666,1.74,Adventure
+Bordeaux,France,Europe,Nouvelle-Aquitaine,47.953,1.951,121.0,135.5,19.2,2.6,1023.0,169.0,16.0,2,21.0,1,1,121.3,246.0,3.278,6.17,Culture
+Biarritz,France,Europe,Nouvelle-Aquitaine,48.587,1.08,226.0,142.7,22.1,2.9,1042.0,169.0,14.0,1,19.0,1,1,75.4,163.0,2.664,1.34,Luxury
+Toulouse,France,Europe,Occitanie,44.232,3.004,106.0,203.1,21.0,5.7,1022.0,194.0,11.0,0,16.0,0,0,67.5,132.0,4.251,2.97,Culture
+Carcassonne,France,Europe,Occitanie,45.956,0.363,0,127.0,21.6,6.8,1249.0,196.0,35.0,3,21.0,1,0,75.7,141.0,3.607,3.45,Culture
+Strasbourg,France,Europe,Alsace,47.413,2.368,104.0,210.9,21.2,4.4,1086.0,161.0,49.0,2,19.0,1,0,67.1,131.0,5.91,2.73,Culture
+Colmar,France,Europe,Alsace,47.56,2.043,81.0,42.3,21.2,4.2,910.0,176.0,23.0,3,25.0,1,0,68.3,145.0,8.174,3.53,Culture
+Reims,France,Europe,Champagne,46.171,2.337,269.0,130.8,20.9,0.9,858.0,186.0,32.0,3,21.0,1,1,99.8,247.0,4.643,2.39,Culture
+Épernay,France,Europe,Champagne,46.662,1.257,26.0,209.2,22.4,4.6,904.0,183.0,37.0,3,15.0,0,0,94.3,222.0,1.103,2.57,Culture
+Mont Saint-Michel,France,Europe,Normandy,45.898,3.493,119.0,74.0,20.1,3.9,627.0,205.0,23.0,2,13.0,0,1,78.5,142.0,5.971,6.97,Culture
+Bayeux,France,Europe,Normandy,46.046,1.12,140.0,1.1,22.2,6.0,1199.0,168.0,22.0,3,7.0,1,0,65.5,127.0,20.672,9.34,Culture
+Étretat,France,Europe,Normandy,46.922,3.545,265.0,147.5,18.4,1.9,930.0,205.0,30.0,1,12.0,0,1,73.5,146.0,3.344,1.51,Culture
+Honfleur,France,Europe,Normandy,45.907,2.197,112.0,81.0,22.1,5.4,944.0,183.0,18.0,2,24.0,1,0,89.9,176.0,4.353,1.65,Culture
+Saint-Malo,France,Europe,Brittany,45.149,4.619,154.0,112.4,20.5,2.4,953.0,177.0,39.0,0,27.0,1,0,72.8,142.0,3.487,2.56,Culture
+Quimper,France,Europe,Brittany,45.78,2.764,82.0,170.6,22.6,3.1,1014.0,169.0,35.0,2,17.0,1,0,58.2,139.0,6.102,12.21,Culture
+Loire Valley,France,Europe,Centre-Val de Loire,47.113,2.935,89.0,42.2,21.3,1.7,698.0,173.0,19.0,0,19.0,1,1,71.9,184.0,3.28,5.59,Culture
+Tours,France,Europe,Centre-Val de Loire,46.892,1.342,118.0,130.9,21.9,3.1,825.0,178.0,26.0,1,28.0,2,1,73.7,152.0,8.807,9.02,Culture
+Corsica - Ajaccio,France,Europe,Corsica,47.067,3.819,233.0,91.1,20.4,3.6,1043.0,166.0,23.0,2,25.0,0,0,69.2,161.0,3.187,1.24,Culture
+Corsica - Bonifacio,France,Europe,Corsica,47.583,-0.911,26.0,55.8,21.8,4.4,1053.0,188.0,15.0,1,27.0,0,0,60.8,136.0,4.54,10.13,Culture
+Madrid,Spain,Europe,Community of Madrid,38.44,-6.14,186.0,21.8,25.5,8.8,708.0,272.0,8.0,10,79.0,0,0,65.1,115.0,16.313,1.51,Culture
+Barcelona,Spain,Europe,Catalonia,37.647,-3.625,124.0,231.9,27.2,6.7,485.0,245.0,17.0,0,19.0,1,0,59.9,129.0,1.26,1.32,Culture
+Seville,Spain,Europe,Andalusia,41.226,-4.656,139.0,220.2,26.1,7.0,658.0,252.0,13.0,1,9.0,1,0,64.6,121.0,2.089,4.29,Culture
+Granada,Spain,Europe,Andalusia,40.694,-3.954,88.0,238.8,25.5,7.2,508.0,249.0,12.0,2,2.0,2,0,64.5,135.0,3.992,3.3,Culture
+Cordoba,Spain,Europe,Andalusia,40.411,-4.469,145.0,126.2,27.2,8.4,611.0,289.0,25.0,2,16.0,1,0,60.9,93.0,3.054,4.0,Culture
+Malaga,Spain,Europe,Andalusia,40.849,-5.13,127.0,34.2,28.2,10.1,547.0,287.0,15.0,1,17.0,1,1,55.8,105.0,6.323,4.68,Culture
+Marbella,Spain,Europe,Andalusia,39.268,-1.328,156.0,97.0,25.2,9.7,583.0,270.0,36.0,2,0.0,0,0,61.5,119.0,4.099,3.38,Luxury
+Ronda,Spain,Europe,Andalusia,39.532,-2.407,94.0,106.6,27.0,5.7,544.0,226.0,20.0,2,5.0,1,0,47.0,111.0,1.603,0.85,Culture
+Valencia,Spain,Europe,Valencia,42.144,-3.058,175.0,201.3,24.4,7.8,640.0,235.0,10.0,2,3.0,2,0,54.8,87.0,3.562,3.91,Culture
+Alicante,Spain,Europe,Valencia,39.159,-4.657,67.0,122.2,26.1,11.0,513.0,268.0,14.0,1,30.0,0,0,70.2,124.0,3.788,2.08,Culture
+Bilbao,Spain,Europe,Basque,41.442,-2.533,0,51.8,27.0,11.1,755.0,241.0,36.0,3,26.0,1,0,48.5,102.0,6.459,4.09,Culture
+San Sebastián,Spain,Europe,Basque,39.426,-0.543,0,115.4,26.1,9.9,614.0,266.0,22.0,0,24.0,1,0,50.4,112.0,4.807,4.94,Culture
+Santiago de Compostela,Spain,Europe,Galicia,39.227,-3.188,121.0,78.9,27.0,6.6,630.0,235.0,27.0,1,21.0,0,0,59.5,112.0,4.479,3.51,Culture
+Salamanca,Spain,Europe,Castile and León,38.49,-6.837,62.0,87.0,27.7,8.6,582.0,254.0,15.0,1,8.0,2,0,62.2,119.0,3.245,3.82,Culture
+Toledo,Spain,Europe,Castile-La Mancha,39.68,-4.032,45.0,35.5,26.8,10.9,773.0,277.0,21.0,1,12.0,1,0,53.0,91.0,5.078,14.99,Culture
+Segovia,Spain,Europe,Castile and León,38.003,-3.638,33.0,87.5,27.6,9.1,913.0,273.0,0,2,14.0,1,0,58.9,133.0,3.129,2.02,Culture
+Zaragoza,Spain,Europe,Aragon,40.648,-5.865,151.0,121.1,27.1,7.6,719.0,289.0,9.0,1,27.0,0,0,46.2,88.0,1.089,0.82,Culture
+Pamplona,Spain,Europe,Navarre,39.628,-4.944,222.0,118.0,25.1,6.3,878.0,271.0,0,1,39.0,0,0,56.1,127.0,1.323,1.07,Culture
+Ibiza,Spain,Europe,Balearic Islands,36.652,-3.896,99.0,0.2,25.9,8.6,592.0,278.0,3.0,3,2.0,1,0,58.5,113.0,15.265,217.64,Relaxation
+Mallorca - Palma,Spain,Europe,Balearic Islands,41.115,-3.055,209.0,2.7,26.4,10.7,690.0,246.0,3.0,3,2.0,0,0,61.4,139.0,11.76,14.66,Relaxation
+Menorca,Spain,Europe,Balearic Islands,40.217,-4.782,187.0,0.2,23.1,8.6,836.0,234.0,28.0,2,3.0,2,0,73.1,129.0,9.253,19.92,Relaxation
+Formentera,Spain,Europe,Balearic Islands,40.053,-2.951,116.0,2.7,26.6,10.2,685.0,237.0,6.0,2,8.0,0,1,60.6,130.0,10.811,17.48,Relaxation
+Tenerife,Spain,Europe,Canary Islands,42.55,-1.841,310.0,1.3,24.8,8.4,768.0,268.0,20.0,2,9.0,1,2,69.8,147.0,7.228,13.81,Family
+Gran Canaria,Spain,Europe,Canary Islands,39.756,-5.215,119.0,2.8,26.4,11.2,683.0,232.0,22.0,2,2.0,0,0,72.0,127.0,12.75,172.19,Relaxation
+Lanzarote,Spain,Europe,Canary Islands,41.896,-2.075,55.0,1.9,25.7,10.9,761.0,240.0,0.0,0,8.0,1,0,56.3,106.0,14.078,15.34,Relaxation
+Fuerteventura,Spain,Europe,Canary Islands,37.606,-2.689,176.0,1.7,24.8,10.7,704.0,276.0,22.0,1,8.0,2,0,78.3,125.0,8.519,45.0,Relaxation
+La Palma,Spain,Europe,Canary Islands,39.031,-1.758,118.0,2.6,25.2,9.7,604.0,274.0,16.0,0,11.0,1,0,67.8,124.0,5.995,7.18,Adventure
+Sitges,Spain,Europe,Catalonia,39.336,-4.479,0,104.2,25.7,10.1,701.0,285.0,32.0,2,21.0,1,0,58.7,111.0,7.697,6.68,Relaxation
+Costa Brava,Spain,Europe,Catalonia,40.828,-4.741,153.0,158.6,25.7,8.3,830.0,268.0,25.0,0,8.0,2,0,63.9,133.0,3.092,2.89,Relaxation
+Lisbon,Portugal,Europe,Lisbon,37.572,-10.316,114.0,149.5,23.0,10.3,814.0,248.0,4.0,4,49.0,0,1,70.9,114.0,8.287,4.42,Culture
+Porto,Portugal,Europe,Norte,37.557,-6.651,219.0,1.9,22.8,10.2,917.0,236.0,20.0,0,5.0,1,0,60.3,117.0,3.959,13.0,Culture
+Sintra,Portugal,Europe,Lisbon,38.408,-8.663,27.0,149.0,25.2,10.8,576.0,274.0,3.0,1,10.0,1,0,50.0,100.0,0.903,5.97,Culture
+Cascais,Portugal,Europe,Lisbon,43.48,-7.171,241.0,92.9,20.8,12.3,884.0,225.0,26.0,0,16.0,1,0,63.5,107.0,0.856,4.18,Relaxation
+Évora,Portugal,Europe,Alentejo,41.808,-8.092,211.0,66.5,19.9,8.8,822.0,230.0,5.0,0,0.0,2,0,52.8,96.0,0.372,0.96,Culture
+Algarve - Lagos,Portugal,Europe,Algarve,39.891,-6.839,114.0,170.2,24.3,9.1,700.0,214.0,13.0,0,14.0,0,0,50.2,78.0,1.525,4.44,Relaxation
+Algarve - Faro,Portugal,Europe,Algarve,40.286,-7.502,111.0,212.3,23.5,9.3,848.0,201.0,14.0,0,10.0,2,0,60.5,141.0,1.584,4.55,Relaxation
+Algarve - Albufeira,Portugal,Europe,Algarve,39.03,-9.283,130.0,45.9,23.8,11.6,846.0,252.0,14.0,1,0,0,0,66.3,101.0,1.405,12.25,Relaxation
+Algarve - Tavira,Portugal,Europe,Algarve,39.439,-6.878,175.0,77.1,22.8,11.0,859.0,192.0,10.0,0,20.0,1,0,49.6,91.0,1.578,5.33,Relaxation
+Madeira - Funchal,Portugal,Europe,Madeira,40.492,-8.374,157.0,230.7,22.5,12.0,866.0,250.0,24.0,1,18.0,1,0,62.1,96.0,1.797,6.95,Adventure
+Azores - São Miguel,Portugal,Europe,Azores,37.24,-7.432,25.0,141.5,22.1,13.4,1069.0,263.0,21.0,1,4.0,0,0,57.0,104.0,1.141,3.43,Adventure
+Azores - Pico,Portugal,Europe,Azores,39.173,-10.298,148.0,125.1,24.3,10.6,936.0,211.0,0.0,1,16.0,2,0,52.5,88.0,2.974,13.82,Adventure
+Coimbra,Portugal,Europe,Centro,40.675,-8.291,169.0,51.1,21.7,8.0,994.0,236.0,12.0,1,17.0,1,0,53.8,84.0,0.626,0.79,Culture
+Braga,Portugal,Europe,Norte,41.707,-8.817,146.0,245.1,24.1,7.9,1019.0,237.0,13.0,0,0,0,0,51.3,113.0,1.772,9.01,Culture
+Aveiro,Portugal,Europe,Centro,38.775,-7.582,0,23.6,24.2,11.7,1052.0,245.0,8.0,1,21.0,1,0,51.9,106.0,0.998,1.49,Culture
+Óbidos,Portugal,Europe,Centro,40.117,-8.203,50.0,157.5,23.2,9.5,823.0,250.0,6.0,0,18.0,0,1,68.4,100.0,1.028,1.32,Culture
+Nazaré,Portugal,Europe,Centro,38.373,-5.215,77.0,200.7,23.0,11.9,938.0,255.0,8.0,1,11.0,0,1,48.1,90.0,1.046,2.81,Adventure
+Douro Valley,Portugal,Europe,Norte,40.312,-8.056,192.0,38.2,21.7,10.2,569.0,232.0,24.0,1,10.0,0,1,72.4,114.0,1.506,9.04,Luxury
+Athens,Greece,Europe,Attica,38.381,22.339,116.0,235.5,28.8,9.1,784.0,270.0,8.0,2,67.0,0,1,64.7,135.0,6.576,2.83,Culture
+Thessaloniki,Greece,Europe,Macedonia,37.964,18.478,151.0,186.2,28.1,7.7,679.0,288.0,34.0,1,12.0,0,0,62.0,119.0,1.332,3.9,Culture
+Santorini,Greece,Europe,Cyclades,40.098,19.084,121.0,2.1,27.2,12.9,895.0,264.0,9.0,1,6.0,0,0,67.9,141.0,6.371,37.6,Luxury
+Mykonos,Greece,Europe,Cyclades,38.771,25.296,186.0,0.1,27.5,10.2,682.0,264.0,19.0,1,8.0,0,0,63.3,119.0,4.28,349.34,Luxury
+Naxos,Greece,Europe,Cyclades,39.013,20.424,108.0,244.8,30.5,9.6,553.0,235.0,19.0,0,5.0,0,0,60.0,122.0,2.604,12.36,Relaxation
+Paros,Greece,Europe,Cyclades,38.415,22.132,244.0,89.0,27.6,7.9,819.0,268.0,25.0,0,9.0,1,0,51.1,102.0,1.112,3.18,Relaxation
+Milos,Greece,Europe,Cyclades,40.06,24.024,175.0,29.8,28.4,11.8,751.0,254.0,19.0,1,8.0,2,0,52.2,92.0,2.602,8.69,Relaxation
+Ios,Greece,Europe,Cyclades,38.522,21.358,139.0,57.4,28.2,11.9,459.0,300.0,7.0,0,19.0,0,0,70.3,129.0,2.31,6.01,Relaxation
+Crete - Heraklion,Greece,Europe,Crete,37.838,19.254,203.0,0.1,26.4,14.0,595.0,271.0,25.0,1,4.0,1,0,67.7,110.0,5.694,43.65,Relaxation
+Crete - Chania,Greece,Europe,Crete,39.428,21.887,50.0,0.3,28.5,11.0,650.0,283.0,19.0,1,8.0,2,0,60.6,114.0,4.223,342.05,Relaxation
+Crete - Rethymno,Greece,Europe,Crete,37.497,19.021,192.0,2.2,23.9,8.7,722.0,296.0,13.0,0,4.0,1,0,53.0,110.0,2.665,46.88,Relaxation
+Rhodes,Greece,Europe,Dodecanese,39.059,20.102,44.0,0.6,28.4,11.6,825.0,264.0,2.0,0,1.0,1,0,66.2,120.0,4.66,46.14,Relaxation
+Kos,Greece,Europe,Dodecanese,40.938,22.885,192.0,93.4,27.6,6.6,850.0,262.0,11.0,1,13.0,1,1,76.3,172.0,0.449,1.48,Family
+Patmos,Greece,Europe,Dodecanese,41.318,23.285,101.0,203.5,28.6,8.8,770.0,239.0,12.0,0,4.0,1,0,62.1,114.0,1.542,6.78,Relaxation
+Corfu,Greece,Europe,Ionian,38.9,24.692,61.0,1.6,27.9,9.7,841.0,254.0,12.0,1,5.0,1,0,60.5,119.0,2.253,13.97,Relaxation
+Zakynthos,Greece,Europe,Ionian,35.881,22.717,143.0,71.1,28.0,7.2,618.0,256.0,7.0,1,14.0,2,0,63.3,127.0,2.418,7.91,Relaxation
+Kefalonia,Greece,Europe,Ionian,38.696,20.938,180.0,200.4,26.7,8.6,803.0,290.0,11.0,0,8.0,0,0,59.9,114.0,1.974,8.12,Relaxation
+Meteora,Greece,Europe,Thessaly,37.95,20.973,194.0,126.3,28.2,6.7,717.0,299.0,2.0,1,15.0,1,0,55.4,101.0,0.477,5.57,Adventure
+Delphi,Greece,Europe,Central Greece,36.272,22.892,83.0,95.0,27.6,9.8,743.0,250.0,6.0,4,13.0,2,0,53.4,106.0,4.664,9.09,Culture
+Nafplio,Greece,Europe,Peloponnese,36.611,21.185,59.0,74.9,29.5,10.6,723.0,287.0,4.0,0,2.0,1,0,51.7,85.0,0.511,3.19,Culture
+Olympia,Greece,Europe,Peloponnese,38.412,21.367,128.0,102.6,28.8,9.2,770.0,219.0,3.0,1,7.0,1,0,59.2,118.0,0.422,3.28,Culture
+Mystras,Greece,Europe,Peloponnese,37.985,21.162,255.0,150.1,27.5,6.6,498.0,268.0,14.0,1,17.0,2,0,49.3,86.0,2.456,7.85,Culture
+Lesbos,Greece,Europe,North Aegean,38.955,19.746,412.0,123.4,25.0,9.6,303.0,296.0,16.0,1,2.0,2,0,61.1,115.0,1.632,4.92,Relaxation
+Skiathos,Greece,Europe,Sporades,37.247,19.77,2276.0,133.9,13.6,-8.6,892.0,189.0,53.0,1,6.0,2,1,80.6,199.0,1.62,17.16,Relaxation
+Hydra,Greece,Europe,Saronic,39.758,20.87,84.0,195.1,26.3,8.7,529.0,255.0,11.0,0,0,0,0,63.9,112.0,0.849,3.84,Relaxation
+Berlin,Germany,Europe,Berlin,48.368,8.014,140.0,243.6,17.7,-1.4,633.0,173.0,1.0,9,151.0,1,0,79.6,144.0,8.56,0.45,Culture
+Munich,Germany,Europe,Bavaria,51.758,5.884,122.0,164.0,17.8,0.3,778.0,167.0,30.0,1,34.0,0,1,67.5,136.0,0.458,0.31,Culture
+Hamburg,Germany,Europe,Hamburg,52.926,11.463,105.0,163.9,18.0,-0.1,561.0,155.0,35.0,0,27.0,2,0,77.7,154.0,2.668,0.8,Culture
+Cologne,Germany,Europe,North Rhine-Westphalia,50.295,10.499,191.0,188.1,18.3,0.8,875.0,165.0,29.0,3,26.0,0,0,71.0,128.0,1.246,1.19,Culture
+Frankfurt,Germany,Europe,Hesse,50.963,5.506,56.0,70.0,17.8,1.3,752.0,175.0,44.0,1,13.0,0,0,65.9,102.0,1.866,0.69,Culture
+Heidelberg,Germany,Europe,Baden-Württemberg,49.936,6.387,83.0,139.1,17.6,-2.0,786.0,159.0,36.0,3,35.0,0,0,73.5,156.0,0.499,0.34,Culture
+Black Forest,Germany,Europe,Baden-Württemberg,50.398,11.808,164.0,145.7,16.9,0.7,944.0,165.0,54.0,3,4.0,1,1,70.0,122.0,3.248,1.95,Adventure
+Rothenburg ob der Tauber,Germany,Europe,Bavaria,49.246,11.648,75.0,39.2,18.3,3.5,955.0,167.0,32.0,1,14.0,0,0,66.9,135.0,1.012,0.32,Culture
+Nuremberg,Germany,Europe,Bavaria,52.54,11.833,231.0,171.4,18.1,-0.4,821.0,161.0,34.0,2,20.0,1,0,67.7,117.0,2.374,0.88,Culture
+Bamberg,Germany,Europe,Bavaria,53.675,10.665,116.0,183.8,18.7,-0.3,773.0,148.0,36.0,2,19.0,1,0,78.6,143.0,2.2,5.15,Culture
+Würzburg,Germany,Europe,Bavaria,51.149,9.756,193.0,231.7,18.1,1.4,1130.0,183.0,37.0,2,23.0,0,0,74.0,138.0,1.52,0.8,Culture
+Garmisch-Partenkirchen,Germany,Europe,Bavaria,51.77,9.273,196.0,239.4,14.5,1.3,868.0,155.0,52.0,1,25.0,0,0,78.0,141.0,1.188,0.36,Adventure
+Berchtesgaden,Germany,Europe,Bavaria,53.594,9.952,109.0,203.1,16.8,2.3,1071.0,176.0,35.0,2,26.0,1,0,74.8,146.0,0.497,0.25,Adventure
+Dresden,Germany,Europe,Saxony,51.13,12.321,373.0,183.7,18.1,1.4,979.0,172.0,26.0,2,11.0,0,0,80.5,123.0,1.701,2.82,Culture
+Leipzig,Germany,Europe,Saxony,50.585,9.098,80.0,233.0,20.7,-1.7,969.0,154.0,43.0,1,30.0,2,0,62.8,107.0,0.759,0.51,Culture
+Weimar,Germany,Europe,Thuringia,51.21,7.825,0,40.8,19.5,1.5,685.0,155.0,20.0,1,29.0,0,1,67.9,134.0,2.763,2.97,Culture
+Lübeck,Germany,Europe,Schleswig-Holstein,53.813,8.836,25.0,41.8,18.3,3.0,953.0,163.0,35.0,3,27.0,1,0,77.8,126.0,0.868,0.31,Culture
+Sylt,Germany,Europe,Schleswig-Holstein,51.543,10.1,191.0,49.6,17.0,2.1,648.0,158.0,36.0,1,31.0,1,0,74.2,117.0,3.108,2.53,Luxury
+Rügen,Germany,Europe,Mecklenburg,50.198,10.378,36.0,168.9,17.7,-2.3,802.0,155.0,34.0,1,16.0,2,0,86.1,147.0,1.419,0.56,Relaxation
+Mosel Valley,Germany,Europe,Rhineland-Palatinate,48.405,10.444,62.0,94.0,19.9,0.5,833.0,157.0,32.0,3,23.0,1,0,86.1,171.0,0.662,0.28,Luxury
+London,United Kingdom,Europe,England,53.714,1.662,144.0,249.2,16.9,4.6,1476.0,143.0,4.0,7,104.0,0,1,92.6,199.0,10.47,0.65,Culture
+Edinburgh,United Kingdom,Europe,Scotland,52.222,-3.001,210.0,222.8,19.9,2.3,1108.0,135.0,30.0,0,24.0,0,0,86.5,170.0,0.688,0.31,Culture
+Glasgow,United Kingdom,Europe,Scotland,54.356,-2.516,195.0,52.6,18.2,5.1,1255.0,137.0,33.0,1,16.0,1,0,64.8,158.0,3.407,1.32,Culture
+Isle of Skye,United Kingdom,Europe,Scotland,53.451,-2.997,241.0,2.8,17.0,5.8,1059.0,134.0,12.0,1,5.0,0,1,93.5,158.0,10.123,93.54,Adventure
+Loch Ness,United Kingdom,Europe,Scotland,51.296,-4.703,781.0,150.7,10.3,-1.5,1308.0,154.0,38.0,0,44.0,0,0,81.4,156.0,2.462,2.13,Adventure
+Inverness,United Kingdom,Europe,Scotland,54.074,-1.264,0,31.1,16.8,5.6,1203.0,150.0,37.0,1,17.0,1,0,80.0,154.0,0.301,0.79,Adventure
+St Andrews,United Kingdom,Europe,Scotland,54.81,-2.066,158.0,98.6,17.5,3.4,1521.0,152.0,39.0,2,21.0,1,0,72.8,143.0,1.153,0.44,Culture
+Oban,United Kingdom,Europe,Scotland,54.2,-4.14,175.0,232.9,15.2,3.3,1074.0,145.0,20.0,1,28.0,0,0,74.4,174.0,0.39,0.53,Adventure
+Manchester,United Kingdom,Europe,England,53.41,-2.215,152.0,214.1,16.6,5.4,809.0,141.0,41.0,0,27.0,1,0,76.3,171.0,0.542,0.26,Culture
+Liverpool,United Kingdom,Europe,England,55.173,-2.42,91.0,99.1,14.3,3.4,887.0,132.0,40.0,1,9.0,2,0,84.7,176.0,2.425,5.82,Culture
+Birmingham,United Kingdom,Europe,England,55.433,-4.175,78.0,151.4,18.2,4.4,1305.0,136.0,36.0,0,20.0,0,0,81.1,155.0,3.241,3.45,Culture
+York,United Kingdom,Europe,England,53.964,1.754,26.0,35.4,16.9,5.8,1027.0,148.0,10.0,2,26.0,2,0,86.8,179.0,2.176,3.82,Culture
+Bath,United Kingdom,Europe,England,53.194,0.74,206.0,200.7,18.3,1.4,1212.0,134.0,23.0,1,13.0,0,0,64.7,132.0,1.729,1.94,Culture
+Cambridge,United Kingdom,Europe,England,54.76,-2.12,0,226.3,20.2,5.4,1047.0,149.0,15.0,0,22.0,0,0,79.7,192.0,1.99,2.57,Culture
+Oxford,United Kingdom,Europe,England,55.546,-1.105,265.0,190.4,16.4,0.3,1203.0,128.0,35.0,1,28.0,0,0,75.9,158.0,0.568,1.38,Culture
+Brighton,United Kingdom,Europe,England,53.291,-0.204,144.0,65.8,16.2,5.3,742.0,155.0,27.0,1,16.0,1,0,82.5,171.0,2.816,1.44,Relaxation
+Cornwall - St Ives,United Kingdom,Europe,England,56.723,-2.432,197.0,57.5,13.9,2.0,1278.0,127.0,27.0,1,16.0,0,1,86.4,167.0,2.647,3.08,Relaxation
+Cornwall - Penzance,United Kingdom,Europe,England,54.684,-5.72,0,183.9,17.8,3.8,1406.0,127.0,23.0,1,23.0,2,0,79.9,164.0,1.069,0.58,Relaxation
+Lake District,United Kingdom,Europe,England,51.539,-3.304,265.0,100.4,15.6,5.4,1079.0,146.0,26.0,1,27.0,0,0,69.6,169.0,2.808,2.19,Adventure
+Cotswolds,United Kingdom,Europe,England,53.651,-1.005,213.0,88.0,16.8,4.9,989.0,139.0,17.0,2,25.0,0,0,77.1,135.0,1.392,1.34,Luxury
+Stonehenge area,United Kingdom,Europe,England,55.058,0.566,58.0,128.3,17.3,4.5,782.0,117.0,22.0,8,39.0,0,0,79.4,163.0,4.58,2.42,Culture
+Cardiff,United Kingdom,Europe,Wales,53.2,1.756,0,154.2,18.4,5.5,1074.0,150.0,22.0,2,17.0,0,1,72.2,154.0,2.901,1.19,Culture
+Snowdonia,United Kingdom,Europe,Wales,54.831,-2.093,2007.0,137.7,5.9,-7.4,1271.0,118.0,106.0,1,4.0,2,0,71.6,124.0,1.699,1.27,Adventure
+Belfast,United Kingdom,Europe,Northern Ireland,55.162,-2.192,121.0,142.8,16.9,0.6,1359.0,128.0,28.0,0,21.0,0,0,85.9,184.0,0.447,1.01,Culture
+Giant's Causeway,United Kingdom,Europe,Northern Ireland,53.973,0.092,92.0,139.7,16.1,4.2,1059.0,134.0,42.0,1,22.0,0,1,84.7,186.0,2.237,1.3,Adventure
+Dublin,Ireland,Europe,Leinster,52.213,-7.069,187.0,169.6,16.2,4.5,1091.0,143.0,23.0,0,54.0,0,0,90.5,191.0,1.556,1.52,Culture
+Galway,Ireland,Europe,Connacht,52.502,-9.157,71.0,172.2,14.0,3.5,1015.0,127.0,29.0,0,3.0,0,0,77.7,163.0,0.916,10.45,Culture
+Cork,Ireland,Europe,Munster,50.213,-8.997,145.0,146.1,15.6,2.8,956.0,131.0,31.0,0,7.0,2,0,74.0,141.0,0.302,4.62,Culture
+Killarney,Ireland,Europe,Munster,52.316,-6.329,115.0,126.8,14.9,4.8,1259.0,132.0,30.0,0,0,0,1,90.0,168.0,0.713,3.71,Adventure
+Dingle,Ireland,Europe,Munster,51.931,-8.373,249.0,105.7,13.1,4.0,923.0,137.0,35.0,0,0,1,0,90.9,177.0,0.337,3.44,Adventure
+Cliffs of Moher,Ireland,Europe,Munster,54.291,-11.031,42.0,176.0,15.2,6.1,1070.0,132.0,19.0,0,0,0,0,81.5,141.0,0.152,0.86,Adventure
+Aran Islands,Ireland,Europe,Connacht,53.848,-11.26,100.0,2.2,15.9,9.5,1394.0,121.0,10.0,0,1.0,0,0,87.7,166.0,1.866,305.54,Adventure
+Connemara,Ireland,Europe,Connacht,50.193,-5.825,82.0,127.9,13.7,4.5,1102.0,121.0,23.0,0,12.0,2,0,76.2,159.0,0.823,7.97,Adventure
+Kilkenny,Ireland,Europe,Leinster,51.449,-6.277,184.0,170.3,14.8,4.7,1097.0,130.0,38.0,0,12.0,1,1,76.5,142.0,0.59,3.41,Culture
+Wicklow Mountains,Ireland,Europe,Leinster,55.358,-9.683,1640.0,309.3,6.1,-6.7,1265.0,121.0,101.0,0,1.0,2,0,80.1,164.0,0.618,3.66,Adventure
+Donegal,Ireland,Europe,Ulster,52.928,-10.05,119.0,47.8,15.0,4.9,989.0,133.0,21.0,0,6.0,2,0,85.6,150.0,0.533,2.75,Adventure
+Ring of Kerry,Ireland,Europe,Munster,55.448,-7.911,40.0,154.6,14.3,7.1,942.0,143.0,19.0,0,8.0,2,0,71.9,151.0,0.497,3.4,Adventure
+Amsterdam,Netherlands,Europe,North Holland,52.517,7.514,83.0,205.1,18.3,3.8,1009.0,172.0,4.0,3,31.0,0,0,84.7,161.0,4.699,2.18,Culture
+Rotterdam,Netherlands,Europe,South Holland,51.496,0.23,164.0,166.5,18.3,1.3,599.0,144.0,13.0,1,7.0,2,0,78.6,171.0,0.182,1.0,Culture
+The Hague,Netherlands,Europe,South Holland,52.019,4.328,120.0,85.9,16.5,2.2,1143.0,156.0,10.0,1,24.0,0,0,83.9,150.0,1.046,3.12,Culture
+Utrecht,Netherlands,Europe,Utrecht,49.828,5.255,79.0,30.8,15.7,1.3,958.0,165.0,3.0,1,22.0,0,0,87.4,179.0,1.071,2.01,Culture
+Delft,Netherlands,Europe,South Holland,50.991,2.815,16.0,198.5,17.4,4.1,822.0,169.0,32.0,0,14.0,1,0,77.5,139.0,1.548,16.54,Culture
+Haarlem,Netherlands,Europe,North Holland,49.047,6.489,298.0,157.3,16.7,1.4,638.0,166.0,11.0,1,7.0,1,0,88.1,147.0,0.404,0.93,Culture
+Maastricht,Netherlands,Europe,Limburg,51.358,6.558,208.0,96.1,15.5,0.7,1211.0,149.0,10.0,0,10.0,0,0,70.1,161.0,0.903,1.3,Culture
+Giethoorn,Netherlands,Europe,Overijssel,51.957,3.896,286.0,108.8,14.7,-0.0,819.0,180.0,8.0,0,12.0,0,0,76.5,155.0,0.359,0.51,Culture
+Keukenhof,Netherlands,Europe,South Holland,52.77,3.058,82.0,164.8,16.9,3.0,1076.0,164.0,12.0,1,19.0,1,0,82.3,170.0,0.746,2.49,Culture
+Leiden,Netherlands,Europe,South Holland,52.927,5.849,148.0,152.2,15.6,2.2,967.0,146.0,27.0,0,21.0,2,0,83.9,179.0,0.298,0.48,Culture
+Brussels,Belgium,Europe,Brussels,49.389,6.343,90.0,159.5,19.2,1.7,1193.0,143.0,14.0,2,49.0,1,1,83.8,140.0,2.577,0.96,Culture
+Bruges,Belgium,Europe,West Flanders,51.955,2.358,132.0,221.2,17.1,2.4,885.0,149.0,17.0,0,12.0,1,0,82.5,150.0,0.188,0.64,Culture
+Ghent,Belgium,Europe,East Flanders,50.487,5.487,71.0,32.5,16.2,2.6,385.0,142.0,17.0,0,5.0,0,0,68.8,127.0,0.549,5.87,Culture
+Antwerp,Belgium,Europe,Antwerp Province,48.146,1.571,84.0,161.8,18.7,1.8,1040.0,149.0,17.0,0,7.0,0,0,76.8,133.0,0.277,0.87,Culture
+Leuven,Belgium,Europe,Flemish Brabant,49.659,6.493,0,132.0,18.7,4.7,989.0,169.0,25.0,1,12.0,0,0,78.5,155.0,0.464,1.67,Culture
+Dinant,Belgium,Europe,Namur,50.625,3.127,181.0,225.6,17.0,-0.3,795.0,168.0,29.0,1,0,0,0,67.7,121.0,0.58,1.52,Culture
+Ardennes,Belgium,Europe,Wallonia,51.22,1.913,168.0,122.6,18.1,3.5,1187.0,142.0,0,1,0.0,0,0,66.6,119.0,0.586,2.3,Culture
+Zurich,Switzerland,Europe,Zurich,47.183,6.285,264.0,29.2,15.1,-3.1,1026.0,189.0,117.0,0,7.0,2,0,106.0,212.0,0.918,4.42,Luxury
+Geneva,Switzerland,Europe,Geneva,44.468,11.258,46.0,219.6,17.6,-3.0,1119.0,157.0,113.0,0,9.0,1,0,101.7,183.0,0.25,2.12,Luxury
+Bern,Switzerland,Europe,Bern,47.698,5.241,29.0,68.5,18.0,0.3,1418.0,174.0,8.0,2,54.0,0,1,128.1,261.0,3.877,2.68,Culture
+Lucerne,Switzerland,Europe,Lucerne,48.897,7.653,213.0,208.9,15.3,-1.4,1055.0,158.0,113.0,0,9.0,0,0,127.9,253.0,0.397,1.46,Culture
+Interlaken,Switzerland,Europe,Bernese Oberland,45.893,10.036,554.0,153.5,14.0,-4.1,1216.0,196.0,19.0,0,7.0,0,0,111.0,223.0,0.122,0.48,Adventure
+Zermatt,Switzerland,Europe,Valais,46.308,10.233,1502.0,380.1,7.4,-16.5,1275.0,124.0,104.0,1,0,3,0,159.3,267.0,0.575,2.17,Luxury
+St. Moritz,Switzerland,Europe,Graubünden,47.457,8.818,2120.0,154.4,4.8,-20.7,1743.0,136.0,95.0,1,6.0,3,0,150.2,321.0,0.205,1.15,Luxury
+Davos,Switzerland,Europe,Graubünden,45.351,6.862,2197.0,260.7,3.2,-23.8,985.0,138.0,90.0,1,2.0,3,0,143.9,284.0,0.766,2.77,Luxury
+Verbier,Switzerland,Europe,Valais,48.149,5.881,2472.0,222.9,1.7,-22.9,1602.0,156.0,63.0,1,5.0,4,0,139.6,268.0,0.63,8.65,Luxury
+Gstaad,Switzerland,Europe,Bern,45.282,8.042,2292.0,311.8,4.3,-19.5,1422.0,139.0,63.0,1,6.0,2,0,157.5,315.0,0.933,6.9,Luxury
+Lausanne,Switzerland,Europe,Vaud,48.784,8.767,62.0,59.0,17.5,-0.3,1133.0,178.0,120.0,1,9.0,1,0,94.6,225.0,0.842,3.86,Culture
+Montreux,Switzerland,Europe,Vaud,46.513,5.669,56.0,207.6,17.1,-0.8,1603.0,157.0,123.0,0,12.0,2,0,109.8,235.0,0.747,2.33,Luxury
+Lugano,Switzerland,Europe,Ticino,47.558,5.787,49.0,149.5,14.8,-1.0,769.0,185.0,117.0,0,6.0,0,0,105.4,215.0,0.561,1.89,Luxury
+Jungfrau,Switzerland,Europe,Bernese Oberland,45.607,9.176,1550.0,304.3,7.8,-9.8,835.0,156.0,63.0,0,5.0,2,0,120.9,293.0,0.406,3.76,Adventure
+Grindelwald,Switzerland,Europe,Bernese Oberland,43.795,7.829,0,67.6,18.3,0.1,1015.0,165.0,138.0,1,18.0,1,0,116.7,236.0,0.354,1.0,Adventure
+Vienna,Austria,Europe,Vienna,47.732,17.716,23.0,132.9,22.5,-1.5,878.0,190.0,7.0,3,36.0,1,1,71.0,167.0,5.59,3.49,Culture
+Salzburg,Austria,Europe,Salzburg,45.864,14.396,130.0,175.0,18.8,-1.4,692.0,202.0,108.0,0,13.0,2,0,61.6,132.0,1.182,6.32,Culture
+Innsbruck,Austria,Europe,Tyrol,46.07,9.482,23.0,177.8,20.6,-3.4,969.0,163.0,109.0,1,3.0,0,0,59.7,122.0,1.794,12.42,Adventure
+Hallstatt,Austria,Europe,Upper Austria,46.184,12.985,125.0,217.5,19.7,-1.6,958.0,189.0,104.0,0,23.0,1,0,61.9,127.0,0.949,3.66,Adventure
+Graz,Austria,Europe,Styria,48.783,12.433,55.0,169.5,16.4,-2.4,869.0,192.0,88.0,0,6.0,0,0,65.9,127.0,1.23,5.04,Culture
+Kitzbühel,Austria,Europe,Tyrol,49.867,10.999,1593.0,131.8,8.6,-16.2,1456.0,151.0,99.0,1,3.0,2,0,107.8,188.0,2.244,26.59,Luxury
+St. Anton,Austria,Europe,Tyrol,47.61,16.016,2467.0,319.9,4.3,-20.6,1700.0,169.0,72.0,1,3.0,3,0,91.5,187.0,0.751,6.11,Luxury
+Wachau Valley,Austria,Europe,Lower Austria,44.919,13.902,230.0,50.2,18.7,-2.8,734.0,156.0,100.0,1,15.0,2,1,80.1,163.0,0.963,3.43,Culture
+Zell am See,Austria,Europe,Salzburg,47.01,16.033,60.0,167.2,17.0,-2.1,784.0,181.0,112.0,0,11.0,0,0,64.0,102.0,0.287,0.86,Adventure
+Bad Gastein,Austria,Europe,Salzburg,48.903,16.652,90.0,22.1,18.5,-1.1,902.0,182.0,98.0,0,13.0,1,0,71.4,131.0,1.692,8.14,Relaxation
+Prague,Czech Republic,Europe,Prague,50.399,16.351,15.0,179.6,18.7,1.1,559.0,168.0,9.0,2,47.0,0,1,50.9,103.0,1.785,0.73,Culture
+Český Krumlov,Czech Republic,Europe,South Bohemia,49.866,20.806,150.0,84.9,18.9,-0.8,701.0,170.0,37.0,0,8.0,1,1,48.1,78.0,0.213,0.66,Culture
+Karlovy Vary,Czech Republic,Europe,Karlovy Vary Region,46.728,17.531,159.0,64.2,19.2,-4.4,678.0,164.0,31.0,1,1.0,1,0,56.8,110.0,0.368,1.97,Culture
+Brno,Czech Republic,Europe,South Moravia,51.037,20.054,75.0,56.5,18.2,-3.9,593.0,168.0,22.0,0,8.0,0,1,46.8,84.0,0.333,3.62,Culture
+Kutná Hora,Czech Republic,Europe,Central Bohemia,50.61,15.565,110.0,29.7,18.6,-3.4,557.0,163.0,35.0,0,10.0,2,0,54.8,94.0,0.53,6.05,Culture
+Telč,Czech Republic,Europe,Vysočina,50.484,13.76,125.0,148.4,17.5,-2.9,798.0,156.0,40.0,1,9.0,1,1,45.6,87.0,0.265,1.54,Culture
+Olomouc,Czech Republic,Europe,Olomouc Region,48.88,15.323,56.0,211.2,19.9,-2.3,712.0,173.0,28.0,0,13.0,0,0,47.5,71.0,0.552,3.4,Culture
+Budapest,Hungary,Europe,Central Hungary,46.025,24.319,201.0,208.4,21.4,0.8,606.0,181.0,7.0,1,60.0,0,1,58.0,96.0,2.803,2.18,Culture
+Eger,Hungary,Europe,Northern Hungary,47.341,22.309,143.0,109.4,19.4,-0.8,571.0,187.0,21.0,0,20.0,0,0,49.0,78.0,0.872,2.41,Culture
+Pécs,Hungary,Europe,Southern Transdanubia,45.912,21.055,0,33.4,20.9,-1.2,580.0,161.0,24.0,0,10.0,0,0,43.6,83.0,0.361,1.16,Culture
+Lake Balaton,Hungary,Europe,Western Transdanubia,49.102,18.686,583.0,194.5,18.5,-5.9,641.0,197.0,29.0,0,2.0,0,0,44.6,89.0,0.64,1.6,Culture
+Szentendre,Hungary,Europe,Central Hungary,47.868,17.793,20.0,94.4,20.2,-0.0,735.0,176.0,27.0,0,2.0,1,0,38.0,64.0,0.322,0.89,Culture
+Debrecen,Hungary,Europe,Northern Great Plain,51.323,19.738,135.0,197.5,22.1,1.7,530.0,206.0,12.0,0,4.0,1,0,37.0,62.0,0.503,1.51,Culture
+Krakow,Poland,Europe,Lesser Poland,53.27,20.603,233.0,186.4,16.5,-3.3,536.0,169.0,7.0,1,23.0,1,0,43.9,69.0,1.934,3.05,Culture
+Warsaw,Poland,Europe,Masovia,53.166,18.037,157.0,197.2,17.7,-3.1,390.0,176.0,5.0,3,91.0,0,1,51.3,79.0,4.833,0.63,Culture
+Gdańsk,Poland,Europe,Pomerania,55.992,19.412,122.0,40.7,16.6,-5.2,679.0,167.0,28.0,0,14.0,1,0,38.8,70.0,0.366,0.39,Culture
+Wrocław,Poland,Europe,Lower Silesia,49.826,19.721,157.0,189.2,19.5,-3.0,642.0,162.0,12.0,1,25.0,1,0,39.9,59.0,1.666,4.01,Culture
+Zakopane,Poland,Europe,Lesser Poland,50.367,22.508,2544.0,279.4,-0.1,-22.3,864.0,152.0,102.0,0,6.0,4,0,71.4,100.0,1.247,3.69,Adventure
+Auschwitz-Birkenau,Poland,Europe,Lesser Poland,51.774,19.092,125.0,68.1,17.4,-3.1,517.0,159.0,5.0,0,16.0,0,0,45.0,78.0,1.387,2.52,Culture
+Wieliczka,Poland,Europe,Lesser Poland,52.37,14.797,162.0,35.3,17.0,-4.9,687.0,154.0,27.0,1,19.0,1,0,41.6,67.0,0.832,1.9,Culture
+Poznań,Poland,Europe,Greater Poland,54.761,17.286,120.0,233.1,19.1,-2.6,504.0,158.0,16.0,0,17.0,1,0,46.1,65.0,0.582,0.83,Culture
+Toruń,Poland,Europe,Kuyavia-Pomerania,52.53,25.594,120.0,237.2,19.0,-3.1,541.0,171.0,32.0,1,24.0,2,1,41.3,78.0,0.929,1.18,Culture
+Białowieża Forest,Poland,Europe,Podlaskie,52.579,21.467,2255.0,298.9,5.6,-21.4,919.0,127.0,30.0,1,0,2,0,62.9,101.0,1.056,0.92,Adventure
+Dubrovnik,Croatia,Europe,Dalmatia,46.154,19.003,132.0,93.3,23.4,6.9,876.0,210.0,46.0,0,0,0,0,42.5,102.0,1.385,24.15,Culture
+Split,Croatia,Europe,Dalmatia,44.008,14.907,134.0,102.6,24.9,2.5,770.0,196.0,30.0,0,0,1,0,50.7,100.0,1.872,12.52,Culture
+Zagreb,Croatia,Europe,Central Croatia,46.013,15.063,94.0,67.0,22.7,5.0,1332.0,197.0,11.0,2,62.0,1,0,58.7,121.0,4.505,7.08,Culture
+Hvar,Croatia,Europe,Dalmatia,46.813,14.528,8.0,181.9,23.6,4.6,970.0,185.0,35.0,1,6.0,0,0,56.1,109.0,0.579,7.65,Relaxation
+Korčula,Croatia,Europe,Dalmatia,44.055,19.032,39.0,161.0,24.1,5.5,1019.0,241.0,45.0,0,5.0,2,1,53.5,123.0,0.96,21.32,Relaxation
+Brač,Croatia,Europe,Dalmatia,43.002,13.802,146.0,77.5,24.3,1.9,602.0,228.0,15.0,0,13.0,1,0,57.6,113.0,0.488,11.52,Relaxation
+Plitvice Lakes,Croatia,Europe,Lika,44.573,15.314,303.0,187.3,23.7,-0.1,1000.0,228.0,36.0,0,3.0,1,0,52.8,87.0,0.291,3.25,Adventure
+Zadar,Croatia,Europe,Dalmatia,45.057,11.87,121.0,159.8,22.4,3.3,849.0,204.0,17.0,0,10.0,2,0,54.9,109.0,0.707,17.52,Relaxation
+Pula,Croatia,Europe,Istria,45.463,18.073,141.0,158.8,22.8,3.6,1372.0,255.0,34.0,0,12.0,2,0,58.1,109.0,1.232,18.9,Relaxation
+Rovinj,Croatia,Europe,Istria,45.312,18.464,31.0,194.4,24.0,3.3,864.0,222.0,36.0,0,0.0,0,0,57.8,123.0,0.52,4.47,Relaxation
+Krka National Park,Croatia,Europe,Šibenik-Knin,41.792,20.859,25.0,86.1,23.0,3.0,400.0,211.0,49.0,1,4.0,3,0,54.3,93.0,0.479,13.12,Adventure
+Mljet,Croatia,Europe,Dalmatia,46.235,12.016,151.0,189.6,23.5,5.0,905.0,223.0,19.0,0,18.0,0,0,50.4,105.0,0.243,3.64,Relaxation
+Ljubljana,Slovenia,Europe,Central Slovenia,45.209,12.939,183.0,240.8,19.2,-3.0,1445.0,160.0,2.0,1,36.0,0,0,52.9,124.0,2.209,4.62,Adventure
+Lake Bled,Slovenia,Europe,Upper Carniola,44.983,17.278,539.0,297.0,17.0,-4.8,1186.0,178.0,29.0,0,7.0,0,0,46.3,105.0,0.402,8.04,Adventure
+Lake Bohinj,Slovenia,Europe,Upper Carniola,44.449,16.72,719.0,320.5,15.0,-6.9,1419.0,193.0,24.0,0,6.0,1,0,55.9,113.0,0.265,13.27,Adventure
+Triglav National Park,Slovenia,Europe,Upper Carniola,42.733,12.659,130.0,63.7,20.9,-3.0,831.0,186.0,80.0,0,6.0,3,0,48.4,89.0,0.058,0.78,Adventure
+Piran,Slovenia,Europe,Slovenian Istria,44.224,13.965,21.0,40.0,19.5,-1.0,886.0,187.0,70.0,0,15.0,0,0,49.5,107.0,0.111,3.82,Adventure
+Postojna Cave,Slovenia,Europe,Inner Carniola,46.271,17.781,131.0,138.2,19.5,-0.5,1150.0,198.0,73.0,0,0,0,0,60.3,122.0,0.116,3.14,Adventure
+Maribor,Slovenia,Europe,Lower Styria,46.587,16.71,161.0,182.1,20.3,-3.4,1114.0,175.0,69.0,0,11.0,2,0,62.4,111.0,0.46,22.98,Adventure
+Soča Valley,Slovenia,Europe,Goriška,47.489,13.935,227.0,196.3,15.7,-1.8,1484.0,215.0,75.0,0,13.0,1,0,60.4,123.0,0.207,9.43,Adventure
+Oslo,Norway,Europe,Eastern Norway,64.715,11.806,12.0,49.3,15.7,-1.4,1465.0,158.0,3.0,1,6.0,1,1,106.8,215.0,1.563,1.41,Culture
+Bergen,Norway,Europe,Western Norway,64.259,8.554,44.0,120.1,14.1,-5.1,1432.0,190.0,65.0,0,15.0,1,0,99.6,212.0,0.193,1.49,Culture
+Tromsø,Norway,Europe,Northern Norway,64.934,10.438,21.0,208.6,13.1,-1.2,1564.0,174.0,53.0,0,14.0,0,0,97.8,214.0,0.123,0.69,Adventure
+Lofoten Islands,Norway,Europe,Nordland,63.416,10.406,255.0,2.0,15.9,-2.7,1416.0,140.0,28.0,0,6.0,2,0,95.3,212.0,0.874,10.54,Adventure
+Geirangerfjord,Norway,Europe,Western Norway,64.35,8.981,243.0,219.1,12.6,-2.3,1226.0,177.0,40.0,0,4.0,4,0,77.9,169.0,0.157,0.88,Adventure
+Nærøyfjord,Norway,Europe,Western Norway,65.699,11.715,129.0,169.1,14.7,-1.4,1026.0,139.0,62.0,1,4.0,3,1,111.6,202.0,0.323,3.5,Adventure
+Trondheim,Norway,Europe,Trøndelag,64.945,11.819,203.0,21.7,10.7,-4.3,1353.0,160.0,57.0,0,2.0,0,0,109.4,225.0,0.352,1.79,Culture
+Stavanger,Norway,Europe,Western Norway,63.727,14.956,106.0,126.9,15.5,-2.2,1642.0,178.0,44.0,0,0,2,0,97.3,193.0,0.286,2.67,Culture
+Pulpit Rock area,Norway,Europe,Western Norway,62.84,11.288,37.0,240.9,14.1,-4.4,1956.0,177.0,45.0,0,0,0,0,92.4,194.0,0.065,0.6,Adventure
+Trolltunga area,Norway,Europe,Western Norway,66.869,12.059,143.0,200.3,13.0,-1.9,1369.0,180.0,44.0,0,0,0,0,98.6,216.0,0.285,9.24,Adventure
+North Cape,Norway,Europe,Northern Norway,65.444,16.706,99.0,1.8,15.5,-2.6,1545.0,156.0,4.0,0,10.0,0,0,109.1,256.0,0.452,4.77,Adventure
+Svalbard,Norway,Europe,Svalbard,63.756,10.45,246.0,193.1,11.3,-4.9,1321.0,155.0,57.0,0,19.0,1,0,79.0,182.0,0.251,1.45,Adventure
+Ålesund,Norway,Europe,Western Norway,65.561,9.266,46.0,82.7,13.4,-0.6,1389.0,188.0,30.0,0,9.0,2,0,90.4,155.0,0.063,1.7,Adventure
+Flåm,Norway,Europe,Western Norway,64.702,9.429,172.0,177.7,11.7,-2.2,1399.0,174.0,42.0,0,4.0,0,1,101.3,200.0,0.358,1.96,Adventure
+Hardangerfjord,Norway,Europe,Western Norway,63.879,6.716,36.0,226.1,13.5,-4.3,822.0,177.0,26.0,0,0,3,0,103.5,197.0,0.089,0.96,Adventure
+Stockholm,Sweden,Europe,Stockholm,60.814,16.545,118.0,206.9,16.4,-3.3,672.0,179.0,2.0,2,58.0,1,0,88.5,177.0,1.309,0.63,Culture
+Gothenburg,Sweden,Europe,Västra Götaland,62.399,15.066,105.0,134.5,16.3,-3.7,704.0,183.0,28.0,0,13.0,0,0,74.2,159.0,0.621,2.6,Culture
+Malmö,Sweden,Europe,Skåne,59.829,19.965,124.0,208.1,14.6,-3.6,693.0,175.0,18.0,1,0.0,0,0,72.6,175.0,0.196,0.8,Culture
+Uppsala,Sweden,Europe,Uppsala,60.761,17.88,96.0,88.7,15.9,-3.2,553.0,165.0,31.0,0,2.0,0,0,70.3,142.0,0.31,1.31,Culture
+Visby (Gotland),Sweden,Europe,Gotland,62.721,16.103,45.0,249.0,17.1,-3.2,608.0,176.0,36.0,1,17.0,1,1,70.3,151.0,0.496,2.24,Culture
+Abisko,Sweden,Europe,Norrbotten,62.577,19.33,141.0,1.9,17.0,1.2,827.0,182.0,30.0,0,2.0,2,0,79.8,152.0,0.427,2.62,Adventure
+Kiruna,Sweden,Europe,Norrbotten,62.048,11.732,185.0,245.9,15.3,-5.4,740.0,177.0,35.0,1,19.0,0,0,68.1,137.0,0.286,1.41,Adventure
+Lund,Sweden,Europe,Skåne,63.177,15.515,110.0,43.0,17.2,-5.4,603.0,177.0,21.0,0,8.0,0,0,70.6,161.0,0.16,1.6,Culture
+Sigtuna,Sweden,Europe,Stockholm,60.354,14.713,207.0,75.0,16.5,-2.3,459.0,167.0,19.0,1,5.0,1,0,59.8,124.0,0.258,0.81,Culture
+Copenhagen,Denmark,Europe,Capital Region,55.873,8.636,106.0,197.2,15.8,-0.7,833.0,181.0,3.0,2,0,0,0,109.5,201.0,2.481,1.87,Culture
+Aarhus,Denmark,Europe,Central Denmark,57.563,10.031,96.0,190.3,17.0,-0.0,784.0,146.0,31.0,0,18.0,2,0,80.8,129.0,0.315,3.95,Culture
+Odense,Denmark,Europe,Southern Denmark,56.719,8.861,148.0,225.0,17.5,0.9,886.0,165.0,18.0,0,17.0,1,0,78.7,143.0,0.723,17.0,Culture
+Skagen,Denmark,Europe,North Jutland,56.747,12.556,238.0,125.5,16.0,0.7,889.0,149.0,19.0,0,0,0,0,85.0,176.0,0.183,1.41,Culture
+Roskilde,Denmark,Europe,Zealand,55.593,9.667,2057.0,359.2,3.7,-17.3,1252.0,140.0,136.0,1,7.0,3,1,97.8,175.0,0.158,1.11,Culture
+Bornholm,Denmark,Europe,Capital Region,53.34,10.465,158.0,75.3,14.8,-0.2,742.0,156.0,0,0,3.0,0,0,94.5,176.0,0.712,4.67,Culture
+Helsinki,Finland,Europe,Uusimaa,65.656,25.67,200.0,62.5,17.1,-6.8,490.0,170.0,8.0,1,13.0,0,0,88.3,147.0,1.53,1.16,Culture
+Rovaniemi,Finland,Europe,Lapland,64.145,25.201,216.0,32.6,14.3,-6.3,545.0,175.0,24.0,0,1.0,0,0,73.4,120.0,0.069,0.68,Family
+Turku,Finland,Europe,Southwest Finland,61.896,25.287,109.0,220.4,14.3,-8.4,427.0,171.0,18.0,0,0,0,0,68.6,112.0,0.076,0.42,Culture
+Tampere,Finland,Europe,Pirkanmaa,63.194,23.779,91.0,204.0,18.0,-5.0,534.0,175.0,26.0,0,3.0,0,0,82.4,155.0,0.259,1.93,Culture
+Lake Saimaa,Finland,Europe,South Karelia,65.286,24.285,576.0,173.8,14.7,-11.1,667.0,179.0,15.0,0,10.0,0,0,81.4,130.0,0.193,0.99,Adventure
+Levi,Finland,Europe,Lapland,65.692,23.05,130.0,141.9,14.9,-8.3,389.0,158.0,21.0,0,20.0,1,1,82.0,144.0,0.264,1.47,Adventure
+Saariselkä,Finland,Europe,Lapland,64.247,24.818,330.0,213.0,14.2,-11.2,645.0,178.0,35.0,0,8.0,1,0,64.1,105.0,0.184,0.78,Adventure
+Reykjavik,Iceland,Europe,Capital Region,64.883,-18.995,111.0,25.7,13.1,-1.8,1391.0,122.0,15.0,1,77.0,0,1,110.8,236.0,0.809,8.09,Adventure
+Blue Lagoon,Iceland,Europe,Reykjanes,63.548,-21.997,51.0,1.3,12.6,0.5,1188.0,127.0,7.0,0,5.0,0,0,100.4,193.0,0.334,16.7,Adventure
+Golden Circle,Iceland,Europe,South,64.468,-15.538,134.0,122.5,10.9,-1.4,882.0,129.0,27.0,0,16.0,1,0,95.8,209.0,0.075,3.74,Adventure
+Vík,Iceland,Europe,South,65.106,-19.293,99.0,224.2,11.3,-2.2,899.0,132.0,30.0,0,0,1,0,100.9,200.0,0.095,4.77,Adventure
+Jökulsárlón,Iceland,Europe,Southeast,65.479,-14.745,87.0,40.3,9.2,1.2,803.0,137.0,29.0,0,0,0,0,79.1,180.0,0.082,4.08,Adventure
+Akureyri,Iceland,Europe,North,66.885,-17.436,260.0,55.4,9.8,0.4,939.0,126.0,29.0,0,0.0,0,0,86.2,207.0,0.074,3.69,Adventure
+Húsavík,Iceland,Europe,Northeast,64.172,-18.151,242.0,244.1,10.9,-2.9,996.0,128.0,32.0,0,16.0,1,1,86.7,178.0,0.043,2.14,Adventure
+Westfjords,Iceland,Europe,Westfjords,66.602,-22.613,85.0,138.2,11.5,-1.5,1249.0,140.0,16.0,0,2.0,4,0,86.9,164.0,0.033,1.64,Adventure
+Snæfellsnes,Iceland,Europe,West,64.7,-18.681,256.0,114.8,11.0,-2.1,1043.0,142.0,42.0,0,0,2,0,97.8,174.0,0.022,1.11,Adventure
+Landmannalaugar,Iceland,Europe,Highlands,66.657,-16.161,128.0,178.9,12.0,0.4,1218.0,129.0,39.0,0,5.0,0,0,108.0,220.0,0.033,1.67,Adventure
+Þórsmörk,Iceland,Europe,South,65.561,-17.829,89.0,198.2,11.4,-1.0,1249.0,142.0,30.0,0,6.0,1,0,91.8,179.0,0.122,6.1,Adventure
+Mývatn,Iceland,Europe,Northeast,66.428,-18.233,103.0,53.5,11.3,-1.9,853.0,125.0,44.0,0,0,2,0,82.8,166.0,0.061,3.05,Adventure
+Bucharest,Romania,Europe,Muntenia,46.957,19.754,70.0,42.7,22.9,-0.7,573.0,185.0,3.0,2,38.0,0,0,46.1,88.0,1.984,0.61,Culture
+Brașov,Romania,Europe,Transylvania,47.393,22.677,108.0,103.1,21.8,-0.4,710.0,209.0,13.0,0,16.0,1,0,39.3,63.0,1.087,1.51,Culture
+Sibiu,Romania,Europe,Transylvania,43.507,24.784,129.0,175.1,21.6,-4.2,439.0,197.0,28.0,0,15.0,0,0,43.7,77.0,0.936,2.57,Culture
+Cluj-Napoca,Romania,Europe,Transylvania,46.952,25.226,204.0,134.8,21.9,-5.9,449.0,185.0,29.0,0,0,2,1,42.1,74.0,0.519,2.09,Culture
+Sighișoara,Romania,Europe,Transylvania,46.215,25.459,113.0,189.7,22.9,-4.3,667.0,202.0,14.0,0,5.0,2,0,33.2,49.0,0.759,1.8,Culture
+Bran (Dracula's Castle),Romania,Europe,Transylvania,45.029,24.866,193.0,217.7,18.9,-4.3,712.0,203.0,29.0,0,6.0,1,0,34.0,62.0,0.301,0.79,Culture
+Constanța,Romania,Europe,Dobruja,42.935,24.241,193.0,195.7,20.5,-4.0,473.0,193.0,8.0,0,12.0,0,0,41.0,64.0,0.282,2.48,Culture
+Maramureș,Romania,Europe,Maramureș,49.306,28.657,163.0,100.2,21.9,-3.4,677.0,191.0,29.0,0,14.0,1,0,35.3,64.0,1.163,6.79,Adventure
+Bucovina monasteries,Romania,Europe,Bucovina,47.165,26.201,207.0,28.6,21.0,-4.7,488.0,198.0,32.0,1,27.0,1,0,33.2,59.0,1.513,1.76,Culture
+Sofia,Bulgaria,Europe,Sofia City,44.023,25.67,47.0,161.4,21.9,0.9,391.0,221.0,10.0,2,0,0,0,42.8,64.0,1.768,1.11,Culture
+Plovdiv,Bulgaria,Europe,Plovdiv Province,45.144,27.001,161.0,35.5,22.4,-2.7,648.0,250.0,19.0,0,1.0,1,0,34.5,58.0,0.34,1.35,Culture
+Veliko Tarnovo,Bulgaria,Europe,Veliko Tarnovo,42.484,23.826,312.0,1.5,20.2,-0.3,472.0,233.0,31.0,0,9.0,1,1,39.5,74.0,1.252,32.14,Culture
+Bansko,Bulgaria,Europe,Blagoevgrad,42.643,22.094,2597.0,1.2,9.9,-18.8,645.0,165.0,78.0,0,5.0,4,0,53.7,85.0,1.209,14.84,Adventure
+Burgas,Bulgaria,Europe,Burgas,45.51,22.843,165.0,28.5,22.3,-0.4,590.0,252.0,21.0,1,3.0,1,0,34.3,50.0,0.752,2.95,Relaxation
+Varna,Bulgaria,Europe,Varna,43.219,23.532,0,111.3,24.2,-2.4,612.0,243.0,19.0,0,7.0,2,1,42.9,79.0,0.67,5.79,Relaxation
+Rila Monastery,Bulgaria,Europe,Kyustendil,43.464,23.784,80.0,192.1,22.6,1.0,641.0,229.0,35.0,1,23.0,2,0,38.0,58.0,0.642,3.11,Adventure
+Tallinn,Estonia,Europe,Harju,58.017,25.239,76.0,129.3,15.8,-2.5,457.0,147.0,16.0,0,40.0,0,1,65.1,103.0,0.684,2.24,Culture
+Tartu,Estonia,Europe,Tartu,59.919,24.021,29.0,74.4,16.7,-3.1,840.0,162.0,28.0,0,2.0,0,0,59.6,101.0,0.141,3.31,Culture
+Pärnu,Estonia,Europe,Pärnu,61.003,24.877,152.0,199.3,14.1,-3.9,687.0,165.0,1.0,0,14.0,0,0,49.6,93.0,0.141,7.05,Relaxation
+Saaremaa,Estonia,Europe,Saare,56.238,27.713,157.0,164.9,16.1,-4.8,477.0,181.0,19.0,0,9.0,2,0,55.1,89.0,0.188,6.97,Relaxation
+Lahemaa National Park,Estonia,Europe,Lääne-Viru,57.641,25.75,89.0,59.9,15.5,-4.3,591.0,176.0,42.0,0,4.0,3,0,63.5,91.0,0.163,8.15,Adventure
+Kotor,Montenegro,Europe,Coastal,40.366,19.033,74.0,1.2,25.1,7.0,1891.0,250.0,20.0,0,5.0,1,0,53.3,90.0,0.392,19.52,Relaxation
+Budva,Montenegro,Europe,Coastal,43.698,19.063,252.0,1.1,24.2,5.9,1769.0,275.0,14.0,0,3.0,0,0,52.5,108.0,0.295,14.75,Relaxation
+Sveti Stefan,Montenegro,Europe,Coastal,44.684,15.426,151.0,2.9,24.8,6.6,1418.0,253.0,12.0,0,5.0,0,0,50.2,70.0,0.415,20.76,Relaxation
+Durmitor National Park,Montenegro,Europe,Northern,41.241,20.868,137.0,162.5,25.7,5.5,1012.0,277.0,30.0,0,2.0,3,0,39.0,77.0,0.053,2.67,Adventure
+Lake Skadar,Montenegro,Europe,Central,41.152,21.731,784.0,169.9,21.7,-1.1,1720.0,252.0,28.0,0,14.0,1,1,38.4,86.0,0.041,1.95,Adventure
+Perast,Montenegro,Europe,Coastal,41.225,16.41,163.0,0.7,25.5,7.0,1702.0,234.0,5.0,0,7.0,1,1,46.6,86.0,0.324,16.2,Relaxation
+Tirana,Albania,Europe,Central Albania,40.607,21.094,88.0,192.5,27.7,7.3,871.0,233.0,5.0,1,67.0,0,0,41.1,71.0,1.251,2.99,Budget
+Berat,Albania,Europe,South Albania,40.295,25.513,176.0,233.7,25.7,6.9,1208.0,261.0,29.0,0,0,1,0,27.5,52.0,0.434,9.47,Culture
+Gjirokastër,Albania,Europe,South Albania,40.917,16.766,220.0,68.6,24.2,7.6,1186.0,237.0,30.0,0,13.0,1,0,29.0,51.0,0.055,1.6,Culture
+Sarandë,Albania,Europe,Albanian Riviera,40.036,21.308,0.0,55.5,23.6,6.2,1439.0,236.0,5.0,0,0,0,0,31.0,46.0,0.267,3.86,Relaxation
+Ksamil,Albania,Europe,Albanian Riviera,38.968,21.562,161.0,119.8,23.4,5.6,1126.0,228.0,36.0,0,4.0,1,0,32.3,62.0,0.104,1.12,Relaxation
+Shkodër,Albania,Europe,North Albania,39.855,25.473,93.0,77.2,24.5,4.6,1213.0,199.0,20.0,0,0,1,0,32.5,56.0,0.109,1.72,Budget
+Valletta,Malta,Europe,Malta,37.566,16.432,142.0,110.4,27.8,14.7,651.0,291.0,14.0,1,20.0,0,0,69.4,127.0,0.509,4.8,Culture
+Mdina,Malta,Europe,Malta,33.487,12.035,198.0,21.3,27.6,12.4,591.0,264.0,14.0,0,16.0,1,0,62.3,94.0,0.185,9.23,Culture
+Gozo,Malta,Europe,Gozo,36.116,13.693,154.0,207.7,27.6,11.7,490.0,327.0,14.0,0,7.0,2,0,60.8,81.0,0.036,1.82,Culture
+Comino - Blue Lagoon,Malta,Europe,Comino,37.244,17.047,208.0,2.6,25.7,11.9,568.0,259.0,7.0,0,12.0,1,1,70.2,113.0,0.292,14.61,Relaxation
+Sliema,Malta,Europe,Malta,34.175,14.681,28.0,176.1,26.9,13.5,445.0,293.0,0.0,0,5.0,1,1,52.4,77.0,0.099,4.96,Relaxation
+Marsaxlokk,Malta,Europe,Malta,37.177,17.232,36.0,136.8,28.0,10.8,471.0,341.0,3.0,0,0,1,1,65.4,98.0,0.14,7.01,Culture
+Tokyo,Japan,Asia,Kanto,37.171,135.689,93.0,173.4,28.3,4.1,1848.0,184.0,7.0,4,172.0,0,1,76.3,148.0,7.417,0.48,Culture
+Kyoto,Japan,Asia,Kansai,37.496,134.257,148.0,119.0,26.1,2.5,1596.0,192.0,53.0,1,35.0,2,0,65.4,104.0,1.412,0.38,Culture
+Osaka,Japan,Asia,Kansai,37.442,137.045,0,45.5,27.6,5.6,1959.0,197.0,21.0,1,40.0,0,1,81.5,140.0,1.491,0.53,Culture
+Nara,Japan,Asia,Kansai,35.925,137.091,76.0,51.7,25.6,4.4,1432.0,168.0,54.0,0,39.0,2,0,63.5,110.0,1.38,0.81,Culture
+Hiroshima,Japan,Asia,Chugoku,36.037,135.544,1902.0,124.2,12.2,-6.9,2304.0,142.0,42.0,2,3.0,3,0,64.5,84.0,2.897,2.16,Culture
+Miyajima,Japan,Asia,Chugoku,36.662,141.126,171.0,171.8,24.3,0.4,2104.0,198.0,42.0,1,25.0,1,0,77.4,113.0,1.057,0.25,Culture
+Hakone,Japan,Asia,Kanto,34.719,140.224,56.0,53.8,25.2,4.9,2026.0,176.0,37.0,1,30.0,1,0,85.4,140.0,1.729,0.6,Culture
+Nikko,Japan,Asia,Kanto,37.523,136.658,106.0,1.5,25.3,6.6,1822.0,188.0,25.0,0,3.0,1,0,91.2,152.0,2.654,11.13,Culture
+Kamakura,Japan,Asia,Kanto,37.508,137.398,86.0,88.5,26.3,1.8,2250.0,187.0,58.0,1,36.0,2,0,64.5,123.0,0.699,0.31,Culture
+Mount Fuji area,Japan,Asia,Chubu,34.205,137.926,1523.0,141.6,16.5,-5.6,1369.0,170.0,101.0,1,5.0,2,0,73.3,110.0,1.931,0.67,Adventure
+Kanazawa,Japan,Asia,Chubu,35.074,138.961,36.0,121.2,26.8,5.3,1551.0,218.0,42.0,0,45.0,0,1,77.2,106.0,1.265,1.65,Culture
+Takayama,Japan,Asia,Chubu,37.06,140.133,155.0,216.0,25.7,4.1,1888.0,185.0,57.0,0,34.0,1,0,82.6,139.0,0.518,0.11,Culture
+Shirakawa-go,Japan,Asia,Chubu,36.801,137.105,159.0,48.1,24.7,1.2,2204.0,173.0,51.0,1,48.0,1,0,74.3,136.0,1.887,0.48,Culture
+Sapporo,Japan,Asia,Hokkaido,35.577,137.014,115.0,163.7,25.7,2.2,1488.0,201.0,40.0,0,32.0,1,0,75.4,129.0,1.575,0.42,Culture
+Niseko,Japan,Asia,Hokkaido,35.285,137.615,2227.0,0.6,13.0,-12.3,2906.0,167.0,91.0,2,5.0,1,0,106.2,167.0,6.207,4.13,Adventure
+Otaru,Japan,Asia,Hokkaido,38.714,140.129,170.0,93.7,24.7,2.0,1955.0,184.0,46.0,1,38.0,1,0,65.6,109.0,0.57,0.29,Culture
+Furano,Japan,Asia,Hokkaido,36.906,136.983,147.0,161.3,25.9,3.4,1984.0,195.0,41.0,0,44.0,1,1,84.0,137.0,1.284,0.45,Adventure
+Hakodate,Japan,Asia,Hokkaido,35.369,139.505,100.0,93.2,25.9,3.2,2126.0,194.0,47.0,1,35.0,2,0,59.9,106.0,0.473,0.14,Culture
+Okinawa - Naha,Japan,Asia,Okinawa,37.443,139.512,321.0,1.1,26.2,4.1,1526.0,186.0,24.0,0,4.0,1,1,80.1,131.0,4.134,5.73,Relaxation
+Ishigaki,Japan,Asia,Okinawa,37.25,134.772,0,2.5,26.7,8.5,1831.0,199.0,11.0,0,6.0,0,0,94.4,140.0,5.765,2.59,Relaxation
+Iriomote,Japan,Asia,Okinawa,37.725,140.675,82.0,2.9,25.6,4.7,1715.0,179.0,21.0,0,16.0,0,0,59.7,117.0,5.329,2.97,Adventure
+Miyakojima,Japan,Asia,Okinawa,34.63,138.195,21.0,2.4,25.9,5.6,2494.0,196.0,8.0,1,1.0,1,0,79.6,142.0,3.788,1.61,Relaxation
+Fukuoka,Japan,Asia,Kyushu,35.816,136.67,139.0,24.5,25.6,6.4,1617.0,195.0,39.0,1,32.0,0,1,87.7,140.0,0.31,0.06,Culture
+Beppu,Japan,Asia,Kyushu,34.037,137.374,90.0,83.8,25.7,3.4,1873.0,213.0,39.0,0,27.0,2,0,62.3,115.0,2.142,1.46,Relaxation
+Kumamoto,Japan,Asia,Kyushu,37.808,135.284,0,179.4,26.1,3.8,1387.0,184.0,58.0,1,32.0,0,1,70.5,106.0,1.68,0.58,Culture
+Yakushima,Japan,Asia,Kyushu,37.255,141.078,866.0,373.9,21.9,-2.9,1646.0,152.0,94.0,2,5.0,2,1,58.3,124.0,0.736,0.37,Adventure
+Sendai,Japan,Asia,Tohoku,35.525,137.358,0,156.3,27.3,3.1,1503.0,190.0,50.0,0,35.0,1,0,67.4,121.0,1.458,1.4,Culture
+Aomori,Japan,Asia,Tohoku,35.269,138.341,296.0,106.8,24.6,3.9,1400.0,191.0,41.0,1,47.0,1,0,77.9,119.0,1.103,1.06,Culture
+Matsumoto,Japan,Asia,Chubu,36.013,136.543,25.0,22.4,25.8,1.8,2063.0,205.0,35.0,1,49.0,1,0,70.9,124.0,1.956,0.61,Culture
+Nagano,Japan,Asia,Chubu,37.755,134.353,187.0,101.7,26.8,0.7,1750.0,193.0,50.0,0,44.0,2,1,81.9,121.0,2.851,2.24,Culture
+Beijing,China,Asia,Beijing,34.505,105.71,113.0,154.9,23.4,1.0,614.0,170.0,8.0,13,1428.0,0,1,54.6,91.0,15.144,0.05,Culture
+Shanghai,China,Asia,Shanghai,37.017,103.693,69.0,241.5,24.9,0.4,569.0,209.0,21.0,3,363.0,0,0,44.9,70.0,2.919,0.06,Culture
+Xi'an,China,Asia,Shaanxi,36.076,100.666,62.0,210.0,24.4,1.8,651.0,187.0,22.0,0,347.0,1,0,37.2,61.0,5.226,0.12,Culture
+Chengdu,China,Asia,Sichuan,33.98,106.149,127.0,213.9,23.4,1.4,637.0,193.0,3.0,3,372.0,1,0,44.0,65.0,3.316,0.07,Culture
+Guilin,China,Asia,Guangxi,33.856,102.509,110.0,223.0,22.7,1.9,706.0,176.0,9.0,1,347.0,0,0,44.7,75.0,1.151,0.06,Culture
+Yangshuo,China,Asia,Guangxi,34.165,102.822,187.0,154.3,23.8,-1.6,663.0,206.0,0,2,361.0,2,0,44.4,74.0,3.907,0.13,Culture
+Hangzhou,China,Asia,Zhejiang,36.634,103.378,20.0,201.8,23.0,1.3,586.0,214.0,5.0,1,359.0,1,0,50.4,74.0,1.488,0.13,Culture
+Suzhou,China,Asia,Jiangsu,33.688,104.636,43.0,162.9,23.0,0.2,709.0,176.0,22.0,1,354.0,0,0,37.6,64.0,2.649,0.08,Culture
+Lijiang,China,Asia,Yunnan,36.064,104.759,126.0,102.9,23.8,-0.1,620.0,194.0,5.0,3,359.0,0,0,42.7,91.0,4.003,0.08,Culture
+Dali,China,Asia,Yunnan,36.264,104.09,181.0,112.9,20.9,-0.8,736.0,190.0,3.0,2,358.0,1,0,43.3,76.0,3.79,0.11,Culture
+Shangri-La,China,Asia,Yunnan,32.3,104.716,102.0,214.5,23.8,-1.9,771.0,185.0,17.0,3,362.0,0,0,45.3,66.0,2.265,0.12,Adventure
+Zhangjiajie,China,Asia,Hunan,32.761,105.504,130.0,88.9,21.3,-0.5,571.0,209.0,13.0,3,368.0,2,1,42.8,67.0,5.583,0.55,Adventure
+Lhasa,China,Asia,Tibet,33.713,105.486,23.0,167.0,26.6,1.5,718.0,195.0,6.0,3,356.0,0,0,47.4,79.0,4.171,0.4,Adventure
+Hong Kong,China,Asia,Hong Kong,36.697,104.854,195.0,114.5,24.8,1.1,697.0,182.0,9.0,0,373.0,0,1,38.3,69.0,1.003,0.03,Luxury
+Macau,China,Asia,Macau,34.626,105.252,102.0,66.4,22.0,3.0,643.0,210.0,0,1,353.0,1,0,45.9,71.0,3.893,0.13,Luxury
+Harbin,China,Asia,Heilongjiang,34.273,100.998,88.0,206.3,25.0,1.9,729.0,221.0,2.0,2,362.0,2,0,43.6,86.0,1.523,0.03,Culture
+Pingyao,China,Asia,Shanxi,32.839,103.304,238.0,227.5,23.2,1.8,585.0,201.0,7.0,1,358.0,1,0,35.1,63.0,0.817,0.02,Culture
+Datong,China,Asia,Shanxi,34.248,102.012,75.0,64.7,24.5,2.6,671.0,198.0,7.0,2,349.0,0,0,39.3,67.0,4.234,0.09,Culture
+Jiuzhaigou,China,Asia,Sichuan,35.137,104.335,174.0,143.0,23.5,0.4,680.0,202.0,0,1,354.0,0,1,43.8,69.0,3.617,0.11,Adventure
+Huangshan,China,Asia,Anhui,33.849,101.495,218.0,122.1,23.7,0.2,629.0,192.0,17.0,1,362.0,0,0,47.1,78.0,4.106,0.23,Adventure
+Seoul,South Korea,Asia,Capital,38.479,125.593,143.0,58.4,24.4,-1.6,1356.0,190.0,14.0,2,89.0,1,0,80.8,129.0,3.055,0.3,Culture
+Busan,South Korea,Asia,Gyeongsang,37.535,128.104,142.0,84.0,26.8,-1.2,1251.0,212.0,23.0,1,0,2,0,76.7,117.0,0.28,0.33,Culture
+Jeju Island,South Korea,Asia,Jeju,35.487,126.546,242.0,0.4,23.3,2.3,1819.0,183.0,0,1,7.0,2,0,75.4,121.0,2.14,32.86,Family
+Gyeongju,South Korea,Asia,Gyeongsang,39.008,128.448,162.0,118.6,25.6,-1.0,1395.0,212.0,39.0,0,10.0,0,1,74.2,127.0,0.529,0.69,Culture
+Incheon,South Korea,Asia,Capital,34.928,125.347,0,169.1,25.6,-0.1,1350.0,208.0,23.0,0,1.0,0,0,69.7,120.0,1.172,1.97,Culture
+Andong,South Korea,Asia,Gyeongsang,36.124,127.468,0,32.0,26.2,3.5,1272.0,207.0,34.0,0,20.0,2,0,69.8,112.0,0.633,1.09,Culture
+Sokcho,South Korea,Asia,Gangwon,36.508,129.639,12.0,82.5,26.5,0.0,1206.0,216.0,28.0,0,9.0,1,0,76.4,121.0,0.635,0.35,Adventure
+Pyeongchang,South Korea,Asia,Gangwon,36.688,123.495,82.0,187.1,25.1,-0.6,1561.0,185.0,33.0,1,22.0,1,0,77.6,143.0,1.112,1.18,Adventure
+Suwon,South Korea,Asia,Gyeonggi,35.216,129.17,16.0,108.3,27.1,-1.7,1948.0,230.0,39.0,1,31.0,0,0,73.2,107.0,1.572,1.32,Culture
+Daegu,South Korea,Asia,Gyeongsang,34.215,128.218,82.0,233.1,23.8,-0.6,1126.0,229.0,34.0,1,12.0,0,0,61.5,106.0,0.808,0.41,Culture
+Taipei,Taiwan,Asia,Northern,23.829,120.736,135.0,230.9,26.4,14.5,2858.0,194.0,4.0,0,20.0,0,1,68.7,113.0,2.558,0.76,Culture
+Taroko Gorge,Taiwan,Asia,Eastern,21.094,123.156,115.0,1.9,26.9,16.7,2302.0,195.0,28.0,0,3.0,0,0,56.8,95.0,1.748,5.66,Adventure
+Tainan,Taiwan,Asia,Southern,23.602,119.784,32.0,65.5,30.1,18.3,3497.0,155.0,42.0,0,15.0,0,0,65.9,91.0,0.743,0.91,Culture
+Kaohsiung,Taiwan,Asia,Southern,24.328,122.44,74.0,98.7,29.2,15.1,2237.0,177.0,32.0,0,11.0,2,0,49.7,80.0,0.585,1.1,Culture
+Sun Moon Lake,Taiwan,Asia,Central,24.846,120.629,492.0,322.2,24.9,13.0,2329.0,168.0,31.0,0,16.0,1,0,48.6,82.0,0.833,1.19,Culture
+Alishan,Taiwan,Asia,Central,24.676,121.834,92.0,158.4,29.1,15.5,2241.0,155.0,27.0,0,19.0,1,0,66.0,95.0,0.76,0.93,Adventure
+Jiufen,Taiwan,Asia,Northern,23.228,124.204,95.0,175.9,28.5,18.1,2446.0,154.0,22.0,0,26.0,1,1,69.4,92.0,0.232,0.43,Culture
+Kenting,Taiwan,Asia,Southern,24.651,117.452,51.0,136.1,30.2,18.6,2287.0,200.0,17.0,0,6.0,1,1,55.2,88.0,0.871,4.36,Relaxation
+Bangkok,Thailand,SE Asia,Central,18.163,101.487,119.0,233.7,27.7,27.5,1418.0,270.0,2.0,1,58.0,0,1,45.3,73.0,9.857,0.59,Culture
+Chiang Mai,Thailand,SE Asia,Northern,15.926,102.685,149.0,229.3,27.9,23.6,1231.0,212.0,25.0,0,21.0,1,0,39.9,56.0,0.946,0.76,Culture
+Chiang Rai,Thailand,SE Asia,Northern,14.047,104.001,0,152.7,29.4,27.0,990.0,232.0,24.0,0,22.0,0,0,43.7,67.0,0.631,0.24,Culture
+Pai,Thailand,SE Asia,Northern,14.603,102.227,40.0,124.8,28.2,26.2,1254.0,210.0,11.0,0,12.0,0,0,42.9,63.0,3.216,6.51,Adventure
+Phuket,Thailand,SE Asia,Southern,16.216,101.425,77.0,2.2,28.9,22.8,1726.0,271.0,30.0,0,3.0,1,0,51.7,70.0,5.431,7.76,Relaxation
+Krabi,Thailand,SE Asia,Southern,15.202,99.846,185.0,36.5,27.7,24.6,1872.0,226.0,11.0,0,21.0,2,1,38.1,51.0,1.395,0.91,Relaxation
+Koh Phi Phi,Thailand,SE Asia,Southern,13.375,102.096,87.0,2.4,28.0,26.9,1271.0,269.0,29.0,0,10.0,1,1,48.7,55.0,4.448,31.82,Relaxation
+Koh Samui,Thailand,SE Asia,Southern,17.302,103.876,106.0,1.8,28.8,24.7,1586.0,243.0,16.0,0,11.0,0,0,42.9,55.0,5.834,6.24,Relaxation
+Koh Tao,Thailand,SE Asia,Southern,12.817,100.541,235.0,1.1,27.0,24.7,1209.0,242.0,13.0,0,6.0,2,0,51.9,74.0,2.072,4.44,Relaxation
+Koh Pha Ngan,Thailand,SE Asia,Southern,19.467,102.253,170.0,2.1,27.8,23.5,1268.0,257.0,1.0,0,11.0,2,0,42.6,62.0,6.685,4.94,Relaxation
+Koh Lanta,Thailand,SE Asia,Southern,14.252,102.01,90.0,1.8,28.0,26.6,1697.0,231.0,20.0,0,8.0,2,0,50.7,72.0,2.556,1.87,Relaxation
+Koh Chang,Thailand,SE Asia,Eastern,18.725,100.176,69.0,0.1,29.7,24.3,1551.0,263.0,22.0,0,10.0,1,0,44.8,59.0,3.0,2.48,Relaxation
+Pattaya,Thailand,SE Asia,Eastern,15.114,101.233,162.0,147.0,27.1,25.3,1463.0,220.0,8.0,0,21.0,0,0,36.7,57.0,0.547,0.25,Relaxation
+Hua Hin,Thailand,SE Asia,Western,13.253,104.089,116.0,64.3,27.0,27.8,1658.0,216.0,10.0,0,25.0,1,0,47.9,73.0,1.081,0.93,Relaxation
+Ayutthaya,Thailand,SE Asia,Central,14.553,104.714,213.0,199.0,28.9,27.7,1482.0,249.0,22.0,0,22.0,0,0,43.1,73.0,1.783,0.72,Culture
+Sukhothai,Thailand,SE Asia,Northern,15.12,98.407,85.0,226.2,29.8,29.6,1309.0,251.0,14.0,0,2.0,2,1,39.2,56.0,1.967,2.81,Culture
+Kanchanaburi,Thailand,SE Asia,Western,12.814,99.562,94.0,231.2,27.6,25.3,1570.0,212.0,5.0,0,27.0,1,0,41.6,65.0,3.712,3.38,Adventure
+Khao Sok,Thailand,SE Asia,Southern,13.89,104.045,0,113.5,28.8,27.6,1884.0,255.0,21.0,0,21.0,1,0,46.4,51.0,1.928,1.26,Adventure
+Khao Yai,Thailand,SE Asia,Northeastern,15.822,93.993,93.0,224.3,28.0,24.9,1058.0,212.0,15.0,0,10.0,1,0,49.8,61.0,2.483,1.35,Adventure
+Railay Beach,Thailand,SE Asia,Southern,13.744,103.923,94.0,2.6,26.7,25.0,2156.0,257.0,0,0,5.0,1,0,49.6,82.0,8.516,8.03,Relaxation
+Hanoi,Vietnam,SE Asia,Red River Delta,13.452,104.44,127.0,20.5,27.4,18.1,2323.0,192.0,78.0,2,122.0,3,1,40.6,51.0,2.582,0.17,Culture
+Ho Chi Minh City,Vietnam,SE Asia,Southeast,16.311,105.65,40.0,22.0,28.0,20.2,1056.0,203.0,0,0,39.0,1,0,30.4,42.0,0.365,0.18,Culture
+Hoi An,Vietnam,SE Asia,South Central,18.495,106.633,80.0,101.4,27.4,20.1,1840.0,202.0,19.0,0,32.0,1,1,29.4,39.0,0.654,0.28,Culture
+Hue,Vietnam,SE Asia,North Central,14.984,106.975,0,94.7,29.2,16.9,1006.0,210.0,23.0,0,23.0,0,0,28.3,36.0,1.194,0.61,Culture
+Da Nang,Vietnam,SE Asia,South Central,15.551,105.792,114.0,130.4,28.2,19.9,1317.0,220.0,17.0,0,24.0,0,1,36.8,53.0,1.32,0.46,Budget
+Halong Bay,Vietnam,SE Asia,Northeast,18.226,104.736,119.0,3.0,26.1,18.1,1893.0,219.0,45.0,0,9.0,1,0,33.6,38.0,2.459,1.97,Adventure
+Sapa,Vietnam,SE Asia,Northwest,15.636,105.364,133.0,118.2,28.7,19.4,1221.0,240.0,16.0,0,24.0,0,0,27.7,33.0,0.175,0.16,Adventure
+Nha Trang,Vietnam,SE Asia,South Central,16.573,107.802,96.0,90.0,28.5,19.5,1123.0,199.0,10.0,0,41.0,2,0,30.0,37.0,0.237,0.08,Budget
+Phu Quoc,Vietnam,SE Asia,Mekong Delta,18.086,107.934,193.0,229.8,27.3,17.9,1504.0,173.0,77.0,0,4.0,4,0,33.3,43.0,1.232,0.35,Budget
+Mekong Delta - Can Tho,Vietnam,SE Asia,Mekong Delta,17.123,106.227,0,148.9,28.3,21.2,1595.0,204.0,34.0,0,4.0,3,0,28.1,43.0,0.225,0.06,Budget
+Mui Ne,Vietnam,SE Asia,South Central,19.631,107.347,257.0,133.9,25.9,18.0,1993.0,218.0,5.0,0,29.0,2,0,29.6,38.0,1.017,0.5,Budget
+Dalat,Vietnam,SE Asia,Central Highlands,13.087,105.36,26.0,89.8,29.2,22.1,1523.0,207.0,25.0,0,31.0,0,1,32.3,42.0,2.184,1.8,Budget
+Ninh Binh,Vietnam,SE Asia,Red River Delta,17.335,108.156,197.0,165.5,28.8,18.5,2299.0,198.0,54.0,1,4.0,2,0,29.0,30.0,0.443,0.12,Adventure
+Cat Ba Island,Vietnam,SE Asia,Northeast,19.816,100.601,68.0,2.3,27.7,18.7,1861.0,194.0,4.0,0,0,2,0,34.0,45.0,1.435,1.54,Budget
+Phong Nha,Vietnam,SE Asia,North Central,13.841,105.73,35.0,54.1,27.4,20.0,1156.0,218.0,24.0,0,39.0,0,0,27.9,36.0,0.21,0.28,Adventure
+Siem Reap (Angkor),Cambodia,SE Asia,Northwest,13.766,105.131,295.0,243.2,28.3,26.2,1429.0,205.0,1.0,0,18.0,0,0,34.8,42.0,1.009,5.42,Culture
+Phnom Penh,Cambodia,SE Asia,Capital,12.917,109.917,78.0,44.5,28.4,25.1,1452.0,228.0,2.0,1,50.0,0,0,36.7,46.0,1.1,0.29,Culture
+Battambang,Cambodia,SE Asia,Northwest,10.53,106.34,160.0,137.7,28.3,25.2,1551.0,238.0,4.0,0,11.0,0,1,32.5,37.0,0.661,3.02,Budget
+Sihanoukville,Cambodia,SE Asia,Coast,11.489,106.567,102.0,0.2,26.9,26.1,1761.0,236.0,21.0,0,7.0,1,0,38.9,51.0,0.632,4.3,Budget
+Koh Rong,Cambodia,SE Asia,Coast,15.123,107.546,61.0,2.8,28.2,23.4,1667.0,241.0,20.0,0,5.0,1,0,36.3,34.0,0.83,3.3,Budget
+Kampot,Cambodia,SE Asia,South,11.825,106.086,176.0,49.3,28.0,24.5,1191.0,241.0,22.0,0,7.0,0,0,33.5,45.0,0.249,0.43,Budget
+Kep,Cambodia,SE Asia,South,12.534,103.025,190.0,117.0,26.1,24.7,1495.0,210.0,9.0,0,10.0,0,0,32.4,41.0,0.564,1.03,Budget
+Luang Prabang,Laos,SE Asia,North,17.25,105.423,188.0,212.1,25.1,19.7,1515.0,215.0,15.0,0,20.0,0,0,27.2,30.0,0.055,0.23,Culture
+Vientiane,Laos,SE Asia,Central,15.891,104.34,106.0,104.0,28.7,21.6,1191.0,197.0,10.0,1,47.0,0,0,32.7,45.0,0.685,0.42,Budget
+Vang Vieng,Laos,SE Asia,Central,16.839,107.268,147.0,135.8,30.3,21.2,1433.0,179.0,0,0,2.0,2,0,28.7,31.0,0.356,1.64,Budget
+4000 Islands,Laos,SE Asia,South,18.798,103.45,136.0,1.2,28.4,17.5,1763.0,206.0,11.0,0,2.0,1,0,30.8,31.0,0.255,2.92,Budget
+Plain of Jars,Laos,SE Asia,Northeast,18.676,104.272,104.0,84.9,27.9,21.2,1278.0,194.0,7.0,0,16.0,0,0,25.8,30.0,0.066,1.14,Budget
+Bali - Ubud,Indonesia,SE Asia,Bali,-2.146,115.979,330.0,2.3,25.6,23.4,2351.0,215.0,12.0,0,8.0,1,0,44.6,64.0,1.985,0.59,Culture
+Bali - Seminyak,Indonesia,SE Asia,Bali,-0.384,118.99,67.0,0.5,23.8,25.9,3134.0,214.0,29.0,0,1.0,0,1,41.7,55.0,1.24,1.29,Relaxation
+Bali - Canggu,Indonesia,SE Asia,Bali,-2.374,117.291,228.0,2.8,26.5,24.9,2392.0,189.0,29.0,1,6.0,2,0,38.9,53.0,3.666,0.84,Relaxation
+Bali - Uluwatu,Indonesia,SE Asia,Bali,-3.373,118.759,139.0,0.9,26.0,24.6,2449.0,215.0,20.0,0,7.0,1,1,43.8,57.0,4.452,1.58,Relaxation
+Bali - Kuta,Indonesia,SE Asia,Bali,-3.631,116.925,170.0,1.2,24.2,23.4,2021.0,207.0,9.0,0,4.0,1,0,38.3,47.0,2.04,1.31,Relaxation
+Bali - Sanur,Indonesia,SE Asia,Bali,-3.482,118.109,111.0,2.6,25.5,25.8,2387.0,204.0,6.0,0,9.0,1,0,39.3,54.0,3.229,1.37,Relaxation
+Bali - Nusa Dua,Indonesia,SE Asia,Bali,-1.349,116.15,153.0,0.2,24.6,26.3,2704.0,226.0,23.0,0,9.0,1,0,29.7,46.0,2.77,0.63,Relaxation
+Bali - Amed,Indonesia,SE Asia,Bali,-2.532,119.373,113.0,0.6,27.3,25.3,2223.0,206.0,17.0,0,8.0,0,0,42.8,54.0,2.584,3.41,Relaxation
+Nusa Penida,Indonesia,SE Asia,Bali,-3.018,119.491,78.0,2.3,26.3,26.2,2078.0,209.0,13.0,0,4.0,1,1,40.6,51.0,2.799,0.85,Relaxation
+Nusa Lembongan,Indonesia,SE Asia,Bali,-2.618,119.816,213.0,2.5,24.9,22.1,2522.0,197.0,34.0,0,0.0,1,0,40.8,65.0,3.41,3.66,Relaxation
+Gili Trawangan,Indonesia,SE Asia,West Nusa Tenggara,-1.962,112.983,186.0,0.3,25.8,28.1,2028.0,210.0,20.0,0,9.0,0,1,43.6,57.0,2.855,0.59,Relaxation
+Gili Air,Indonesia,SE Asia,West Nusa Tenggara,-1.675,117.094,10.0,1.4,25.4,26.2,1995.0,195.0,15.0,0,4.0,1,0,40.4,60.0,2.277,0.63,Relaxation
+Lombok,Indonesia,SE Asia,West Nusa Tenggara,0.149,116.602,0,2.7,26.6,26.0,2633.0,194.0,38.0,0,7.0,2,1,31.7,51.0,2.103,1.46,Relaxation
+Komodo Islands,Indonesia,SE Asia,East Nusa Tenggara,-1.747,116.12,142.0,0.6,24.9,25.0,3518.0,193.0,0,0,10.0,1,0,37.5,57.0,3.133,0.71,Adventure
+Flores,Indonesia,SE Asia,East Nusa Tenggara,-2.807,116.721,150.0,2.7,25.3,24.9,2782.0,213.0,23.0,0,0,1,0,36.5,59.0,1.369,2.51,Relaxation
+Yogyakarta,Indonesia,SE Asia,Java,-0.69,119.927,85.0,236.1,25.0,28.0,2003.0,208.0,16.0,0,79.0,0,0,37.3,44.0,0.695,0.07,Culture
+Borobudur,Indonesia,SE Asia,Java,-2.835,118.254,154.0,120.6,24.9,24.5,2939.0,204.0,16.0,2,23.0,0,1,36.7,49.0,1.105,0.06,Culture
+Jakarta,Indonesia,SE Asia,Java,-2.869,117.462,0,107.0,27.0,27.5,2500.0,204.0,22.0,2,313.0,0,0,45.9,66.0,2.622,0.04,Culture
+Bandung,Indonesia,SE Asia,Java,-1.056,119.165,92.0,43.2,26.8,24.9,1722.0,202.0,15.0,1,82.0,1,0,32.8,45.0,0.147,0.01,Culture
+Mount Bromo,Indonesia,SE Asia,Java,-2.841,120.299,116.0,161.2,25.6,26.0,2251.0,163.0,13.0,0,76.0,2,0,29.3,52.0,0.281,0.03,Adventure
+Raja Ampat,Indonesia,SE Asia,West Papua,-1.849,119.12,166.0,65.8,27.5,27.2,2032.0,185.0,16.0,1,66.0,0,0,33.6,41.0,1.143,0.16,Adventure
+Sumatra - Lake Toba,Indonesia,SE Asia,Sumatra,-2.166,118.686,633.0,218.7,23.6,21.0,2485.0,198.0,48.0,0,70.0,1,0,37.4,54.0,0.207,0.03,Relaxation
+Sumatra - Bukit Lawang,Indonesia,SE Asia,Sumatra,-3.069,117.135,173.0,242.0,24.3,25.7,2382.0,206.0,20.0,0,72.0,1,0,38.6,57.0,0.193,0.04,Adventure
+Sulawesi - Tana Toraja,Indonesia,SE Asia,Sulawesi,-4.608,118.769,203.0,108.7,24.8,24.2,1998.0,210.0,17.0,0,86.0,0,0,33.6,50.0,0.863,0.26,Culture
+Sulawesi - Bunaken,Indonesia,SE Asia,Sulawesi,-0.334,118.717,181.0,47.4,26.1,23.9,2464.0,190.0,8.0,0,88.0,2,1,39.8,54.0,0.84,0.08,Relaxation
+Kuala Lumpur,Malaysia,SE Asia,Federal,4.369,109.722,101.0,41.9,27.0,27.1,1745.0,206.0,16.0,1,47.0,0,0,46.4,74.0,7.064,0.9,Culture
+Penang - George Town,Malaysia,SE Asia,Penang,5.951,106.071,166.0,209.9,27.4,29.0,3450.0,227.0,6.0,0,24.0,1,0,44.6,68.0,0.359,0.3,Culture
+Langkawi,Malaysia,SE Asia,Kedah,4.453,110.168,99.0,178.2,28.2,26.7,1992.0,198.0,0,0,18.0,0,0,48.6,72.0,1.026,3.35,Relaxation
+Malacca,Malaysia,SE Asia,Malacca,2.059,109.547,4.0,94.0,25.2,26.8,2093.0,209.0,26.0,0,0,0,0,35.0,49.0,1.487,2.11,Culture
+Borneo - Kota Kinabalu,Malaysia,SE Asia,Sabah,2.698,111.529,41.0,195.2,29.6,25.4,2367.0,235.0,13.0,0,15.0,0,0,39.3,67.0,1.12,1.05,Adventure
+Borneo - Sandakan,Malaysia,SE Asia,Sabah,4.46,111.493,155.0,220.1,27.9,25.5,2204.0,230.0,6.0,0,17.0,0,0,41.4,59.0,1.363,2.37,Adventure
+Borneo - Kuching,Malaysia,SE Asia,Sarawak,4.356,111.955,55.0,121.5,28.1,26.3,2500.0,181.0,33.0,0,15.0,1,0,43.4,53.0,1.612,1.27,Adventure
+Cameron Highlands,Malaysia,SE Asia,Pahang,4.094,110.649,181.0,35.1,27.0,26.7,2584.0,191.0,7.0,0,24.0,1,0,40.1,56.0,1.966,3.95,Adventure
+Tioman Island,Malaysia,SE Asia,Pahang,4.959,110.025,213.0,2.2,25.1,25.6,2060.0,222.0,28.0,0,4.0,0,0,47.9,79.0,5.072,36.21,Relaxation
+Perhentian Islands,Malaysia,SE Asia,Terengganu,4.014,109.721,66.0,0.0,27.7,26.3,2256.0,213.0,16.0,0,5.0,2,0,43.5,63.0,4.567,14.42,Relaxation
+Ipoh,Malaysia,SE Asia,Perak,3.567,103.971,116.0,103.8,28.6,27.6,2434.0,201.0,0,0,24.0,2,0,35.1,50.0,0.511,0.8,Budget
+Singapore - Marina Bay,Singapore,SE Asia,Central,2.193,110.095,107.0,1.7,26.7,24.6,1984.0,202.0,10.0,0,21.0,0,1,96.5,210.0,3.205,11.39,Luxury
+Singapore - Sentosa,Singapore,SE Asia,Central,1.083,106.801,181.0,116.0,26.1,27.1,2187.0,219.0,33.0,0,0.0,1,2,87.1,206.0,1.052,8.23,Family
+Singapore - Chinatown,Singapore,SE Asia,Central,3.595,108.025,36.0,89.8,26.5,26.1,2890.0,205.0,30.0,0,4.0,1,0,77.5,165.0,0.353,1.64,Culture
+Singapore - Little India,Singapore,SE Asia,Central,1.689,101.496,219.0,239.3,26.2,25.4,1986.0,198.0,19.0,0,6.0,1,0,87.7,168.0,1.577,7.25,Culture
+Singapore - Orchard,Singapore,SE Asia,Central,3.073,102.504,160.0,221.5,28.1,26.2,1996.0,201.0,22.0,0,9.0,1,0,89.3,163.0,1.28,10.52,Luxury
+Manila,Philippines,SE Asia,Luzon,14.044,123.652,48.0,183.9,30.3,24.1,2490.0,186.0,10.0,1,96.0,1,0,44.5,65.0,1.41,0.07,Culture
+Boracay,Philippines,SE Asia,Visayas,14.309,123.796,59.0,2.3,26.4,23.5,2941.0,229.0,16.0,0,5.0,0,0,47.6,74.0,1.618,1.22,Relaxation
+Palawan - El Nido,Philippines,SE Asia,Palawan,11.907,118.278,197.0,1.5,26.9,23.3,1917.0,180.0,14.0,0,12.0,0,0,43.5,58.0,0.98,0.62,Adventure
+Palawan - Coron,Philippines,SE Asia,Palawan,13.01,122.011,88.0,0.3,26.3,24.7,3156.0,209.0,6.0,0,9.0,0,0,47.6,57.0,1.087,0.56,Adventure
+Palawan - Puerto Princesa,Philippines,SE Asia,Palawan,11.817,120.571,86.0,2.5,26.1,23.9,2397.0,199.0,2.0,0,5.0,2,0,47.5,57.0,0.632,0.63,Adventure
+Cebu,Philippines,SE Asia,Visayas,12.682,122.217,21.0,22.5,28.3,25.2,2988.0,217.0,3.0,0,50.0,1,1,34.3,57.0,0.363,0.09,Relaxation
+Bohol,Philippines,SE Asia,Visayas,13.79,126.186,25.0,60.1,27.6,27.1,2914.0,184.0,8.0,0,42.0,1,1,35.8,50.0,0.499,0.17,Relaxation
+Siargao,Philippines,SE Asia,Mindanao,13.998,124.845,3.0,79.6,27.9,25.3,1855.0,181.0,6.0,0,35.0,0,0,40.1,51.0,0.262,0.18,Adventure
+Banaue Rice Terraces,Philippines,SE Asia,Luzon,13.456,117.576,131.0,222.6,26.6,24.9,1979.0,236.0,8.0,0,33.0,0,0,37.2,52.0,0.171,0.17,Adventure
+Vigan,Philippines,SE Asia,Luzon,12.238,122.334,54.0,65.0,26.5,23.4,2436.0,204.0,28.0,0,19.0,0,0,38.7,56.0,0.471,0.11,Culture
+Donsol,Philippines,SE Asia,Luzon,12.024,123.582,90.0,62.6,27.3,25.0,1457.0,188.0,3.0,0,25.0,1,0,41.3,67.0,0.232,0.08,Adventure
+Camiguin,Philippines,SE Asia,Mindanao,14.368,120.153,187.0,43.2,27.8,24.3,2401.0,197.0,11.0,0,30.0,1,0,36.7,55.0,0.076,0.03,Relaxation
+Yangon,Myanmar,SE Asia,Lower Myanmar,24.099,92.306,39.0,33.0,28.7,21.5,1927.0,173.0,10.0,0,102.0,0,0,36.6,46.0,0.924,0.08,Culture
+Bagan,Myanmar,SE Asia,Central Myanmar,23.967,94.647,162.0,36.8,27.3,24.0,1837.0,202.0,0,0,54.0,2,0,35.5,48.0,0.228,0.07,Culture
+Mandalay,Myanmar,SE Asia,Central Myanmar,23.395,97.425,132.0,129.8,29.2,21.7,1342.0,215.0,32.0,0,20.0,2,1,32.4,42.0,0.041,0.02,Culture
+Inle Lake,Myanmar,SE Asia,Shan State,21.466,94.004,456.0,124.1,23.7,20.3,2460.0,208.0,41.0,0,27.0,0,0,25.0,36.0,0.057,0.03,Adventure
+Hpa-An,Myanmar,SE Asia,Kayin State,20.262,97.061,77.0,33.1,29.7,22.1,2033.0,224.0,0,0,8.0,0,0,32.3,41.0,0.179,0.11,Budget
+Ngapali Beach,Myanmar,SE Asia,Rakhine,23.879,93.235,259.0,0.7,26.0,17.0,2375.0,196.0,8.0,0,2.0,2,0,33.3,36.0,0.285,0.54,Relaxation
+Delhi,India,South Asia,National Capital,21.158,79.431,111.0,190.6,31.6,18.7,1144.0,230.0,16.0,8,1436.0,1,0,30.3,45.0,5.287,0.03,Culture
+Mumbai,India,South Asia,Maharashtra,21.332,79.202,58.0,24.3,30.7,18.7,1131.0,259.0,5.0,2,349.0,0,0,28.9,44.0,1.792,0.04,Culture
+Agra,India,South Asia,Uttar Pradesh,19.889,75.169,47.0,98.4,32.3,16.3,813.0,254.0,12.0,0,355.0,1,1,30.3,63.0,0.864,0.02,Culture
+Jaipur,India,South Asia,Rajasthan,21.659,77.678,323.0,127.5,30.8,15.9,1234.0,231.0,9.0,3,352.0,2,0,29.9,47.0,0.985,0.02,Culture
+Udaipur,India,South Asia,Rajasthan,23.131,79.707,125.0,172.0,32.4,14.7,1065.0,241.0,15.0,1,358.0,2,0,25.4,38.0,0.226,0.01,Culture
+Jodhpur,India,South Asia,Rajasthan,21.168,78.161,56.0,219.9,32.8,19.2,1266.0,261.0,17.0,0,359.0,2,1,31.3,48.0,0.655,0.03,Culture
+Jaisalmer,India,South Asia,Rajasthan,22.886,76.283,0,101.3,31.7,16.0,1053.0,246.0,1.0,1,361.0,1,0,30.5,48.0,0.18,0.0,Culture
+Pushkar,India,South Asia,Rajasthan,22.545,74.528,287.0,226.4,28.1,18.7,1086.0,245.0,6.0,0,362.0,2,0,29.7,42.0,0.955,0.04,Culture
+Varanasi,India,South Asia,Uttar Pradesh,20.247,78.825,267.0,27.5,30.1,14.8,1180.0,240.0,33.0,1,366.0,2,1,28.9,42.0,1.538,0.04,Culture
+Rishikesh,India,South Asia,Uttarakhand,24.126,76.691,38.0,92.9,32.3,19.6,1250.0,231.0,20.0,1,337.0,1,0,24.9,45.0,0.71,0.02,Adventure
+Haridwar,India,South Asia,Uttarakhand,21.028,80.502,60.0,159.2,30.4,18.1,764.0,225.0,21.0,2,365.0,1,0,26.9,43.0,0.657,0.02,Culture
+Goa - North,India,South Asia,Goa,22.631,79.392,195.0,222.7,31.0,17.6,985.0,243.0,0,2,364.0,1,0,26.4,41.0,0.269,0.01,Relaxation
+Goa - South,India,South Asia,Goa,17.77,81.778,35.0,101.5,30.5,18.9,1076.0,231.0,29.0,1,347.0,2,0,33.5,52.0,1.382,0.03,Relaxation
+Kerala - Kochi,India,South Asia,Kerala,20.98,74.904,173.0,181.0,30.7,14.5,790.0,221.0,6.0,0,357.0,2,0,27.9,50.0,1.006,0.09,Culture
+Kerala - Munnar,India,South Asia,Kerala,21.891,77.464,190.0,149.8,32.0,15.6,1216.0,223.0,8.0,0,364.0,0,0,34.0,47.0,1.1,0.05,Adventure
+Kerala - Alleppey,India,South Asia,Kerala,22.512,77.309,159.0,86.2,30.1,17.1,1327.0,280.0,11.0,0,368.0,0,0,25.8,46.0,1.319,0.02,Relaxation
+Kerala - Varkala,India,South Asia,Kerala,21.647,74.529,85.0,21.5,31.6,17.2,1237.0,284.0,0,1,352.0,1,0,23.9,34.0,0.409,0.01,Relaxation
+Kolkata,India,South Asia,West Bengal,22.546,81.241,114.0,46.8,31.0,17.7,1186.0,210.0,6.0,1,366.0,2,0,23.2,33.0,1.164,0.04,Culture
+Darjeeling,India,South Asia,West Bengal,22.165,78.935,215.0,212.7,28.5,14.0,996.0,230.0,0,1,349.0,0,0,26.0,35.0,1.249,0.02,Adventure
+Sikkim - Gangtok,India,South Asia,Sikkim,22.977,80.075,16.0,20.7,33.3,18.7,1132.0,252.0,5.0,1,361.0,2,0,22.8,41.0,1.636,0.04,Adventure
+Ladakh - Leh,India,South Asia,Ladakh,20.004,75.185,127.0,157.5,30.2,16.8,1199.0,288.0,26.0,1,349.0,1,0,30.8,50.0,1.015,0.02,Adventure
+Kashmir - Srinagar,India,South Asia,Jammu and Kashmir,22.668,78.341,29.0,2.4,29.3,17.9,1227.0,256.0,0,2,6.0,0,0,28.5,44.0,1.726,0.6,Adventure
+Manali,India,South Asia,Himachal Pradesh,20.529,76.6,1691.0,94.6,21.1,6.0,1145.0,218.0,58.0,3,7.0,3,0,31.8,52.0,1.239,0.11,Adventure
+Shimla,India,South Asia,Himachal Pradesh,21.071,73.765,1874.0,256.9,19.0,4.3,1015.0,212.0,97.0,3,5.0,2,0,24.1,43.0,0.169,0.0,Adventure
+Dharamshala,India,South Asia,Himachal Pradesh,21.63,78.079,1502.0,333.2,20.8,9.4,1142.0,227.0,85.0,3,6.0,3,0,25.4,40.0,0.242,0.02,Adventure
+Hampi,India,South Asia,Karnataka,21.557,74.661,108.0,211.0,31.4,16.6,1030.0,237.0,0,0,352.0,1,0,29.1,47.0,0.37,0.01,Culture
+Bangalore,India,South Asia,Karnataka,20.706,77.104,69.0,113.5,31.9,17.3,1259.0,233.0,1.0,1,370.0,1,0,29.7,43.0,0.228,0.01,Culture
+Mysore,India,South Asia,Karnataka,20.386,78.743,173.0,53.1,31.5,16.4,1040.0,228.0,9.0,2,355.0,1,0,27.4,44.0,0.352,0.01,Culture
+Chennai,India,South Asia,Tamil Nadu,21.984,79.728,96.0,93.9,32.0,16.0,1019.0,269.0,13.0,2,360.0,1,1,23.9,38.0,0.928,0.02,Culture
+Pondicherry,India,South Asia,Puducherry,21.641,73.517,91.0,49.3,31.6,19.2,1121.0,249.0,17.0,2,370.0,1,0,33.0,43.0,0.893,0.03,Culture
+Madurai,India,South Asia,Tamil Nadu,21.536,80.047,70.0,175.6,34.1,15.5,1061.0,221.0,22.0,0,352.0,2,1,26.8,40.0,0.384,0.02,Culture
+Hyderabad,India,South Asia,Telangana,21.898,71.327,163.0,184.5,30.6,15.6,1128.0,249.0,22.0,3,370.0,0,0,28.4,45.0,0.818,0.06,Culture
+Khajuraho,India,South Asia,Madhya Pradesh,20.867,80.067,137.0,233.4,32.8,16.7,1463.0,257.0,2.0,1,352.0,1,0,27.9,48.0,0.389,0.02,Culture
+Ranthambore,India,South Asia,Rajasthan,22.841,80.319,188.0,168.3,31.8,15.3,1274.0,256.0,1.0,2,357.0,1,0,21.9,39.0,1.539,0.04,Adventure
+Colombo,Sri Lanka,South Asia,Western,8.958,82.581,152.0,243.1,27.0,26.8,2495.0,193.0,11.0,1,53.0,1,0,38.0,61.0,0.521,0.16,Culture
+Kandy,Sri Lanka,South Asia,Central,9.704,82.087,131.0,165.8,27.9,25.0,2197.0,193.0,19.0,0,10.0,1,0,29.8,50.0,0.09,0.24,Culture
+Galle,Sri Lanka,South Asia,Southern,6.054,82.072,248.0,63.9,24.5,21.9,2595.0,221.0,15.0,0,14.0,1,0,33.0,48.0,0.152,1.12,Culture
+Sigiriya,Sri Lanka,South Asia,Central,7.633,83.055,239.0,78.2,27.0,21.6,1321.0,225.0,0,0,22.0,1,0,34.3,51.0,0.028,0.07,Culture
+Ella,Sri Lanka,South Asia,Uva,6.101,78.74,106.0,215.7,26.6,27.8,2339.0,223.0,22.0,0,4.0,1,1,32.2,45.0,0.134,0.18,Adventure
+Nuwara Eliya,Sri Lanka,South Asia,Central,6.943,83.674,208.0,237.2,25.8,21.1,1912.0,184.0,26.0,0,24.0,2,0,31.1,47.0,0.111,0.17,Adventure
+Yala National Park,Sri Lanka,South Asia,Southern,6.107,82.333,224.0,91.6,24.2,23.8,1933.0,179.0,63.0,0,4.0,1,0,27.7,42.0,0.029,0.12,Adventure
+Mirissa,Sri Lanka,South Asia,Southern,10.034,80.987,0,236.9,28.6,25.2,2509.0,241.0,8.0,0,10.0,1,0,27.4,47.0,0.059,0.23,Relaxation
+Unawatuna,Sri Lanka,South Asia,Southern,8.597,79.966,86.0,80.8,29.2,23.5,2030.0,196.0,27.0,0,0.0,0,1,30.1,54.0,0.193,0.44,Relaxation
+Anuradhapura,Sri Lanka,South Asia,North Central,6.52,78.396,102.0,242.8,28.4,23.0,1811.0,208.0,27.0,0,12.0,0,0,34.8,47.0,0.067,0.12,Culture
+Polonnaruwa,Sri Lanka,South Asia,North Central,6.141,77.191,103.0,102.5,27.8,26.0,1877.0,195.0,16.0,0,13.0,0,0,30.5,52.0,0.088,0.16,Culture
+Trincomalee,Sri Lanka,South Asia,Eastern,6.51,81.602,151.0,105.8,26.2,23.8,2462.0,196.0,40.0,0,12.0,2,0,27.3,48.0,0.13,0.55,Relaxation
+Arugam Bay,Sri Lanka,South Asia,Eastern,8.536,82.263,18.0,1.6,26.1,26.3,2046.0,226.0,26.0,0,8.0,0,0,35.1,54.0,0.145,0.18,Adventure
+Kathmandu,Nepal,South Asia,Bagmati,28.206,84.877,125.0,40.7,22.0,9.3,1783.0,209.0,4.0,1,47.0,1,1,32.6,36.0,0.301,0.07,Adventure
+Pokhara,Nepal,South Asia,Gandaki,29.688,83.113,42.0,112.0,24.3,9.2,1582.0,185.0,15.0,0,5.0,2,0,30.9,40.0,0.048,0.07,Adventure
+Everest Base Camp area,Nepal,South Asia,Province 1,30.428,84.127,1357.0,104.7,13.4,2.9,1605.0,173.0,101.0,0,4.0,2,0,27.2,33.0,0.031,0.04,Adventure
+Annapurna Circuit,Nepal,South Asia,Gandaki,27.995,85.229,916.0,299.5,14.9,6.4,1699.0,171.0,76.0,0,1.0,3,0,28.5,35.0,0.014,0.02,Adventure
+Chitwan National Park,Nepal,South Asia,Bagmati,28.363,83.108,181.0,135.5,18.4,9.3,1010.0,224.0,11.0,0,4.0,3,1,25.9,37.0,0.073,0.17,Adventure
+Lumbini,Nepal,South Asia,Lumbini,26.338,83.842,179.0,126.9,19.9,11.8,1526.0,195.0,34.0,0,7.0,1,0,25.1,30.0,0.055,0.09,Adventure
+Bandipur,Nepal,South Asia,Gandaki,28.281,84.615,219.0,142.2,21.8,7.8,1495.0,192.0,32.0,0,0,1,1,29.7,37.0,0.113,0.12,Adventure
+Nagarkot,Nepal,South Asia,Bagmati,26.757,83.773,189.0,53.8,21.3,10.9,1348.0,212.0,26.0,0,29.0,1,0,25.6,32.0,0.064,0.06,Adventure
+Thimphu,Bhutan,South Asia,Western,28.33,88.678,159.0,80.0,17.5,3.4,2649.0,207.0,5.0,0,17.0,1,0,58.3,163.0,0.072,0.47,Culture
+Paro,Bhutan,South Asia,Western,29.405,88.882,108.0,24.3,18.5,3.6,2307.0,198.0,43.0,0,3.0,0,0,42.8,107.0,0.013,0.63,Culture
+Punakha,Bhutan,South Asia,Western,25.727,91.785,32.0,148.3,17.4,4.1,2490.0,204.0,25.0,0,0,0,0,41.7,139.0,0.025,1.16,Culture
+Bumthang,Bhutan,South Asia,Central,26.221,89.808,181.0,104.9,20.2,3.5,2533.0,198.0,28.0,0,9.0,1,0,50.9,140.0,0.016,0.49,Adventure
+Tiger's Nest,Bhutan,South Asia,Western,26.18,92.253,0,48.4,20.0,4.2,2366.0,210.0,35.0,0,8.0,1,0,35.6,129.0,0.013,0.49,Adventure
+Malé,Maldives,South Asia,North Malé,1.686,71.043,76.0,0,25.9,25.3,1679.0,227.0,7.0,0,34.0,1,0,82.8,369.0,0.501,5.01,Relaxation
+North Malé Atoll,Maldives,South Asia,North Malé,2.301,73.476,186.0,2.0,25.5,25.9,2134.0,223.0,4.0,0,0,2,0,61.9,333.0,0.132,6.62,Relaxation
+South Malé Atoll,Maldives,South Asia,South Malé,1.719,68.687,227.0,2.4,26.0,23.2,2504.0,255.0,36.0,0,6.0,1,1,79.7,333.0,0.36,17.99,Relaxation
+Baa Atoll,Maldives,South Asia,Baa,2.109,73.562,0,2.4,25.2,27.1,2121.0,260.0,24.0,0,8.0,1,0,64.9,272.0,0.132,6.58,Relaxation
+Ari Atoll,Maldives,South Asia,Ari,1.746,73.567,161.0,2.7,23.7,22.8,2054.0,195.0,0,0,0,0,0,75.8,317.0,0.123,6.15,Relaxation
+Maafushi,Maldives,South Asia,Kaafu,1.033,72.99,83.0,0,27.7,27.2,2223.0,255.0,0,0,10.0,1,0,66.2,242.0,0.057,2.86,Relaxation
+Hulhumalé,Maldives,South Asia,Kaafu,0.924,74.015,122.0,0,25.2,24.9,2460.0,230.0,13.0,0,5.0,0,0,64.7,266.0,0.072,3.58,Relaxation
+Istanbul,Turkey,Middle East,Marmara,39.828,34.601,59.0,121.2,25.6,2.9,771.0,236.0,5.0,3,94.0,0,0,40.4,66.0,11.649,0.78,Culture
+Cappadocia,Turkey,Middle East,Central Anatolia,40.24,33.244,0,243.7,27.4,2.8,487.0,217.0,15.0,0,37.0,2,0,30.6,50.0,0.892,0.82,Adventure
+Pamukkale,Turkey,Middle East,Aegean,39.231,36.098,20.0,47.5,25.6,4.4,720.0,215.0,9.0,0,26.0,2,1,30.5,58.0,2.854,0.88,Adventure
+Ephesus,Turkey,Middle East,Aegean,37.807,34.926,270.0,143.7,24.7,4.6,692.0,218.0,19.0,3,27.0,0,0,32.8,64.0,6.469,2.59,Culture
+Bodrum,Turkey,Middle East,Aegean,38.894,31.751,271.0,50.5,23.9,1.9,670.0,241.0,32.0,1,40.0,0,0,35.7,58.0,0.884,0.87,Relaxation
+Marmaris,Turkey,Middle East,Aegean,37.993,34.634,16.0,153.8,27.0,4.4,560.0,265.0,4.0,0,30.0,1,1,27.3,48.0,3.005,2.14,Relaxation
+Fethiye,Turkey,Middle East,Mediterranean,37.781,35.171,82.0,142.4,25.7,2.2,737.0,213.0,15.0,0,26.0,0,0,35.2,60.0,0.76,0.44,Relaxation
+Antalya,Turkey,Middle East,Mediterranean,37.85,39.29,13.0,143.9,27.5,5.0,771.0,241.0,8.0,1,22.0,0,0,38.5,64.0,2.148,2.16,Relaxation
+Side,Turkey,Middle East,Mediterranean,38.268,35.745,184.0,94.9,27.3,1.1,587.0,224.0,9.0,1,27.0,1,0,31.5,51.0,1.027,0.77,Relaxation
+Kaş,Turkey,Middle East,Mediterranean,36.654,33.686,310.0,32.7,25.1,0.2,684.0,254.0,24.0,0,28.0,1,0,29.7,50.0,2.205,1.05,Relaxation
+Olympos,Turkey,Middle East,Mediterranean,39.326,36.322,0,44.6,27.0,4.1,696.0,210.0,17.0,1,29.0,1,0,35.8,58.0,2.711,1.76,Adventure
+Ankara,Turkey,Middle East,Central Anatolia,40.722,36.7,107.0,232.4,27.4,3.9,637.0,240.0,6.0,1,22.0,0,0,33.3,52.0,1.544,0.75,Culture
+Trabzon,Turkey,Middle East,Black Sea,37.982,32.84,170.0,0.4,23.9,5.5,422.0,230.0,0,1,2.0,0,0,37.7,56.0,8.074,3.2,Culture
+Mardin,Turkey,Middle East,Southeastern Anatolia,38.916,38.317,160.0,114.5,26.0,1.6,676.0,262.0,19.0,1,25.0,1,1,36.4,66.0,2.124,1.68,Culture
+Konya,Turkey,Middle East,Central Anatolia,38.719,35.645,151.0,148.4,26.3,3.7,641.0,203.0,13.0,1,15.0,0,0,35.2,56.0,2.265,0.74,Culture
+Dubai - Downtown,UAE,Middle East,Dubai,23.849,51.107,224.0,98.2,36.3,14.3,95.0,352.0,3.0,0,24.0,1,0,61.2,117.0,1.618,3.18,Luxury
+Dubai - Marina,UAE,Middle East,Dubai,24.206,51.549,90.0,209.0,35.8,20.2,83.0,332.0,2.0,0,31.0,0,0,75.7,144.0,0.389,1.13,Luxury
+Dubai - Palm Jumeirah,UAE,Middle East,Dubai,26.75,55.705,226.0,66.4,34.8,18.9,147.0,347.0,28.0,0,24.0,1,0,83.4,184.0,1.559,12.68,Luxury
+Dubai - Old Town,UAE,Middle East,Dubai,25.535,54.654,164.0,155.7,37.9,19.7,134.0,304.0,5.0,0,29.0,1,0,71.4,145.0,1.614,9.87,Luxury
+Abu Dhabi,UAE,Middle East,Abu Dhabi,22.291,53.901,0,23.7,36.8,16.9,113.0,352.0,5.0,0,6.0,1,0,77.9,136.0,1.055,18.99,Luxury
+Ras Al Khaimah,UAE,Middle East,Ras Al Khaimah,26.365,53.279,139.0,214.9,35.9,17.2,102.0,325.0,5.0,0,18.0,0,1,77.0,138.0,0.507,4.6,Luxury
+Sharjah,UAE,Middle East,Sharjah,27.582,51.979,113.0,61.8,34.1,17.8,94.0,357.0,16.0,0,0,1,0,56.1,122.0,0.909,2.96,Luxury
+Liwa Desert,UAE,Middle East,Abu Dhabi,24.946,55.612,632.0,324.0,32.8,13.0,20,360,28.0,0,16.0,2,0,73.8,129.0,0.259,1.19,Adventure
+Fujairah,UAE,Middle East,Fujairah,21.862,55.244,84.0,94.3,33.5,16.5,96.0,329.0,0,0,8.0,0,0,66.6,122.0,0.866,2.4,Adventure
+Amman,Jordan,Middle East,Amman,31.631,37.631,155.0,62.5,29.4,5.9,253.0,294.0,1.0,1,38.0,0,0,53.1,89.0,1.736,1.0,Culture
+Petra,Jordan,Middle East,Ma'an,31.142,37.768,136.0,61.9,30.3,7.4,206.0,286.0,6.0,1,39.0,1,0,56.5,93.0,0.513,1.14,Culture
+Wadi Rum,Jordan,Middle East,Aqaba,31.224,36.408,612.0,188.0,25.3,5.0,30.0,315.0,51.0,0,4.0,1,0,44.9,80.0,0.047,0.18,Adventure
+Dead Sea,Jordan,Middle East,Balqa,34.677,39.543,140.0,2.1,28.4,9.6,246.0,271.0,19.0,0,16.0,0,0,57.2,110.0,0.879,6.26,Relaxation
+Aqaba,Jordan,Middle East,Aqaba,33.726,36.841,54.0,54.9,31.9,8.8,166.0,307.0,3.0,0,17.0,1,0,49.4,80.0,0.091,0.22,Relaxation
+Jerash,Jordan,Middle East,Jerash,30.904,34.061,201.0,66.5,29.3,10.5,229.0,281.0,18.0,0,0,1,0,56.1,102.0,0.245,1.4,Culture
+Madaba,Jordan,Middle East,Madaba,33.13,35.219,147.0,114.4,29.9,8.8,253.0,304.0,0,0,8.0,1,0,48.2,78.0,0.362,2.24,Culture
+Dana Biosphere Reserve,Jordan,Middle East,Tafilah,31.901,35.859,108.0,54.9,27.4,5.2,219.0,300.0,52.0,0,3.0,4,0,45.3,67.0,0.273,0.94,Adventure
+Jerusalem,Israel,Middle East,Jerusalem,32.758,38.188,123.0,221.3,26.3,11.6,394.0,310.0,5.0,2,28.0,1,0,92.2,230.0,1.536,0.9,Culture
+Tel Aviv,Israel,Middle East,Tel Aviv,29.034,37.868,42.0,241.5,26.8,9.8,449.0,313.0,21.0,0,6.0,2,0,90.0,178.0,0.052,0.19,Culture
+Eilat,Israel,Middle East,Southern,29.017,35.041,135.0,81.1,29.4,13.9,398.0,267.0,28.0,0,0,1,0,66.9,159.0,0.051,0.68,Relaxation
+Haifa,Israel,Middle East,Haifa,32.083,34.494,10.0,158.9,28.0,12.9,295.0,334.0,31.0,0,0,0,1,92.3,168.0,0.171,3.21,Culture
+Nazareth,Israel,Middle East,Northern,30.697,34.619,154.0,231.8,27.8,11.8,290.0,311.0,21.0,0,0,0,0,100.9,174.0,0.278,0.97,Culture
+Dead Sea (Israel),Israel,Middle East,Southern,32.022,36.964,196.0,2.2,25.8,11.9,302.0,313.0,25.0,0,3.0,0,0,90.5,182.0,0.424,1.76,Relaxation
+Masada,Israel,Middle East,Southern,29.386,32.217,167.0,131.7,30.2,10.1,466.0,291.0,32.0,0,12.0,1,1,87.3,158.0,0.167,0.98,Adventure
+Galilee,Israel,Middle East,Northern,30.666,33.546,211.0,221.7,28.5,9.7,432.0,294.0,15.0,0,11.0,1,0,92.3,189.0,0.306,2.5,Adventure
+Bethlehem,Israel,Middle East,Judea,33.644,39.987,176.0,179.9,28.0,11.4,544.0,259.0,34.0,0,1.0,2,0,92.4,122.0,0.071,0.68,Culture
+Muscat,Oman,Middle East,Muscat,19.495,56.765,0,109.0,31.8,19.8,132.0,290.0,15.0,1,5.0,0,0,75.8,145.0,0.49,0.48,Culture
+Nizwa,Oman,Middle East,Ad Dakhiliyah,20.213,53.594,88.0,231.0,32.2,21.8,97.0,308.0,5.0,0,7.0,2,0,56.1,99.0,0.116,1.24,Culture
+Salalah,Oman,Middle East,Dhofar,20.539,56.604,137.0,123.1,32.1,17.2,69.0,280.0,8.0,0,0,1,0,73.6,123.0,0.061,0.45,Relaxation
+Wahiba Sands,Oman,Middle East,Ash Sharqiyah,25.109,54.939,139.0,143.8,33.4,18.5,86.0,273.0,0,0,12.0,2,0,52.3,85.0,0.056,1.33,Adventure
+Jebel Akhdar,Oman,Middle East,Ad Dakhiliyah,23.048,56.609,0,188.5,32.6,20.0,124.0,321.0,0,0,1.0,0,0,48.1,87.0,0.136,0.89,Adventure
+Sur,Oman,Middle East,Ash Sharqiyah,19.75,58.539,149.0,91.6,31.4,19.7,117.0,320.0,10.0,0,8.0,0,0,65.7,116.0,0.104,0.58,Adventure
+Musandam,Oman,Middle East,Musandam,22.351,57.702,221.0,141.7,34.3,20.0,101.0,375.0,10.0,0,19.0,0,0,51.3,87.0,0.03,0.22,Adventure
+Cairo,Egypt,Africa,Cairo,27.819,31.599,158.0,214.6,31.1,13.2,63.0,331.0,3.0,1,178.0,0,0,34.2,70.0,4.146,0.3,Culture
+Giza,Egypt,Africa,Giza,27.796,30.768,182.0,97.6,31.2,10.7,86.0,342.0,0,2,23.0,0,0,25.3,47.0,1.176,0.3,Culture
+Luxor,Egypt,Africa,Luxor,29.927,27.745,186.0,182.8,27.4,13.2,74.0,283.0,1.0,1,10.0,2,0,29.8,52.0,0.767,0.11,Culture
+Aswan,Egypt,Africa,Aswan,26.439,32.705,56.0,132.8,31.3,12.3,81.0,295.0,4.0,0,34.0,0,0,23.0,46.0,0.627,0.16,Culture
+Abu Simbel,Egypt,Africa,Aswan,24.93,29.24,113.0,30.9,28.8,12.9,89.0,328.0,2.0,0,42.0,2,0,26.1,50.0,0.307,0.13,Culture
+Hurghada,Egypt,Africa,Red Sea,27.417,31.302,66.0,1.5,30.7,12.7,79.0,344.0,18.0,0,8.0,0,0,35.4,60.0,1.564,1.09,Relaxation
+Sharm El Sheikh,Egypt,Africa,South Sinai,28.322,28.996,180.0,163.0,31.2,12.7,112.0,303.0,0,0,26.0,1,0,27.1,44.0,0.741,0.58,Relaxation
+Dahab,Egypt,Africa,South Sinai,27.209,28.497,243.0,29.6,29.5,12.5,72.0,316.0,0,0,40.0,0,0,28.9,50.0,0.71,0.17,Relaxation
+Alexandria,Egypt,Africa,Alexandria,25.508,31.48,98.0,45.0,31.9,15.4,98.0,367.0,0,0,28.0,0,0,24.7,45.0,0.41,0.12,Culture
+Siwa Oasis,Egypt,Africa,Matrouh,27.387,28.605,692.0,220.2,27.5,11.1,20,360,26.0,0,27.0,1,0,25.6,48.0,0.55,0.14,Adventure
+Marsa Alam,Egypt,Africa,Red Sea,27.932,31.834,147.0,2.8,28.1,13.8,78.0,303.0,15.0,0,5.0,0,0,30.2,56.0,0.746,0.29,Relaxation
+Mount Sinai,Egypt,Africa,South Sinai,27.664,33.174,134.0,186.5,30.0,13.5,98.0,297.0,4.0,0,33.0,1,0,25.1,49.0,0.668,0.16,Adventure
+Marrakech,Morocco,Africa,Marrakech-Safi,31.271,-5.343,76.0,85.0,25.5,10.4,349.0,255.0,5.0,1,9.0,1,0,34.5,70.0,0.817,0.57,Culture
+Fes,Morocco,Africa,Fès-Meknès,32.717,-9.179,160.0,56.9,25.9,9.4,344.0,297.0,0,0,23.0,1,0,36.9,67.0,0.631,0.45,Culture
+Casablanca,Morocco,Africa,Casablanca-Settat,30.387,-9.768,137.0,173.0,27.1,12.5,352.0,327.0,0,0,6.0,2,0,37.0,53.0,0.429,0.54,Culture
+Chefchaouen,Morocco,Africa,Tangier-Tétouan,32.409,-10.116,97.0,228.1,28.7,10.5,314.0,298.0,1.0,0,29.0,2,0,41.3,69.0,0.91,0.85,Culture
+Essaouira,Morocco,Africa,Marrakech-Safi,31.121,-7.655,6.0,152.3,27.2,11.1,331.0,306.0,11.0,0,1.0,2,1,35.8,52.0,0.175,0.89,Relaxation
+Tangier,Morocco,Africa,Tangier-Tétouan,29.141,-7.573,100.0,216.1,25.3,14.3,360.0,303.0,16.0,0,29.0,1,0,34.9,67.0,0.627,0.46,Culture
+Meknes,Morocco,Africa,Fès-Meknès,32.172,-6.804,188.0,142.4,25.3,10.2,283.0,282.0,27.0,0,13.0,0,0,28.3,56.0,0.537,1.32,Culture
+Rabat,Morocco,Africa,Rabat-Salé,32.606,-4.971,135.0,208.1,27.6,10.3,405.0,335.0,20.0,2,58.0,0,0,45.8,78.0,2.194,0.24,Culture
+Sahara - Merzouga,Morocco,Africa,Drâa-Tafilalet,32.927,-7.243,969.0,182.6,19.0,4.8,30.0,360,35.0,0,31.0,2,1,34.0,57.0,1.269,0.94,Adventure
+Sahara - Zagora,Morocco,Africa,Drâa-Tafilalet,32.8,-7.743,334.0,287.8,24.5,8.7,61.0,333.0,18.0,0,40.0,0,0,32.9,45.0,0.511,1.15,Adventure
+Atlas Mountains - Imlil,Morocco,Africa,Marrakech-Safi,31.631,-9.948,1773.0,166.5,15.7,-0.5,393.0,184.0,74.0,0,3.0,2,0,34.5,57.0,0.972,0.71,Adventure
+Ouarzazate,Morocco,Africa,Drâa-Tafilalet,33.414,-6.495,80.0,46.1,27.8,12.5,244.0,297.0,14.0,0,22.0,0,1,32.5,59.0,0.95,0.96,Culture
+Agadir,Morocco,Africa,Souss-Massa,32.669,-5.667,181.0,220.9,24.9,11.0,321.0,316.0,23.0,0,14.0,0,0,30.0,47.0,0.361,0.32,Relaxation
+Volubilis,Morocco,Africa,Fès-Meknès,29.907,-6.172,172.0,182.9,28.0,8.5,353.0,253.0,15.0,0,20.0,2,0,30.0,55.0,0.689,0.48,Culture
+Serengeti,Tanzania,Africa,Mara,-7.123,31.937,166.0,93.9,20.3,26.8,995.0,223.0,2.0,0,14.0,1,0,36.2,86.0,0.111,0.06,Adventure
+Ngorongoro Crater,Tanzania,Africa,Arusha,-6.575,36.063,206.0,227.6,20.2,28.0,1112.0,214.0,18.0,0,0.0,0,0,43.4,108.0,0.066,0.03,Adventure
+Mount Kilimanjaro,Tanzania,Africa,Kilimanjaro,-8.593,33.542,1247.0,194.6,13.3,17.6,935.0,222.0,40.0,0,2.0,2,0,34.0,88.0,0.157,0.12,Adventure
+Zanzibar - Stone Town,Tanzania,Africa,Zanzibar,-7.744,36.668,68.0,52.7,20.6,25.0,1097.0,242.0,0,0,43.0,1,0,39.2,74.0,0.048,0.14,Culture
+Zanzibar - Nungwi,Tanzania,Africa,Zanzibar,-3.454,33.334,131.0,65.5,19.4,26.2,1170.0,207.0,11.0,0,26.0,1,0,46.8,120.0,0.032,0.03,Relaxation
+Zanzibar - Paje,Tanzania,Africa,Zanzibar,-4.996,33.265,130.0,74.1,22.2,25.2,975.0,242.0,10.0,0,25.0,2,0,34.8,84.0,0.1,0.09,Relaxation
+Tarangire,Tanzania,Africa,Manyara,-9.087,35.61,115.0,122.8,19.5,26.8,940.0,252.0,18.0,0,16.0,1,0,36.8,88.0,0.051,0.03,Adventure
+Lake Manyara,Tanzania,Africa,Manyara,-5.665,36.318,556.0,155.8,17.2,24.1,811.0,236.0,36.0,0,32.0,2,0,40.5,76.0,0.126,0.07,Adventure
+Selous,Tanzania,Africa,Lindi,-5.039,35.711,168.0,183.7,21.8,24.2,1236.0,227.0,13.0,0,14.0,2,0,37.7,76.0,0.12,0.08,Adventure
+Mafia Island,Tanzania,Africa,Pwani,-5.429,32.325,224.0,0.4,19.6,24.2,779.0,252.0,32.0,0,7.0,0,0,36.1,91.0,0.23,0.41,Relaxation
+Arusha,Tanzania,Africa,Arusha,-8.159,37.441,207.0,107.9,19.6,26.6,1163.0,222.0,34.0,0,24.0,1,0,36.4,83.0,0.103,0.07,Adventure
+Dar es Salaam,Tanzania,Africa,Dar es Salaam,-7.287,36.178,101.0,164.6,18.9,25.4,856.0,223.0,16.0,1,88.0,0,1,43.5,95.0,0.219,0.03,Culture
+Nairobi,Kenya,Africa,Nairobi,1.058,39.882,174.0,193.6,19.5,23.2,875.0,213.0,12.0,1,61.0,1,1,44.8,99.0,0.322,0.05,Culture
+Maasai Mara,Kenya,Africa,Narok,0.99,37.079,128.0,148.3,21.9,24.9,1001.0,241.0,18.0,0,19.0,0,0,41.1,81.0,0.016,0.01,Adventure
+Amboseli,Kenya,Africa,Kajiado,-2.23,38.045,87.0,29.2,19.0,21.6,841.0,238.0,14.0,0,12.0,0,0,36.6,85.0,0.109,0.14,Adventure
+Lake Nakuru,Kenya,Africa,Nakuru,-1.047,39.309,701.0,321.3,16.4,19.4,1030.0,229.0,25.0,0,11.0,2,0,40.0,81.0,0.067,0.04,Adventure
+Diani Beach,Kenya,Africa,Kwale,2.168,37.749,53.0,2.1,21.2,23.6,925.0,260.0,11.0,0,4.0,1,0,44.7,82.0,0.417,0.42,Relaxation
+Mombasa,Kenya,Africa,Mombasa,-0.784,35.208,324.0,158.4,19.6,22.4,777.0,234.0,35.0,0,17.0,2,0,36.4,73.0,0.023,0.02,Culture
+Lamu,Kenya,Africa,Lamu,0.085,37.221,0,42.4,19.8,24.6,1162.0,234.0,9.0,0,23.0,1,0,46.3,101.0,0.182,0.28,Culture
+Mount Kenya,Kenya,Africa,Meru,-1.332,40.788,56.0,176.8,23.4,23.3,873.0,240.0,21.0,0,22.0,2,0,42.1,80.0,0.064,0.06,Adventure
+Tsavo,Kenya,Africa,Taita-Taveta,0.891,37.505,135.0,119.5,19.4,22.3,1245.0,243.0,1.0,0,2.0,1,0,37.9,87.0,0.131,0.07,Adventure
+Lake Naivasha,Kenya,Africa,Nakuru,-0.222,38.501,538.0,354.2,17.5,17.3,809.0,248.0,12.0,0,18.0,1,0,42.7,89.0,0.09,0.07,Adventure
+Samburu,Kenya,Africa,Samburu,1.49,40.485,92.0,112.4,21.0,21.0,930.0,231.0,33.0,0,9.0,1,1,36.9,74.0,0.166,0.11,Adventure
+Cape Town,South Africa,Africa,Western Cape,-32.379,23.658,49.0,1.0,16.4,26.0,411.0,282.0,22.0,0,6.0,2,0,44.3,105.0,0.807,0.68,Culture
+Stellenbosch,South Africa,Africa,Western Cape,-29.25,24.425,156.0,0.0,17.9,24.0,491.0,278.0,21.0,0,5.0,1,0,59.0,111.0,1.138,0.61,Luxury
+Garden Route - Knysna,South Africa,Africa,Western Cape,-32.299,17.403,137.0,0.5,19.3,21.6,395.0,260.0,0,1,7.0,0,0,40.8,89.0,0.676,0.41,Adventure
+Garden Route - Plettenberg Bay,South Africa,Africa,Western Cape,-29.668,22.51,187.0,0.6,17.7,23.0,418.0,292.0,19.0,0,12.0,0,0,42.4,85.0,1.244,0.81,Adventure
+Hermanus,South Africa,Africa,Western Cape,-32.653,23.273,210.0,0.1,17.7,21.8,573.0,257.0,0,0,4.0,2,0,44.0,98.0,0.519,1.36,Relaxation
+Kruger National Park,South Africa,Africa,Mpumalanga,-33.851,23.243,21.0,39.1,18.1,23.5,359.0,291.0,45.0,1,3.0,1,0,50.0,84.0,0.418,0.84,Adventure
+Johannesburg,South Africa,Africa,Gauteng,-31.413,20.445,111.0,136.4,17.0,24.1,524.0,266.0,35.0,0,7.0,1,0,43.5,75.0,0.313,0.49,Culture
+Pretoria,South Africa,Africa,Gauteng,-30.937,24.637,156.0,212.6,17.4,23.5,599.0,307.0,8.0,2,119.0,0,0,43.4,87.0,4.008,0.5,Culture
+Durban,South Africa,Africa,KwaZulu-Natal,-32.791,23.959,151.0,52.0,16.7,22.8,282.0,249.0,18.0,0,19.0,2,1,39.9,75.0,0.117,0.1,Culture
+Drakensberg,South Africa,Africa,KwaZulu-Natal,-30.766,22.189,922.0,360.9,11.3,16.5,433.0,229.0,92.0,0,3.0,1,0,35.7,97.0,0.131,0.07,Adventure
+Pilanesberg,South Africa,Africa,North West,-29.763,23.714,196.0,148.7,16.8,23.6,594.0,295.0,26.0,0,20.0,0,0,37.1,78.0,0.288,0.22,Adventure
+Sun City,South Africa,Africa,North West,-31.819,23.57,235.0,130.0,16.6,23.4,381.0,260.0,25.0,0,18.0,2,0,37.1,95.0,0.597,0.51,Family
+Wine Country - Franschhoek,South Africa,Africa,Western Cape,-30.204,19.582,0,2.5,17.2,24.3,634.0,275.0,10.0,0,8.0,1,0,64.2,110.0,2.01,0.93,Luxury
+Windhoek,Namibia,Africa,Khomas,-20.513,14.96,13.0,56.2,17.1,24.2,308.0,275.0,10.0,0,34.0,0,1,44.1,90.0,0.214,0.38,Adventure
+Sossusvlei,Namibia,Africa,Hardap,-25.569,13.459,10.0,216.7,16.6,25.3,305.0,254.0,0,0,0.0,2,0,41.8,82.0,0.057,0.84,Adventure
+Etosha National Park,Namibia,Africa,Oshikoto,-21.911,16.984,183.0,82.4,16.5,25.6,255.0,348.0,77.0,0,2.0,2,0,39.1,72.0,0.026,0.4,Adventure
+Swakopmund,Namibia,Africa,Erongo,-23.287,17.827,0,178.3,18.7,27.1,284.0,270.0,9.0,0,14.0,0,0,45.5,85.0,0.037,0.54,Adventure
+Damaraland,Namibia,Africa,Kunene,-24.737,15.499,121.0,131.4,17.0,26.1,270.0,297.0,0.0,0,2.0,2,1,37.6,80.0,0.143,2.24,Adventure
+Fish River Canyon,Namibia,Africa,Karas,-22.724,16.561,222.0,65.8,17.8,24.1,372.0,296.0,35.0,0,3.0,2,0,46.1,86.0,0.077,3.27,Adventure
+Skeleton Coast,Namibia,Africa,Erongo,-21.694,19.716,195.0,1.3,19.0,23.3,357.0,304.0,31.0,0,5.0,0,0,45.7,88.0,0.07,1.14,Adventure
+Okavango Delta,Botswana,Africa,North-West,-23.233,24.126,171.0,205.3,14.3,22.0,267.0,252.0,83.0,0,5.0,2,0,40.0,106.0,0.125,1.29,Adventure
+Chobe National Park,Botswana,Africa,North-West,-20.245,24.671,126.0,174.4,12.0,24.4,446.0,270.0,59.0,0,7.0,3,0,45.2,127.0,0.04,0.43,Adventure
+Kalahari,Botswana,Africa,Kgalagadi,-21.019,21.174,619.0,183.1,11.1,17.9,60.0,353.0,8.0,0,3.0,2,0,40.3,108.0,0.059,0.75,Adventure
+Maun,Botswana,Africa,North-West,-21.123,23.536,266.0,177.9,11.1,20.3,360.0,324.0,9.0,0,0,0,0,46.8,121.0,0.045,1.34,Adventure
+Gaborone,Botswana,Africa,South-East,-25.729,29.783,72.0,216.3,14.6,22.3,323.0,307.0,0,0,11.0,0,1,61.9,155.0,0.318,1.09,Adventure
+Antananarivo,Madagascar,Africa,Analamanga,-17.5,45.79,78.0,84.1,21.8,24.4,1402.0,231.0,14.0,0,64.0,0,0,38.4,76.0,0.067,0.01,Adventure
+Andasibe,Madagascar,Africa,Alaotra-Mangoro,-18.203,49.674,154.0,208.0,19.2,23.3,1625.0,208.0,10.0,0,23.0,0,0,33.8,54.0,0.031,0.05,Adventure
+Nosy Be,Madagascar,Africa,Diana,-17.815,45.472,165.0,214.7,20.1,23.0,1870.0,217.0,19.0,0,0.0,0,0,33.9,69.0,0.01,0.02,Adventure
+Avenue of the Baobabs,Madagascar,Africa,Menabe,-20.712,46.281,123.0,187.0,17.7,24.5,1305.0,226.0,0,0,0,1,0,30.5,51.0,0.02,0.02,Adventure
+Isalo National Park,Madagascar,Africa,Ihorombe,-18.457,49.308,75.0,159.0,20.3,22.3,1637.0,228.0,67.0,0,5.0,4,0,31.7,48.0,0.01,0.01,Adventure
+Tunis,Tunisia,Africa,Tunis,33.339,10.172,260.0,78.2,25.8,7.4,409.0,279.0,10.0,1,57.0,0,1,40.5,70.0,2.326,1.23,Culture
+Carthage,Tunisia,Africa,Tunis,33.088,7.749,59.0,137.9,28.0,7.2,371.0,308.0,1.0,1,34.0,0,0,31.8,48.0,0.387,0.71,Culture
+Sidi Bou Said,Tunisia,Africa,Tunis,33.015,8.09,52.0,161.0,29.0,9.9,396.0,262.0,22.0,0,18.0,1,0,25.7,48.0,0.305,3.45,Culture
+Hammamet,Tunisia,Africa,Nabeul,37.417,8.575,35.0,121.2,30.0,10.6,301.0,322.0,26.0,0,2.0,0,0,28.4,50.0,0.245,0.62,Relaxation
+Sousse,Tunisia,Africa,Sousse,35.175,8.086,0,68.4,27.5,11.9,348.0,326.0,13.0,0,11.0,0,1,36.1,59.0,0.727,2.28,Relaxation
+Djerba,Tunisia,Africa,Médenine,36.901,8.998,179.0,148.5,27.6,11.9,276.0,273.0,22.0,0,0.0,2,0,26.9,44.0,0.177,2.56,Relaxation
+Tozeur,Tunisia,Africa,Tozeur,32.669,9.686,26.0,186.6,28.8,7.8,438.0,276.0,28.0,0,11.0,0,1,30.6,59.0,0.394,1.45,Adventure
+Kairouan,Tunisia,Africa,Kairouan,32.707,10.554,58.0,75.8,28.2,8.0,243.0,269.0,0,0,16.0,1,0,32.4,65.0,0.179,1.13,Culture
+New York City,United States,North America,New York,40.766,-100.103,223.0,113.2,22.1,1.3,660.0,197.0,14.0,0,85.0,0,0,66.2,122.0,2.836,0.23,Culture
+Los Angeles,United States,North America,California,41.941,-99.924,105.0,31.8,22.7,0.9,756.0,197.0,37.0,1,99.0,2,0,61.8,124.0,6.924,2.64,Culture
+San Francisco,United States,North America,California,39.53,-98.49,245.0,226.3,21.4,1.2,610.0,204.0,26.0,1,98.0,0,0,77.0,143.0,6.073,2.18,Culture
+San Diego,United States,North America,California,37.702,-100.396,273.0,173.0,22.7,-0.7,518.0,193.0,27.0,0,86.0,0,0,74.9,150.0,2.981,0.3,Family
+Chicago,United States,North America,Illinois,40.008,-98.341,152.0,249.6,22.5,2.7,904.0,202.0,27.0,0,89.0,1,0,80.3,160.0,3.725,0.3,Culture
+Miami,United States,North America,Florida,39.925,-96.307,166.0,64.0,23.1,1.3,764.0,213.0,12.0,0,77.0,1,0,79.9,134.0,5.543,0.56,Relaxation
+Orlando,United States,North America,Florida,37.444,-102.726,122.0,62.3,20.8,1.8,691.0,205.0,22.0,1,87.0,0,2,84.2,151.0,1.942,0.52,Family
+Key West,United States,North America,Florida,39.698,-98.435,73.0,161.4,24.4,1.2,804.0,211.0,0,0,95.0,2,0,74.7,121.0,5.701,1.44,Relaxation
+Las Vegas,United States,North America,Nevada,39.8,-101.717,320.0,155.9,22.7,-1.4,1193.0,192.0,20.0,0,71.0,0,0,73.5,181.0,3.405,0.78,Luxury
+New Orleans,United States,North America,Louisiana,38.701,-96.047,56.0,170.0,24.0,2.7,773.0,215.0,14.0,0,86.0,1,0,61.0,123.0,5.423,0.69,Culture
+Boston,United States,North America,Massachusetts,42.371,-101.3,280.0,188.5,22.4,0.5,514.0,208.0,3.0,1,80.0,2,0,61.4,127.0,6.303,1.15,Culture
+Washington DC,United States,North America,DC,38.537,-98.874,107.0,168.8,22.9,1.6,741.0,224.0,14.0,3,347.0,1,0,85.0,181.0,15.118,0.19,Culture
+Seattle,United States,North America,Washington,38.815,-96.172,91.0,2.9,23.1,5.6,617.0,217.0,15.0,1,9.0,0,0,67.3,167.0,16.501,2.33,Culture
+Portland,United States,North America,Oregon,41.104,-96.439,114.0,2.4,23.5,3.0,942.0,220.0,37.0,1,11.0,0,1,68.7,132.0,14.772,3.76,Culture
+Austin,United States,North America,Texas,42.02,-98.688,77.0,109.5,24.4,1.5,687.0,175.0,17.0,0,92.0,2,0,67.6,129.0,4.451,0.36,Culture
+Nashville,United States,North America,Tennessee,36.927,-98.379,33.0,65.8,24.9,3.4,789.0,220.0,18.0,1,99.0,1,0,59.2,115.0,1.868,0.67,Culture
+Charleston,United States,North America,South Carolina,36.964,-98.938,44.0,147.3,23.0,-0.7,677.0,227.0,30.0,1,84.0,2,0,65.2,134.0,2.352,0.18,Culture
+Savannah,United States,North America,Georgia,40.256,-97.328,86.0,98.2,23.9,0.9,778.0,199.0,17.0,0,88.0,1,0,77.5,168.0,2.763,0.24,Culture
+Aspen,United States,North America,Colorado,39.064,-97.82,1843.0,186.8,12.6,-15.6,1130.0,199.0,82.0,2,5.0,3,0,118.8,226.0,5.29,0.43,Luxury
+Vail,United States,North America,Colorado,38.3,-99.003,2025.0,377.9,10.4,-17.3,1409.0,185.0,92.0,2,4.0,3,0,111.5,242.0,3.369,1.16,Luxury
+Denver,United States,North America,Colorado,41.427,-94.518,168.0,96.8,22.4,2.2,1027.0,203.0,14.0,1,76.0,0,0,83.3,169.0,5.199,3.01,Culture
+Yellowstone,United States,North America,Wyoming,38.314,-98.73,158.0,63.1,21.0,0.5,736.0,211.0,32.0,0,81.0,1,1,69.4,129.0,3.933,0.33,Adventure
+Grand Teton,United States,North America,Wyoming,39.192,-99.979,117.0,46.4,23.2,-0.9,629.0,197.0,6.0,1,70.0,0,0,57.4,137.0,4.876,0.51,Adventure
+Yosemite,United States,North America,California,40.206,-97.46,221.0,169.9,22.2,-0.0,501.0,213.0,18.0,0,96.0,0,1,73.4,119.0,5.327,0.78,Adventure
+Grand Canyon,United States,North America,Arizona,40.138,-95.791,140.0,220.1,24.2,2.5,595.0,165.0,58.0,1,3.0,2,0,85.5,169.0,2.615,0.4,Adventure
+Sedona,United States,North America,Arizona,40.107,-99.247,105.0,23.2,24.6,1.7,588.0,192.0,13.0,1,77.0,1,0,84.4,158.0,3.992,1.24,Relaxation
+Phoenix - Scottsdale,United States,North America,Arizona,39.918,-101.325,0,146.9,26.3,1.5,691.0,203.0,28.0,0,101.0,2,0,82.7,166.0,5.944,1.33,Luxury
+Moab,United States,North America,Utah,38.941,-94.934,126.0,147.9,21.4,-0.8,592.0,195.0,17.0,1,84.0,0,0,75.6,133.0,0.739,0.19,Adventure
+Zion,United States,North America,Utah,40.496,-97.422,125.0,205.1,22.3,-0.6,652.0,185.0,0,1,83.0,2,0,69.5,138.0,3.617,0.81,Adventure
+Bryce Canyon,United States,North America,Utah,38.96,-97.256,134.0,37.5,23.1,0.4,721.0,201.0,58.0,1,0,1,0,80.5,154.0,5.125,1.22,Adventure
+Arches,United States,North America,Utah,40.447,-97.62,191.0,248.0,22.2,-1.2,528.0,211.0,15.0,1,86.0,1,0,71.5,128.0,0.79,0.08,Adventure
+Glacier National Park,United States,North America,Montana,37.377,-99.247,2405.0,82.0,9.6,-20.9,1091.0,188.0,75.0,1,4.0,3,0,96.0,205.0,0.67,0.24,Adventure
+Bozeman,United States,North America,Montana,40.183,-98.79,108.0,83.3,23.6,2.1,733.0,178.0,20.0,0,93.0,1,0,70.1,136.0,2.714,0.26,Adventure
+Jackson Hole,United States,North America,Wyoming,37.121,-98.236,0,119.3,23.1,-0.6,821.0,218.0,19.0,0,90.0,1,0,78.4,158.0,5.95,1.25,Luxury
+Park City,United States,North America,Utah,40.182,-101.024,2380.0,384.0,8.3,-15.5,882.0,209.0,44.0,2,7.0,3,0,110.9,175.0,5.698,0.83,Luxury
+Lake Tahoe,United States,North America,California,38.678,-95.999,756.0,335.5,19.5,-3.8,684.0,232.0,29.0,1,89.0,0,1,63.2,105.0,6.912,0.82,Luxury
+Big Sur,United States,North America,California,40.618,-98.584,77.0,139.1,22.7,1.2,957.0,231.0,4.0,1,88.0,0,0,61.4,122.0,5.341,2.45,Adventure
+Napa Valley,United States,North America,California,41.388,-102.309,129.0,52.1,23.6,-1.1,815.0,210.0,8.0,1,91.0,0,0,99.3,199.0,5.231,0.49,Luxury
+Sonoma,United States,North America,California,39.197,-98.015,0,218.5,23.9,1.4,863.0,228.0,15.0,1,86.0,1,1,93.6,162.0,3.776,0.43,Luxury
+Hawaii - Maui,United States,North America,Hawaii,41.407,-99.647,0,92.0,23.0,-0.4,638.0,205.0,16.0,1,93.0,0,0,68.6,145.0,1.904,0.18,Relaxation
+Hawaii - Oahu,United States,North America,Hawaii,39.18,-102.024,119.0,92.2,21.8,1.6,710.0,206.0,32.0,1,92.0,1,0,65.4,143.0,3.161,0.72,Relaxation
+Hawaii - Big Island,United States,North America,Hawaii,39.213,-97.563,171.0,0.7,22.1,5.1,641.0,228.0,17.0,0,2.0,0,0,70.7,146.0,13.221,2.49,Adventure
+Hawaii - Kauai,United States,North America,Hawaii,37.993,-95.717,132.0,166.3,25.7,-0.1,770.0,210.0,18.0,0,91.0,1,0,80.1,125.0,4.851,0.38,Adventure
+Alaska - Anchorage,United States,North America,Alaska,38.335,-100.059,41.0,128.9,24.4,1.0,824.0,229.0,24.0,1,99.0,0,0,60.9,109.0,3.863,0.41,Adventure
+Alaska - Denali,United States,North America,Alaska,40.382,-98.749,39.0,56.5,23.8,3.3,723.0,190.0,16.0,0,79.0,1,1,65.5,130.0,2.724,0.78,Adventure
+Alaska - Juneau,United States,North America,Alaska,41.803,-96.675,94.0,86.8,23.9,0.7,802.0,180.0,9.0,0,96.0,0,1,82.9,158.0,2.017,0.4,Adventure
+Acadia National Park,United States,North America,Maine,40.576,-101.765,53.0,136.2,25.5,0.4,734.0,189.0,33.0,1,2.0,2,0,73.1,165.0,1.296,0.13,Adventure
+Outer Banks,United States,North America,North Carolina,40.364,-94.837,175.0,74.9,23.6,0.3,762.0,190.0,22.0,0,83.0,0,0,67.2,132.0,4.587,0.46,Relaxation
+Asheville,United States,North America,North Carolina,40.637,-97.917,22.0,159.5,24.4,3.8,689.0,197.0,20.0,0,96.0,0,0,71.6,137.0,6.521,0.87,Culture
+Smoky Mountains,United States,North America,Tennessee,40.756,-92.508,933.0,387.4,17.1,-2.4,568.0,171.0,50.0,1,4.0,1,1,60.5,133.0,1.735,0.55,Adventure
+Sundance,United States,North America,Utah,36.708,-101.106,123.0,128.6,24.4,0.9,649.0,195.0,45.0,0,87.0,0,1,71.2,135.0,3.209,0.27,Luxury
+Cape Cod,United States,North America,Massachusetts,41.311,-97.246,178.0,1.9,20.8,2.9,793.0,202.0,22.0,1,5.0,0,0,78.1,159.0,19.604,2.24,Luxury
+Martha's Vineyard,United States,North America,Massachusetts,38.914,-98.529,51.0,116.2,24.0,4.6,922.0,194.0,0,0,80.0,0,0,102.8,204.0,2.922,0.47,Luxury
+Nantucket,United States,North America,Massachusetts,37.063,-97.103,238.0,46.8,23.0,2.3,920.0,210.0,18.0,0,98.0,0,0,69.5,120.0,3.901,0.63,Luxury
+Niagara Falls (US),United States,North America,New York,39.268,-99.213,172.0,239.1,22.6,1.0,647.0,202.0,21.0,1,80.0,0,3,82.9,142.0,4.545,1.37,Family
+Williamsburg,United States,North America,Virginia,39.945,-96.135,108.0,29.3,25.3,1.5,1037.0,225.0,18.0,1,91.0,1,1,84.8,156.0,2.329,0.56,Family
+Toronto,Canada,North America,Ontario,54.732,-108.183,146.0,105.2,17.4,-13.1,532.0,188.0,10.0,1,12.0,1,0,62.6,148.0,1.861,1.88,Culture
+Vancouver,Canada,North America,British Columbia,57.275,-103.101,90.0,164.0,15.8,-12.4,422.0,162.0,33.0,0,4.0,2,0,71.7,138.0,0.218,0.24,Culture
+Montreal,Canada,North America,Quebec,57.606,-103.233,20.0,150.8,17.1,-11.0,652.0,173.0,38.0,1,2.0,0,1,74.7,162.0,1.815,3.63,Culture
+Quebec City,Canada,North America,Quebec,56.495,-109.398,27.0,240.9,18.5,-10.2,597.0,198.0,23.0,0,9.0,1,1,57.1,98.0,0.779,0.53,Culture
+Banff,Canada,North America,Alberta,55.709,-108.392,142.0,158.6,18.8,-13.6,607.0,187.0,19.0,1,15.0,1,0,69.4,169.0,0.36,0.92,Adventure
+Jasper,Canada,North America,Alberta,55.304,-108.583,65.0,215.3,18.8,-11.2,656.0,166.0,33.0,1,13.0,1,0,73.7,109.0,0.37,0.38,Adventure
+Lake Louise,Canada,North America,Alberta,56.246,-106.848,698.0,362.3,13.7,-19.2,515.0,192.0,42.0,1,13.0,1,0,57.1,108.0,1.754,1.29,Adventure
+Whistler,Canada,North America,British Columbia,55.032,-105.406,2478.0,80.3,1.3,-34.0,625.0,131.0,48.0,1,4.0,3,0,89.1,154.0,0.5,0.33,Luxury
+Victoria,Canada,North America,British Columbia,56.287,-106.497,210.0,160.8,17.2,-13.6,631.0,158.0,9.0,0,2.0,2,0,73.9,123.0,0.473,0.4,Culture
+Tofino,Canada,North America,British Columbia,56.224,-104.407,213.0,121.8,16.8,-13.6,608.0,177.0,10.0,0,2.0,0,0,71.3,120.0,1.517,1.28,Adventure
+Niagara-on-the-Lake,Canada,North America,Ontario,57.561,-110.021,754.0,394.2,10.5,-18.3,707.0,190.0,70.0,1,17.0,1,0,64.4,125.0,1.027,0.88,Luxury
+Ottawa,Canada,North America,Ontario,54.569,-105.127,185.0,241.0,18.0,-12.0,563.0,181.0,14.0,2,34.0,0,0,86.5,156.0,5.56,0.71,Culture
+Calgary,Canada,North America,Alberta,54.894,-104.423,189.0,151.9,16.4,-12.6,558.0,186.0,17.0,0,9.0,0,0,62.0,116.0,0.318,0.24,Culture
+Halifax,Canada,North America,Nova Scotia,55.057,-107.487,147.0,32.2,15.3,-12.3,599.0,167.0,0,1,11.0,1,0,63.3,119.0,1.022,0.78,Culture
+Cape Breton,Canada,North America,Nova Scotia,56.561,-107.236,109.0,1.9,17.8,-5.2,481.0,189.0,5.0,1,12.0,2,0,84.8,146.0,1.577,1.75,Adventure
+PEI - Charlottetown,Canada,North America,Prince Edward Island,54.995,-112.387,48.0,1.2,17.6,-6.4,435.0,187.0,0,1,6.0,1,0,90.3,170.0,3.747,5.31,Relaxation
+Churchill,Canada,North America,Manitoba,57.116,-109.607,103.0,217.8,19.4,-12.4,511.0,186.0,18.0,0,11.0,1,0,68.5,116.0,0.722,0.47,Adventure
+Yukon - Whitehorse,Canada,North America,Yukon,55.781,-103.188,73.0,113.1,17.8,-12.0,415.0,152.0,33.0,0,19.0,1,1,80.9,136.0,0.41,0.39,Adventure
+Mont Tremblant,Canada,North America,Quebec,55.515,-109.378,84.0,219.7,18.1,-12.8,718.0,166.0,28.0,1,0,0,0,76.6,129.0,0.612,1.64,Luxury
+Niagara Falls (CA),Canada,North America,Ontario,54.335,-104.657,71.0,189.1,15.9,-12.6,501.0,171.0,9.0,1,18.0,0,3,77.7,135.0,0.755,0.81,Family
+Mexico City,Mexico,North America,CDMX,23.154,-101.334,111.0,234.8,22.2,17.7,914.0,252.0,7.0,6,129.0,1,0,47.3,76.0,11.257,0.39,Culture
+Cancun,Mexico,North America,Quintana Roo,24.284,-100.945,190.0,65.1,23.1,16.7,677.0,227.0,2.0,0,36.0,0,2,40.2,76.0,4.117,1.75,Family
+Playa del Carmen,Mexico,North America,Quintana Roo,22.729,-104.824,37.0,150.9,24.4,17.9,719.0,264.0,14.0,1,30.0,1,0,36.0,72.0,2.941,2.0,Relaxation
+Tulum,Mexico,North America,Quintana Roo,25.767,-102.496,317.0,177.2,21.8,13.0,813.0,205.0,16.0,1,56.0,2,1,36.6,69.0,1.969,0.91,Relaxation
+Cozumel,Mexico,North America,Quintana Roo,22.388,-100.307,114.0,230.2,22.9,18.0,628.0,231.0,0,0,28.0,2,0,44.0,81.0,2.925,1.28,Relaxation
+Holbox,Mexico,North America,Quintana Roo,23.337,-99.756,139.0,139.4,25.9,16.1,728.0,239.0,7.0,1,45.0,1,0,33.8,62.0,2.022,0.42,Relaxation
+Bacalar,Mexico,North America,Quintana Roo,21.996,-100.864,180.0,131.4,24.2,17.4,700.0,216.0,12.0,2,39.0,0,0,33.0,64.0,1.204,0.85,Relaxation
+Mérida,Mexico,North America,Yucatán,22.709,-103.617,82.0,116.5,23.1,13.8,948.0,260.0,4.0,0,39.0,2,0,40.8,69.0,4.064,5.1,Culture
+Chichen Itza,Mexico,North America,Yucatán,25.927,-103.941,190.0,161.6,23.3,16.5,622.0,228.0,27.0,4,32.0,1,0,36.7,74.0,3.134,0.34,Culture
+Valladolid,Mexico,North America,Yucatán,22.69,-100.255,80.0,230.0,23.7,15.9,1009.0,229.0,3.0,2,33.0,2,0,36.9,71.0,2.519,0.69,Culture
+Oaxaca,Mexico,North America,Oaxaca,24.758,-104.361,101.0,155.3,25.4,16.8,662.0,268.0,7.0,0,34.0,2,1,44.4,74.0,2.963,0.65,Culture
+Puerto Escondido,Mexico,North America,Oaxaca,24.305,-99.132,158.0,105.7,23.2,19.1,788.0,288.0,26.0,2,49.0,0,0,42.4,78.0,1.062,0.31,Relaxation
+Mazunte,Mexico,North America,Oaxaca,23.932,-103.792,103.0,43.1,22.6,20.1,619.0,237.0,0,1,24.0,1,1,42.5,72.0,3.487,1.79,Relaxation
+San Cristóbal de las Casas,Mexico,North America,Chiapas,22.03,-105.435,189.0,49.8,24.7,13.2,663.0,199.0,6.0,0,56.0,0,0,30.6,61.0,0.641,0.42,Culture
+Palenque,Mexico,North America,Chiapas,22.628,-100.215,240.0,21.6,22.3,17.1,738.0,242.0,18.0,5,30.0,0,0,37.0,77.0,6.519,0.9,Culture
+Puebla,Mexico,North America,Puebla,22.083,-102.041,165.0,100.5,22.0,17.2,921.0,236.0,11.0,0,41.0,2,1,34.1,62.0,1.968,0.42,Culture
+San Miguel de Allende,Mexico,North America,Guanajuato,21.396,-105.651,77.0,110.3,22.8,17.2,686.0,244.0,8.0,1,38.0,0,0,41.1,82.0,2.745,3.56,Culture
+Guanajuato,Mexico,North America,Guanajuato,23.123,-102.117,162.0,239.7,23.6,16.4,680.0,246.0,21.0,1,42.0,2,0,34.6,65.0,1.821,0.37,Culture
+Guadalajara,Mexico,North America,Jalisco,22.796,-101.637,0,144.2,22.8,21.2,743.0,250.0,10.0,2,28.0,1,0,40.0,91.0,1.074,0.25,Culture
+Puerto Vallarta,Mexico,North America,Jalisco,23.096,-102.171,11.0,186.8,24.5,19.4,871.0,206.0,6.0,0,39.0,0,0,34.6,60.0,2.787,1.74,Luxury
+Sayulita,Mexico,North America,Nayarit,20.309,-103.564,0,51.8,26.8,16.9,679.0,239.0,27.0,2,39.0,0,0,37.9,57.0,2.852,1.56,Relaxation
+Los Cabos,Mexico,North America,Baja California Sur,23.325,-105.175,83.0,236.1,24.5,16.3,575.0,239.0,8.0,2,41.0,1,0,36.6,74.0,4.424,1.06,Luxury
+La Paz (Mexico),Mexico,North America,Baja California Sur,22.37,-102.376,99.0,24.0,24.2,17.2,707.0,245.0,0,1,31.0,1,0,42.7,81.0,2.995,4.03,Adventure
+Todos Santos,Mexico,North America,Baja California Sur,20.422,-101.047,205.0,199.2,22.5,14.7,733.0,243.0,8.0,1,46.0,2,0,39.4,73.0,0.896,0.27,Relaxation
+Copper Canyon,Mexico,North America,Chihuahua,24.455,-98.233,235.0,53.4,23.1,16.7,803.0,251.0,77.0,2,5.0,3,0,41.7,78.0,0.848,0.36,Adventure
+Veracruz,Mexico,North America,Veracruz,21.376,-99.097,228.0,29.6,22.3,16.3,831.0,253.0,11.0,1,27.0,0,0,39.3,71.0,1.223,0.4,Culture
+Tequila,Mexico,North America,Jalisco,22.904,-103.777,45.0,221.7,24.5,15.3,933.0,260.0,11.0,1,41.0,2,0,40.8,77.0,4.59,3.5,Culture
+San Jose (CR),Costa Rica,Central America,San José,9.822,-84.24,161.0,213.2,20.4,21.7,1985.0,220.0,6.0,0,0,0,0,60.7,119.0,0.99,0.88,Adventure
+La Fortuna (Arenal),Costa Rica,Central America,Alajuela,7.748,-83.709,207.0,52.6,22.7,25.9,2281.0,184.0,20.0,0,15.0,0,0,45.3,83.0,0.047,0.98,Adventure
+Monteverde,Costa Rica,Central America,Puntarenas,11.031,-85.721,60.0,148.2,22.5,24.5,2487.0,179.0,32.0,0,3.0,2,0,49.4,96.0,0.076,1.04,Adventure
+Manuel Antonio,Costa Rica,Central America,Puntarenas,7.088,-81.536,7.0,177.4,22.4,23.1,2794.0,178.0,33.0,0,10.0,1,1,53.4,93.0,0.111,1.18,Relaxation
+Tamarindo,Costa Rica,Central America,Guanacaste,10.924,-86.93,45.0,100.0,22.2,26.5,3274.0,186.0,36.0,0,3.0,1,0,41.5,84.0,0.041,1.32,Relaxation
+Nosara,Costa Rica,Central America,Guanacaste,7.976,-80.988,45.0,147.4,23.7,24.6,2919.0,183.0,39.0,0,15.0,2,0,54.5,110.0,0.035,0.4,Relaxation
+Santa Teresa,Costa Rica,Central America,Puntarenas,8.037,-83.22,133.0,136.9,21.7,23.5,3678.0,198.0,20.0,0,25.0,1,0,52.1,108.0,0.185,6.06,Relaxation
+Puerto Viejo,Costa Rica,Central America,Limón,8.817,-85.162,100.0,142.3,21.2,23.1,2406.0,197.0,33.0,0,8.0,0,0,61.9,100.0,0.182,0.92,Relaxation
+Tortuguero,Costa Rica,Central America,Limón,9.155,-80.632,48.0,224.6,22.1,24.0,2785.0,194.0,33.0,0,11.0,0,0,56.4,120.0,0.144,0.88,Adventure
+Corcovado,Costa Rica,Central America,Puntarenas,10.947,-83.82,95.0,155.4,22.1,22.7,2898.0,193.0,26.0,0,0,2,0,55.7,90.0,0.027,0.38,Adventure
+Drake Bay,Costa Rica,Central America,Puntarenas,8.828,-83.262,120.0,2.4,23.5,22.9,2147.0,190.0,9.0,0,13.0,1,0,55.2,111.0,0.419,8.74,Adventure
+Jaco,Costa Rica,Central America,Puntarenas,10.366,-86.336,176.0,192.5,24.0,24.8,3184.0,188.0,8.0,0,8.0,2,0,49.0,98.0,0.264,1.79,Relaxation
+Panama City,Panama,Central America,Panamá,10.638,-82.986,60.0,229.8,27.9,26.6,3463.0,192.0,11.0,1,28.0,0,0,56.3,96.0,0.451,0.63,Culture
+Bocas del Toro,Panama,Central America,Bocas del Toro,6.76,-79.208,21.0,171.6,25.7,25.2,2644.0,220.0,31.0,0,0.0,0,0,50.7,80.0,0.085,0.93,Relaxation
+San Blas Islands,Panama,Central America,Guna Yala,6.639,-80.21,151.0,2.9,27.0,24.3,2241.0,185.0,37.0,0,4.0,0,1,61.3,100.0,0.287,3.68,Relaxation
+Boquete,Panama,Central America,Chiriquí,10.329,-82.283,195.0,233.2,24.6,25.0,2179.0,189.0,27.0,0,6.0,1,0,45.1,92.0,0.049,0.45,Adventure
+Casco Viejo,Panama,Central America,Panamá,7.569,-81.423,197.0,195.9,24.3,22.7,2129.0,189.0,24.0,0,0.0,1,0,43.4,88.0,0.052,0.54,Culture
+Antigua,Guatemala,Central America,Sacatepéquez,13.148,-91.24,73.0,155.4,21.6,20.3,2341.0,196.0,11.0,0,8.0,1,1,37.3,61.0,0.122,0.41,Culture
+Lake Atitlán,Guatemala,Central America,Sololá,14.377,-90.883,759.0,265.9,17.5,16.5,1750.0,194.0,28.0,0,23.0,1,0,30.6,46.0,0.137,0.38,Adventure
+Tikal,Guatemala,Central America,Petén,15.624,-87.817,170.0,55.2,22.0,18.1,2533.0,220.0,35.0,1,26.0,1,0,33.7,44.0,0.304,0.66,Culture
+Flores,Guatemala,Central America,Petén,13.993,-90.732,10.0,222.5,21.9,20.7,2433.0,152.0,19.0,0,0,1,0,39.5,62.0,0.166,1.03,Culture
+Guatemala City,Guatemala,Central America,Guatemala,19.625,-94.102,121.0,247.0,23.0,18.6,2018.0,205.0,5.0,0,50.0,1,0,42.4,64.0,0.399,0.12,Culture
+Semuc Champey,Guatemala,Central America,Alta Verapaz,16.918,-89.195,128.0,58.1,20.9,20.2,2023.0,197.0,20.0,0,15.0,0,1,38.2,57.0,0.106,0.17,Adventure
+Chichicastenango,Guatemala,Central America,El Quiché,13.38,-89.586,267.0,35.0,18.6,15.9,2139.0,183.0,8.0,0,19.0,0,1,35.3,53.0,0.03,0.12,Culture
+Belize City,Belize,Central America,Belize,12.319,-89.197,156.0,163.2,24.8,24.8,1754.0,252.0,6.0,0,0,0,1,60.5,112.0,0.139,1.39,Culture
+Ambergris Caye,Belize,Central America,Belize,16.247,-87.324,147.0,1.0,26.0,22.2,2543.0,225.0,11.0,0,5.0,0,0,51.8,119.0,0.094,4.71,Relaxation
+Caye Caulker,Belize,Central America,Belize,17.907,-88.229,37.0,2.2,27.1,23.1,2728.0,230.0,2.0,0,3.0,0,0,55.1,101.0,0.066,3.31,Relaxation
+Placencia,Belize,Central America,Stann Creek,19.365,-88.047,0,88.7,27.0,25.1,1951.0,270.0,22.0,0,3.0,2,0,45.0,87.0,0.022,1.11,Relaxation
+San Ignacio,Belize,Central America,Cayo,18.682,-92.687,57.0,132.7,29.8,21.9,2156.0,250.0,17.0,0,8.0,0,0,44.3,108.0,0.036,1.78,Adventure
+Havana,Cuba,Caribbean,La Habana,22.427,-81.694,153.0,62.4,24.7,19.0,1478.0,312.0,10.0,1,30.0,0,0,45.2,84.0,0.67,0.48,Culture
+Varadero,Cuba,Caribbean,Matanzas,20.445,-72.855,145.0,222.7,25.8,20.5,1051.0,258.0,22.0,0,5.0,0,0,44.3,92.0,0.346,0.94,Relaxation
+Trinidad (Cuba),Cuba,Caribbean,Sancti Spíritus,21.48,-74.229,0,0.0,24.6,22.7,1250.0,314.0,23.0,1,1.0,2,0,46.5,89.0,0.947,9.12,Culture
+Viñales,Cuba,Caribbean,Pinar del Río,21.555,-78.123,148.0,248.7,25.8,20.1,1399.0,312.0,28.0,0,6.0,0,0,30.5,64.0,0.08,0.36,Adventure
+Cienfuegos,Cuba,Caribbean,Cienfuegos,20.699,-80.853,186.0,126.1,25.7,19.2,1649.0,322.0,37.0,1,10.0,2,0,35.9,63.0,0.299,0.69,Culture
+Santiago de Cuba,Cuba,Caribbean,Santiago de Cuba,21.456,-77.298,178.0,2.0,25.9,20.1,1712.0,287.0,0,0,8.0,0,0,44.9,71.0,0.632,3.83,Culture
+Cayo Coco,Cuba,Caribbean,Ciego de Ávila,23.748,-78.233,13.0,39.5,26.4,19.5,1452.0,292.0,5.0,0,0,1,0,31.8,67.0,0.182,0.49,Relaxation
+Punta Cana,Dominican Republic,Caribbean,La Altagracia,20.122,-71.82,220.0,204.3,26.7,25.0,1581.0,275.0,8.0,0,7.0,1,2,45.0,86.0,0.179,0.45,Family
+Santo Domingo,Dominican Republic,Caribbean,Distrito Nacional,18.472,-69.439,113.0,231.8,27.6,22.6,1060.0,246.0,9.0,0,19.0,0,0,49.0,105.0,2.649,0.99,Culture
+Puerto Plata,Dominican Republic,Caribbean,Puerto Plata,18.884,-68.593,145.0,143.1,26.3,22.7,1471.0,229.0,8.0,0,6.0,1,0,43.1,98.0,0.372,1.2,Relaxation
+Samaná,Dominican Republic,Caribbean,Samaná,20.72,-73.018,154.0,117.9,25.5,21.5,1244.0,263.0,29.0,0,31.0,1,0,47.7,97.0,0.443,1.4,Relaxation
+Las Terrenas,Dominican Republic,Caribbean,Samaná,18.974,-69.245,179.0,246.9,24.6,19.1,1237.0,237.0,6.0,0,11.0,0,0,40.5,82.0,0.152,0.35,Relaxation
+Bayahibe,Dominican Republic,Caribbean,La Altagracia,21.193,-70.97,40.0,2.5,26.9,24.4,1416.0,263.0,14.0,0,11.0,0,0,42.4,89.0,0.573,1.44,Relaxation
+La Romana,Dominican Republic,Caribbean,La Romana,21.289,-70.387,56.0,46.4,28.5,25.1,1239.0,221.0,1.0,0,11.0,1,0,39.8,93.0,0.228,2.51,Relaxation
+Montego Bay,Jamaica,Caribbean,St. James,20.33,-76.086,173.0,1.0,25.6,22.3,3148.0,239.0,6.0,0,5.0,2,0,46.7,85.0,0.57,5.97,Relaxation
+Negril,Jamaica,Caribbean,Westmoreland,18.2,-77.816,164.0,23.9,28.9,23.7,1685.0,279.0,24.0,0,24.0,2,0,43.8,91.0,0.055,0.97,Relaxation
+Ocho Rios,Jamaica,Caribbean,St. Ann,19.289,-78.5,116.0,228.1,27.7,22.1,2216.0,293.0,3.0,0,21.0,1,0,37.6,85.0,0.238,2.29,Relaxation
+Kingston,Jamaica,Caribbean,Kingston,17.854,-74.543,227.0,104.5,27.0,21.6,1910.0,257.0,10.0,0,10.0,1,0,51.4,102.0,0.596,1.29,Relaxation
+Port Antonio,Jamaica,Caribbean,Portland,15.089,-78.757,37.0,3.0,26.4,22.1,1814.0,255.0,9.0,0,4.0,1,0,46.1,102.0,0.407,15.4,Relaxation
+Nassau,Bahamas,Caribbean,New Providence,25.05,-76.372,220.0,102.5,25.2,21.8,1032.0,260.0,4.0,0,88.0,0,1,90.4,233.0,1.797,17.97,Family
+Paradise Island,Bahamas,Caribbean,New Providence,22.818,-71.382,34.0,2.1,27.2,20.9,1307.0,291.0,28.0,0,11.0,2,0,80.2,192.0,0.397,79.39,Luxury
+Exuma,Bahamas,Caribbean,Exuma,25.363,-73.68,25.0,37.1,28.0,24.1,1421.0,350.0,5.0,0,0,0,0,81.8,186.0,0.586,29.28,Relaxation
+Eleuthera,Bahamas,Caribbean,Eleuthera,24.444,-77.022,145.0,214.2,26.5,19.2,1627.0,299.0,4.0,0,13.0,1,0,90.6,215.0,0.141,7.07,Relaxation
+Bimini,Bahamas,Caribbean,Bimini,23.379,-75.766,173.0,95.5,28.2,20.4,895.0,310.0,6.0,0,20.0,0,0,69.7,180.0,0.571,28.56,Relaxation
+Andros,Bahamas,Caribbean,Andros,26.05,-76.897,245.0,21.4,25.5,22.8,1465.0,332.0,1.0,0,9.0,1,1,81.5,226.0,0.081,4.04,Relaxation
+Abaco,Bahamas,Caribbean,Abaco,25.125,-75.339,264.0,191.1,27.5,20.7,1727.0,302.0,3.0,0,6.0,0,0,81.4,205.0,0.302,15.09,Relaxation
+Bridgetown,Barbados,Caribbean,Saint Michael,14.252,-62.052,195.0,91.8,25.6,23.2,948.0,305.0,15.0,0,13.0,0,0,81.1,172.0,0.156,1.56,Relaxation
+Holetown,Barbados,Caribbean,Saint James,13.533,-60.236,29.0,232.9,26.5,25.8,1278.0,289.0,21.0,0,8.0,0,0,55.8,130.0,0.045,2.23,Relaxation
+Bathsheba,Barbados,Caribbean,Saint Joseph,13.887,-57.447,58.0,200.2,30.7,24.4,1051.0,251.0,6.0,0,9.0,2,0,77.8,192.0,0.042,2.11,Relaxation
+Oistins,Barbados,Caribbean,Christ Church,12.303,-60.241,108.0,88.9,26.4,23.3,1260.0,295.0,15.0,0,0,1,0,71.5,152.0,0.03,1.52,Relaxation
+Castries,Saint Lucia,Caribbean,Castries,13.82,-60.368,49.0,101.1,29.0,23.7,2273.0,274.0,11.0,0,12.0,0,0,70.2,160.0,0.12,1.2,Relaxation
+Soufrière (Pitons),Saint Lucia,Caribbean,Soufrière,11.354,-63.469,147.0,43.0,27.3,24.7,1157.0,322.0,34.0,0,3.0,1,0,61.5,145.0,0.01,0.5,Adventure
+Rodney Bay,Saint Lucia,Caribbean,Gros Islet,13.146,-59.942,196.0,2.1,23.9,23.6,2323.0,279.0,15.0,0,3.0,2,0,85.9,244.0,0.067,13.46,Relaxation
+Marigot Bay,Saint Lucia,Caribbean,Castries,15.15,-60.45,37.0,2.8,28.6,24.7,1997.0,280.0,0.0,0,0,1,0,73.6,192.0,0.062,3.08,Relaxation
+Lima,Peru,South America,Lima,-8.263,-76.85,0,182.9,17.1,18.8,545.0,211.0,9.0,3,67.0,1,0,41.4,60.0,0.771,0.22,Culture
+Cusco,Peru,South America,Cusco,-9.926,-77.446,194.0,235.7,16.8,19.9,521.0,175.0,17.0,1,23.0,2,1,37.4,67.0,0.21,0.17,Adventure
+Machu Picchu,Peru,South America,Cusco,-7.83,-75.471,124.0,106.0,16.3,18.4,575.0,196.0,21.0,1,40.0,2,0,26.9,39.0,0.533,0.32,Adventure
+Sacred Valley,Peru,South America,Cusco,-7.873,-74.116,62.0,199.0,17.9,23.6,380.0,175.0,18.0,0,18.0,0,0,29.2,42.0,0.109,0.25,Adventure
+Ollantaytambo,Peru,South America,Cusco,-7.458,-74.959,9.0,56.2,19.6,19.4,667.0,180.0,4.0,0,15.0,1,0,32.7,52.0,0.135,0.16,Adventure
+Aguas Calientes,Peru,South America,Cusco,-10.734,-77.117,0,70.3,17.1,20.2,695.0,202.0,19.0,1,3.0,1,0,26.6,48.0,0.396,0.48,Adventure
+Arequipa,Peru,South America,Arequipa,-10.183,-74.214,286.0,46.8,16.4,16.9,678.0,206.0,5.0,0,19.0,1,0,34.4,53.0,0.166,0.3,Culture
+Colca Canyon,Peru,South America,Arequipa,-10.082,-75.514,182.0,197.3,18.5,18.2,700.0,204.0,93.0,1,3.0,1,1,27.5,46.0,0.073,0.1,Adventure
+Puno (Lake Titicaca),Peru,South America,Puno,-9.526,-74.898,558.0,80.4,13.9,16.6,564.0,208.0,31.0,0,4.0,1,0,27.4,45.0,0.282,0.36,Adventure
+Amazon - Iquitos,Peru,South America,Loreto,-9.674,-73.15,194.0,132.4,17.9,18.8,642.0,204.0,71.0,1,4.0,2,0,26.7,46.0,0.172,0.17,Adventure
+Amazon - Puerto Maldonado,Peru,South America,Madre de Dios,-11.497,-72.885,177.0,30.2,20.4,20.3,558.0,210.0,20.0,1,2.0,2,0,35.6,61.0,0.105,0.14,Adventure
+Huacachina,Peru,South America,Ica,-10.131,-77.031,264.0,219.2,14.1,14.2,712.0,220.0,18.0,0,14.0,0,0,29.7,50.0,0.087,0.18,Adventure
+Paracas,Peru,South America,Ica,-7.009,-75.396,211.0,84.1,16.8,19.4,599.0,180.0,26.0,1,19.0,1,0,33.1,52.0,0.074,0.08,Adventure
+Nazca,Peru,South America,Ica,-11.634,-73.404,111.0,184.3,18.7,21.6,679.0,213.0,3.0,1,28.0,0,0,37.5,61.0,0.142,0.63,Adventure
+Trujillo,Peru,South America,La Libertad,-8.714,-75.029,173.0,176.9,17.4,17.6,621.0,189.0,23.0,0,6.0,2,0,32.9,57.0,0.232,0.35,Culture
+Chachapoyas,Peru,South America,Amazonas,-9.072,-72.737,39.0,190.7,16.6,20.0,433.0,180.0,73.0,1,6.0,1,1,27.5,57.0,0.18,0.28,Adventure
+Huaraz,Peru,South America,Áncash,-9.509,-74.52,147.0,219.8,18.2,18.5,636.0,200.0,1.0,1,23.0,1,0,32.4,64.0,0.272,0.21,Adventure
+Rainbow Mountain,Peru,South America,Cusco,-10.133,-72.931,1351.0,195.7,9.9,10.8,684.0,171.0,61.0,1,1.0,2,0,33.8,58.0,0.177,0.98,Adventure
+Rio de Janeiro,Brazil,South America,Rio de Janeiro,-15.078,-53.454,80.0,58.9,22.7,25.5,2174.0,252.0,18.0,0,60.0,0,1,43.2,82.0,0.177,0.03,Culture
+São Paulo,Brazil,South America,São Paulo,-12.75,-50.469,0,29.0,22.8,23.7,956.0,216.0,3.0,0,53.0,0,0,40.8,76.0,0.215,0.05,Culture
+Salvador,Brazil,South America,Bahia,-13.847,-49.382,177.0,185.6,19.5,24.0,1642.0,193.0,18.0,1,55.0,0,0,33.5,68.0,0.54,0.19,Culture
+Foz do Iguaçu,Brazil,South America,Paraná,-11.696,-50.1,177.0,113.3,20.7,21.2,2047.0,225.0,20.0,1,68.0,1,0,39.8,68.0,0.429,0.05,Adventure
+Florianópolis,Brazil,South America,Santa Catarina,-14.834,-56.608,183.0,65.9,21.3,24.4,1633.0,186.0,0,0,49.0,2,0,44.1,64.0,0.134,0.06,Relaxation
+Manaus (Amazon),Brazil,South America,Amazonas,-14.27,-51.487,117.0,96.4,22.1,24.3,1340.0,261.0,46.0,2,4.0,2,0,45.4,74.0,0.376,0.15,Adventure
+Pantanal,Brazil,South America,Mato Grosso,-13.528,-53.078,0,51.4,24.0,22.4,2059.0,255.0,11.0,1,65.0,1,0,38.2,72.0,0.649,0.09,Adventure
+Fernando de Noronha,Brazil,South America,Pernambuco,-14.612,-50.243,74.0,32.8,24.3,22.6,1612.0,242.0,5.0,1,58.0,2,0,40.2,67.0,0.211,0.09,Relaxation
+Recife,Brazil,South America,Pernambuco,-13.645,-52.237,109.0,230.7,21.0,22.1,1606.0,249.0,30.0,1,58.0,2,0,33.9,69.0,0.262,0.18,Relaxation
+Porto de Galinhas,Brazil,South America,Pernambuco,-16.352,-51.85,180.0,2.4,23.1,23.7,1935.0,251.0,0,1,7.0,1,0,43.6,73.0,0.387,0.35,Relaxation
+Jericoacoara,Brazil,South America,Ceará,-14.296,-51.196,205.0,164.7,19.3,22.1,1838.0,218.0,17.0,0,65.0,2,0,32.1,63.0,0.427,0.18,Relaxation
+Fortaleza,Brazil,South America,Ceará,-13.305,-50.661,70.0,237.4,24.1,23.8,1748.0,224.0,37.0,1,72.0,1,0,43.2,88.0,0.587,0.23,Relaxation
+Búzios,Brazil,South America,Rio de Janeiro,-13.53,-49.256,93.0,198.4,23.0,24.5,2137.0,230.0,8.0,1,67.0,1,0,33.5,60.0,0.316,0.05,Relaxation
+Paraty,Brazil,South America,Rio de Janeiro,-13.484,-52.51,192.0,207.4,23.3,23.1,2119.0,260.0,4.0,0,55.0,0,0,38.9,65.0,0.33,0.04,Relaxation
+Ilha Grande,Brazil,South America,Rio de Janeiro,-14.846,-51.733,328.0,30.5,21.9,22.7,2086.0,242.0,7.0,1,67.0,1,0,35.7,63.0,0.238,0.03,Relaxation
+Lençóis Maranhenses,Brazil,South America,Maranhão,-13.35,-54.173,200.0,148.9,20.7,25.0,1586.0,262.0,9.0,1,46.0,1,0,31.7,62.0,0.265,0.09,Adventure
+Chapada Diamantina,Brazil,South America,Bahia,-11.637,-47.485,341.0,246.0,20.0,22.3,1841.0,239.0,10.0,0,54.0,0,0,42.3,86.0,0.289,0.05,Adventure
+Brasília,Brazil,South America,Federal District,-15.376,-55.545,207.0,113.2,24.4,20.7,2096.0,195.0,0,3,221.0,0,1,42.3,75.0,1.027,0.02,Culture
+Trancoso,Brazil,South America,Bahia,-15.371,-52.214,82.0,44.0,21.2,23.6,2052.0,225.0,30.0,1,60.0,1,0,38.8,88.0,0.153,0.03,Luxury
+Buenos Aires,Argentina,South America,Buenos Aires,-39.631,-63.69,36.0,185.6,14.7,16.9,511.0,214.0,12.0,2,66.0,0,0,42.5,74.0,1.383,0.14,Culture
+Mendoza,Argentina,South America,Mendoza,-36.656,-62.47,184.0,118.5,12.3,20.3,627.0,244.0,24.0,0,18.0,2,0,50.2,101.0,0.53,2.04,Luxury
+Bariloche,Argentina,South America,Río Negro,-36.393,-58.824,600.0,102.8,11.0,12.8,704.0,240.0,38.0,0,19.0,0,0,33.1,57.0,0.193,0.17,Adventure
+El Calafate,Argentina,South America,Santa Cruz,-38.832,-64.979,112.0,57.9,11.9,17.4,729.0,231.0,16.0,0,12.0,0,0,28.5,54.0,0.218,0.36,Adventure
+El Chaltén,Argentina,South America,Santa Cruz,-39.902,-64.488,78.0,165.1,11.1,16.0,574.0,209.0,4.0,0,10.0,1,0,34.6,60.0,0.12,0.4,Adventure
+Ushuaia,Argentina,South America,Tierra del Fuego,-39.12,-63.051,141.0,213.7,13.3,15.4,354.0,259.0,5.0,1,13.0,1,0,30.5,60.0,0.281,0.19,Adventure
+Iguazú Falls (AR),Argentina,South America,Misiones,-38.114,-65.281,122.0,123.0,12.2,17.6,705.0,213.0,21.0,0,33.0,0,0,31.7,57.0,0.158,0.13,Adventure
+Salta,Argentina,South America,Salta,-37.427,-64.804,162.0,118.1,13.5,18.5,797.0,237.0,6.0,0,13.0,1,0,28.4,49.0,0.236,0.48,Culture
+Cafayate,Argentina,South America,Salta,-39.325,-62.505,190.0,67.5,11.7,21.0,690.0,201.0,27.0,0,11.0,2,0,44.6,91.0,0.501,0.35,Luxury
+Córdoba (AR),Argentina,South America,Córdoba,-39.346,-60.231,0,87.2,14.3,20.3,642.0,190.0,13.0,0,20.0,2,0,34.6,73.0,0.32,0.54,Culture
+Tigre,Argentina,South America,Buenos Aires,-39.339,-60.599,9.0,80.7,12.2,17.6,524.0,201.0,17.0,0,18.0,1,0,33.9,60.0,0.259,0.16,Relaxation
+Mar del Plata,Argentina,South America,Buenos Aires,-39.666,-67.646,28.0,42.9,15.5,21.1,783.0,220.0,12.0,0,17.0,1,0,30.6,68.0,0.378,0.42,Relaxation
+Puerto Madryn,Argentina,South America,Chubut,-37.392,-65.46,243.0,50.3,12.5,16.0,691.0,221.0,0,0,10.0,0,0,29.7,58.0,0.295,0.66,Adventure
+Tilcara,Argentina,South America,Jujuy,-36.496,-61.156,206.0,126.1,14.2,14.3,457.0,216.0,20.0,0,26.0,1,1,29.3,65.0,0.662,1.02,Culture
+Santiago,Chile,South America,Metropolitan,-36.66,-72.577,172.0,79.7,13.3,18.2,444.0,247.0,3.0,2,45.0,0,0,40.7,91.0,0.797,0.27,Culture
+Valparaíso,Chile,South America,Valparaíso,-36.091,-71.917,181.0,67.8,14.6,17.6,341.0,214.0,4.0,0,17.0,1,0,45.7,77.0,0.179,0.3,Culture
+Atacama Desert (San Pedro),Chile,South America,Antofagasta,-37.825,-68.987,505.0,266.4,13.6,17.7,67.0,258.0,7.0,0,4.0,2,0,49.1,82.0,0.077,0.3,Adventure
+Patagonia - Puerto Natales,Chile,South America,Magallanes,-34.924,-75.151,165.0,207.5,13.7,16.0,363.0,231.0,22.0,0,8.0,0,0,33.7,74.0,0.104,0.53,Adventure
+Torres del Paine,Chile,South America,Magallanes,-34.691,-69.985,176.0,221.9,13.8,17.0,450.0,240.0,29.0,0,6.0,1,0,36.9,74.0,0.128,0.2,Adventure
+Easter Island,Chile,South America,Valparaíso,-36.77,-72.675,144.0,2.2,14.5,18.1,541.0,242.0,19.0,0,12.0,2,0,47.6,90.0,0.378,1.02,Adventure
+Pucón,Chile,South America,Araucanía,-35.578,-72.097,34.0,237.7,14.4,18.6,275.0,253.0,0,0,5.0,0,0,37.7,72.0,0.173,0.24,Adventure
+Chiloé,Chile,South America,Los Lagos,-38.123,-69.55,66.0,187.8,13.3,20.3,365.0,213.0,20.0,0,14.0,2,0,40.9,86.0,0.035,0.1,Adventure
+Wine Country - Colchagua,Chile,South America,O'Higgins,-37.498,-72.142,161.0,175.9,13.6,16.0,353.0,245.0,15.0,0,0,2,0,53.3,94.0,0.276,0.37,Luxury
+La Serena,Chile,South America,Coquimbo,-35.834,-72.615,121.0,63.2,15.1,14.0,324.0,242.0,14.0,0,14.0,1,1,36.1,60.0,0.09,0.14,Adventure
+Punta Arenas,Chile,South America,Magallanes,-35.722,-72.14,309.0,37.0,11.3,17.8,287.0,211.0,19.0,0,20.0,1,0,46.3,78.0,0.071,0.22,Adventure
+Bogotá,Colombia,South America,Cundinamarca,6.521,-76.537,71.0,52.7,21.6,21.1,2421.0,200.0,12.0,2,91.0,0,0,36.4,56.0,0.974,0.09,Culture
+Cartagena,Colombia,South America,Bolívar,2.783,-75.861,151.0,64.9,20.4,21.8,1739.0,204.0,9.0,0,12.0,0,0,39.4,54.0,0.299,1.08,Culture
+Medellín,Colombia,South America,Antioquia,1.957,-73.504,197.0,177.1,20.8,21.9,1747.0,225.0,22.0,0,20.0,1,0,33.6,56.0,0.115,0.06,Culture
+Santa Marta,Colombia,South America,Magdalena,3.53,-75.305,125.0,231.9,21.9,19.6,2524.0,208.0,23.0,0,3.0,1,0,30.3,48.0,0.139,0.09,Culture
+Tayrona National Park,Colombia,South America,Magdalena,5.702,-72.059,172.0,218.9,21.6,23.3,2208.0,221.0,62.0,0,2.0,2,0,29.5,54.0,0.137,0.08,Adventure
+San Andrés,Colombia,South America,San Andrés,4.222,-77.211,143.0,106.7,21.0,21.5,2688.0,177.0,14.0,0,22.0,0,0,33.1,56.0,0.191,0.11,Relaxation
+Salento (Coffee Region),Colombia,South America,Quindío,5.072,-70.416,226.0,60.7,21.2,23.7,3262.0,203.0,19.0,0,0.0,0,0,32.1,59.0,0.155,0.08,Adventure
+Cali,Colombia,South America,Valle del Cauca,4.542,-74.051,123.0,95.1,20.6,21.7,2348.0,195.0,23.0,0,18.0,1,0,36.0,67.0,0.193,0.17,Culture
+Guatapé,Colombia,South America,Antioquia,5.496,-76.412,153.0,166.7,18.0,21.4,3256.0,200.0,0,0,14.0,1,0,28.6,54.0,0.362,0.63,Culture
+Caño Cristales,Colombia,South America,Meta,4.697,-73.952,111.0,57.5,20.9,22.3,2702.0,213.0,14.0,0,1.0,0,0,35.2,52.0,0.173,0.13,Adventure
+Quito,Ecuador,South America,Pichincha,-0.603,-78.435,107.0,57.0,16.8,20.1,1376.0,185.0,7.0,1,44.0,0,1,37.0,75.0,0.609,0.19,Culture
+Galápagos - Santa Cruz,Ecuador,South America,Galápagos,-1.275,-76.317,125.0,165.3,17.1,19.8,1651.0,191.0,30.0,0,5.0,2,0,34.1,72.0,0.086,0.19,Adventure
+Galápagos - Isabela,Ecuador,South America,Galápagos,-2.202,-78.652,21.0,57.7,19.0,19.3,1576.0,190.0,25.0,0,15.0,2,0,33.7,61.0,0.025,0.06,Adventure
+Cuenca (Ecuador),Ecuador,South America,Azuay,-1.294,-78.69,100.0,165.2,17.9,17.7,1370.0,197.0,9.0,0,16.0,1,1,32.1,56.0,0.11,0.19,Culture
+Baños,Ecuador,South America,Tungurahua,-1.476,-76.837,92.0,144.3,17.1,16.4,1463.0,184.0,23.0,0,9.0,1,0,38.7,67.0,0.053,0.08,Adventure
+Otavalo,Ecuador,South America,Imbabura,-2.469,-78.161,249.0,186.4,16.9,19.8,1355.0,167.0,1.0,0,19.0,0,0,33.1,57.0,0.081,0.21,Culture
+Mindo,Ecuador,South America,Pichincha,-2.526,-78.219,202.0,216.2,16.5,18.5,1236.0,183.0,32.0,0,0,0,0,28.2,55.0,0.062,0.11,Adventure
+Montañita,Ecuador,South America,Santa Elena,-2.871,-79.406,141.0,123.1,16.5,19.4,1800.0,156.0,8.0,0,11.0,1,0,31.3,48.0,0.041,0.07,Relaxation
+La Paz (Bolivia),Bolivia,South America,La Paz,-15.127,-63.378,0,114.8,15.3,15.7,402.0,259.0,10.0,1,16.0,1,0,34.5,49.0,0.346,0.13,Culture
+Salar de Uyuni,Bolivia,South America,Potosí,-16.557,-62.03,170.0,159.9,13.7,17.6,598.0,228.0,16.0,0,0,0,0,28.4,47.0,0.04,0.1,Adventure
+Sucre,Bolivia,South America,Chuquisaca,-17.451,-63.93,63.0,58.3,16.5,17.9,449.0,252.0,6.0,0,20.0,0,0,27.1,55.0,0.061,0.14,Culture
+Copacabana (Bolivia),Bolivia,South America,La Paz,-14.431,-63.316,100.0,102.5,16.6,20.2,647.0,218.0,8.0,0,18.0,1,0,27.1,45.0,0.06,0.23,Adventure
+Santa Cruz (Bolivia),Bolivia,South America,Santa Cruz,-15.062,-66.457,178.0,246.4,14.5,18.9,661.0,273.0,8.0,0,13.0,1,0,30.5,44.0,0.098,0.32,Culture
+Potosí (city),Bolivia,South America,Potosí,-16.472,-63.895,194.0,87.3,13.5,16.3,534.0,247.0,22.0,0,22.0,1,0,20.6,39.0,0.049,0.15,Culture
+Rurrenabaque,Bolivia,South America,Beni,-17.175,-63.829,224.0,27.2,12.0,17.9,546.0,220.0,23.0,0,7.0,1,0,30.2,50.0,0.072,0.16,Adventure
+Montevideo,Uruguay,South America,Montevideo,-35.72,-57.457,152.0,89.2,12.0,21.8,1126.0,211.0,6.0,1,17.0,1,0,51.9,92.0,1.428,3.3,Relaxation
+Punta del Este,Uruguay,South America,Maldonado,-33.543,-56.936,144.0,171.8,14.7,20.7,1118.0,191.0,9.0,0,0,1,0,43.0,74.0,0.291,2.54,Relaxation
+Colonia del Sacramento,Uruguay,South America,Colonia,-33.768,-56.171,87.0,51.6,13.5,20.7,1259.0,231.0,18.0,0,5.0,0,0,50.1,105.0,0.05,0.49,Relaxation
+José Ignacio,Uruguay,South America,Maldonado,-35.847,-55.016,48.0,126.6,12.4,23.1,1384.0,189.0,6.0,0,2.0,1,0,45.1,72.0,0.211,3.62,Relaxation
+Cabo Polonio,Uruguay,South America,Rocha,-32.801,-57.485,0,95.4,15.8,21.6,1161.0,224.0,13.0,0,7.0,1,0,43.9,74.0,0.109,1.8,Relaxation
+Sydney,Australia,Oceania,New South Wales,-24.734,137.157,72.0,188.3,13.9,23.3,484.0,258.0,0,0,1.0,2,0,72.6,158.0,0.088,0.26,Culture
+Melbourne,Australia,Oceania,Victoria,-25.671,133.767,153.0,116.9,12.4,22.4,523.0,251.0,33.0,1,7.0,0,0,80.3,178.0,0.338,0.75,Culture
+Brisbane,Australia,Oceania,Queensland,-24.438,136.025,142.0,147.6,12.0,23.0,688.0,236.0,20.0,1,0,0,1,93.0,146.0,0.429,1.93,Culture
+Gold Coast,Australia,Oceania,Queensland,-25.957,133.424,39.0,0.9,13.8,23.1,512.0,238.0,4.0,0,10.0,2,1,111.7,204.0,0.864,1.27,Family
+Cairns,Australia,Oceania,Queensland,-25.364,135.741,137.0,228.4,10.2,24.0,593.0,236.0,14.0,0,22.0,1,0,85.9,154.0,0.657,0.85,Adventure
+Great Barrier Reef - Whitsundays,Australia,Oceania,Queensland,-24.092,136.474,40.0,1.6,13.0,22.7,567.0,236.0,23.0,1,7.0,2,0,87.7,163.0,1.793,2.04,Adventure
+Port Douglas,Australia,Oceania,Queensland,-24.269,132.661,102.0,1.6,12.0,23.7,545.0,243.0,12.0,0,1.0,2,0,102.8,212.0,1.067,2.65,Adventure
+Daintree Rainforest,Australia,Oceania,Queensland,-27.373,133.082,193.0,38.8,10.0,23.1,558.0,226.0,47.0,2,6.0,2,0,71.1,122.0,0.423,0.87,Adventure
+Fraser Island,Australia,Oceania,Queensland,-25.918,133.678,103.0,0.6,11.5,19.6,602.0,246.0,11.0,0,6.0,1,0,93.9,166.0,0.437,1.01,Adventure
+Byron Bay,Australia,Oceania,New South Wales,-25.458,131.036,300.0,2.2,10.5,20.1,557.0,257.0,22.0,0,4.0,1,1,98.8,185.0,0.769,0.87,Relaxation
+Blue Mountains,Australia,Oceania,New South Wales,-25.986,135.987,1851.0,321.5,-2.0,11.5,567.0,180.0,93.0,0,6.0,4,0,84.3,158.0,0.17,0.26,Adventure
+Hunter Valley,Australia,Oceania,New South Wales,-22.338,132.739,127.0,219.2,10.7,23.1,434.0,251.0,12.0,1,5.0,0,1,126.3,239.0,0.606,1.91,Luxury
+Perth,Australia,Oceania,Western Australia,-26.17,135.461,151.0,180.3,11.3,20.3,477.0,253.0,18.0,1,10.0,2,0,79.7,167.0,0.096,0.22,Culture
+Margaret River,Australia,Oceania,Western Australia,-25.805,132.027,267.0,192.8,10.8,21.1,495.0,228.0,13.0,0,9.0,1,0,104.2,212.0,0.118,0.3,Luxury
+Broome,Australia,Oceania,Western Australia,-22.778,131.443,195.0,29.8,11.7,23.1,557.0,262.0,0,1,16.0,1,1,81.7,174.0,0.142,0.16,Adventure
+Adelaide,Australia,Oceania,South Australia,-24.363,133.651,267.0,177.1,12.5,22.7,441.0,219.0,24.0,1,10.0,1,0,94.7,168.0,0.66,4.02,Culture
+Kangaroo Island,Australia,Oceania,South Australia,-21.238,132.578,32.0,0.4,13.5,22.1,676.0,256.0,0,1,10.0,0,0,84.0,171.0,0.882,6.76,Adventure
+Barossa Valley,Australia,Oceania,South Australia,-26.384,135.841,131.0,203.4,10.1,22.9,484.0,204.0,8.0,1,2.0,0,0,94.4,201.0,0.699,0.76,Luxury
+Hobart,Australia,Oceania,Tasmania,-25.975,133.851,46.0,216.8,11.9,25.5,472.0,268.0,0,0,16.0,1,1,77.7,133.0,0.917,1.12,Culture
+Cradle Mountain,Australia,Oceania,Tasmania,-26.386,135.77,1886.0,325.0,-2.1,12.0,568.0,209.0,109.0,1,5.0,3,0,88.1,157.0,0.654,2.01,Adventure
+Uluru,Australia,Oceania,Northern Territory,-25.661,136.019,211.0,160.3,10.6,21.8,115.0,280.0,38.0,1,9.0,2,1,75.9,149.0,0.114,0.31,Adventure
+Kakadu National Park,Australia,Oceania,Northern Territory,-24.397,133.114,80.0,220.1,12.8,21.2,535.0,222.0,53.0,1,3.0,1,0,80.1,171.0,0.22,0.58,Adventure
+Darwin,Australia,Oceania,Northern Territory,-25.959,135.282,119.0,146.7,12.7,23.2,531.0,224.0,37.0,0,6.0,1,0,74.4,148.0,0.478,0.52,Culture
+Canberra,Australia,Oceania,ACT,-24.907,132.591,96.0,60.8,12.6,23.2,533.0,250.0,7.0,5,71.0,0,0,103.0,202.0,2.291,0.53,Culture
+Phillip Island,Australia,Oceania,Victoria,-24.987,133.268,69.0,1.4,13.7,22.9,582.0,229.0,20.0,0,5.0,2,0,89.2,207.0,0.924,4.05,Adventure
+Great Ocean Road,Australia,Oceania,Victoria,-25.863,133.315,115.0,98.0,10.2,22.5,658.0,248.0,31.0,1,27.0,0,0,79.5,155.0,0.375,1.36,Adventure
+Noosa,Australia,Oceania,Queensland,-25.698,135.73,183.0,107.6,12.2,22.3,658.0,221.0,9.0,0,12.0,1,0,93.7,157.0,0.191,0.68,Relaxation
+Sunshine Coast,Australia,Oceania,Queensland,-30.606,135.633,0,1.4,14.3,22.3,606.0,246.0,34.0,1,5.0,1,1,104.7,208.0,0.753,2.55,Relaxation
+Auckland,New Zealand,Oceania,North Island,-40.069,176.247,86.0,0.2,13.5,16.7,1189.0,207.0,13.0,0,13.0,1,1,90.3,151.0,0.294,11.15,Culture
+Wellington,New Zealand,Oceania,North Island,-39.895,176.299,180.0,2.0,10.1,16.4,669.0,194.0,11.0,0,21.0,0,1,93.6,168.0,0.83,0.68,Culture
+Rotorua,New Zealand,Oceania,North Island,-39.69,170.502,78.0,0.3,11.8,16.1,907.0,226.0,12.0,0,11.0,1,0,90.0,130.0,0.26,6.33,Adventure
+Taupo,New Zealand,Oceania,North Island,-41.035,175.16,124.0,1.6,10.8,18.2,1053.0,209.0,20.0,0,1.0,2,0,72.6,154.0,0.259,5.98,Adventure
+Bay of Islands,New Zealand,Oceania,North Island,-39.723,174.622,0,2.8,12.1,15.0,1299.0,232.0,14.0,0,4.0,1,1,80.0,157.0,0.269,16.64,Adventure
+Coromandel,New Zealand,Oceania,North Island,-39.742,172.711,76.0,1.0,10.9,17.9,1291.0,202.0,22.0,0,6.0,0,1,77.7,169.0,0.213,3.72,Adventure
+Hobbiton (Matamata),New Zealand,Oceania,North Island,-40.994,172.359,219.0,2.2,11.7,16.7,961.0,197.0,27.0,0,6.0,2,1,83.0,152.0,1.06,25.53,Family
+Tongariro National Park,New Zealand,Oceania,North Island,-40.359,174.952,1949.0,0.4,-0.4,4.3,1228.0,178.0,47.0,0,3.0,4,0,68.0,154.0,0.41,7.24,Adventure
+Queenstown,New Zealand,Oceania,South Island,-40.558,174.208,227.0,1.3,8.8,18.0,1210.0,214.0,16.0,0,9.0,1,0,74.5,147.0,0.744,7.79,Adventure
+Wanaka,New Zealand,Oceania,South Island,-40.314,175.345,172.0,2.0,10.2,15.9,1139.0,209.0,27.0,0,9.0,0,0,79.2,145.0,0.407,11.38,Adventure
+Milford Sound,New Zealand,Oceania,South Island,-40.795,176.959,189.0,2.8,10.9,16.2,1107.0,187.0,7.0,0,4.0,0,0,88.2,154.0,0.27,14.78,Adventure
+Fiordland,New Zealand,Oceania,South Island,-40.487,170.543,103.0,0.4,10.7,17.7,1443.0,222.0,11.0,0,10.0,0,0,84.6,163.0,0.421,23.5,Adventure
+Christchurch,New Zealand,Oceania,South Island,-40.431,179.273,86.0,0.9,10.8,18.4,1163.0,213.0,15.0,0,7.0,2,1,89.0,148.0,0.746,7.93,Culture
+Kaikoura,New Zealand,Oceania,South Island,-42.724,172.364,193.0,0.1,10.6,15.6,813.0,213.0,17.0,0,7.0,1,0,76.7,141.0,0.317,23.93,Adventure
+Franz Josef Glacier,New Zealand,Oceania,South Island,-38.294,177.097,2680.0,0.6,-1.9,-2.7,1929.0,177.0,90.0,0,3.0,2,1,125.4,207.0,0.647,8.27,Adventure
+Abel Tasman,New Zealand,Oceania,South Island,-40.373,174.242,0,0.8,11.6,18.3,1435.0,193.0,37.0,0,0,0,1,81.6,143.0,0.178,3.39,Adventure
+Marlborough,New Zealand,Oceania,South Island,-41.836,174.786,8.0,0.6,11.6,16.5,1305.0,220.0,5.0,0,4.0,1,0,100.2,188.0,0.504,22.51,Luxury
+Dunedin,New Zealand,Oceania,South Island,-43.434,174.733,122.0,1.2,9.5,18.5,1673.0,195.0,20.0,0,0,1,1,92.0,163.0,0.647,7.49,Culture
+Mount Cook,New Zealand,Oceania,South Island,-40.941,174.557,231.0,1.4,11.2,15.1,936.0,199.0,13.0,0,7.0,0,0,67.0,131.0,0.428,13.87,Adventure
+Nadi,Fiji,Oceania,Viti Levu,-17.829,178.267,146.0,187.0,24.5,24.3,1573.0,198.0,20.0,0,12.0,1,0,52.8,147.0,0.034,1.31,Relaxation
+Yasawa Islands,Fiji,Oceania,Yasawa,-17.972,179.004,11.0,0.3,24.7,26.9,2269.0,191.0,11.0,0,6.0,0,0,55.5,158.0,0.095,6.06,Relaxation
+Mamanuca Islands,Fiji,Oceania,Mamanuca,-20.074,179.212,0,1.6,23.4,27.9,1329.0,198.0,0,0,11.0,0,0,60.8,169.0,0.15,26.5,Relaxation
+Taveuni,Fiji,Oceania,Taveuni,-18.597,178.514,71.0,218.5,24.4,27.6,2400.0,236.0,14.0,0,6.0,1,0,48.8,128.0,0.021,0.57,Relaxation
+Vanua Levu,Fiji,Oceania,Vanua Levu,-17.53,178.904,223.0,146.7,21.2,24.4,2892.0,208.0,16.0,0,4.0,1,1,48.6,132.0,0.041,2.03,Relaxation
+Suva,Fiji,Oceania,Viti Levu,-20.013,176.906,52.0,199.6,25.0,28.0,1852.0,235.0,9.0,0,0,0,1,60.5,163.0,0.328,2.44,Culture
+Tahiti - Papeete,French Polynesia,Oceania,Society,-19.461,-149.582,128.0,0.4,22.4,26.3,1939.0,263.0,14.0,0,5.0,2,0,93.3,380.0,0.028,5.52,Culture
+Bora Bora,French Polynesia,Oceania,Society,-17.238,-149.258,159.0,1.2,20.8,25.5,1287.0,237.0,0,0,7.0,0,0,87.5,319.0,0.02,4.08,Luxury
+Moorea,French Polynesia,Oceania,Society,-15.958,-150.16,169.0,1.3,20.1,26.0,1902.0,239.0,19.0,0,1.0,2,0,94.0,295.0,0.058,11.63,Relaxation
+Rangiroa,French Polynesia,Oceania,Tuamotu,-17.499,-149.078,79.0,221.6,23.2,26.3,1837.0,223.0,49.0,0,12.0,1,0,93.3,370.0,0.024,1.18,Relaxation
+Huahine,French Polynesia,Oceania,Society,-17.364,-152.224,167.0,76.6,23.5,23.2,1365.0,264.0,22.0,0,3.0,0,0,97.6,312.0,0.011,0.55,Relaxation
+Tikehau,French Polynesia,Oceania,Tuamotu,-17.605,-144.462,94.0,169.2,22.7,23.2,2029.0,271.0,13.0,0,0,0,0,83.1,260.0,0.022,1.11,Relaxation
