@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #f0f9ff;
+  --color-brand-100: #e0f2fe;
+  --color-brand-200: #bae6fd;
+  --color-brand-400: #38bdf8;
+  --color-brand-500: #0ea5e9;
+  --color-brand-600: #0284c7;
+  --color-brand-700: #0369a1;
+  --color-brand-900: #0c4a6e;
+
+  --color-surface: #0f1117;
+  --color-surface-1: #161b25;
+  --color-surface-2: #1e2535;
+  --color-surface-3: #252d3d;
+
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background-color: #0f1117;
+  color: #e2e8f0;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root { height: 100dvh; display: flex; flex-direction: column; }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #334155; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #475569; }
+
+/* Markdown in chat bubbles */
+.prose-chat h3 { font-size: 1rem; font-weight: 600; margin: 0.8rem 0 0.25rem; color: #f1f5f9; }
+.prose-chat p  { margin: 0.35rem 0; line-height: 1.65; }
+.prose-chat ul { list-style: disc; padding-left: 1.25rem; margin: 0.35rem 0; }
+.prose-chat ol { list-style: decimal; padding-left: 1.25rem; margin: 0.35rem 0; }
+.prose-chat li { margin: 0.2rem 0; }
+.prose-chat strong { color: #f1f5f9; font-weight: 600; }
+.prose-chat em { color: #94a3b8; }
+.prose-chat code { background: #1e2535; padding: 0.1rem 0.3rem; border-radius: 4px; font-size: 0.82em; color: #7dd3fc; }
+.prose-chat hr { border-color: #1e2535; margin: 0.6rem 0; }

@@ -8,6 +8,7 @@ from pydantic import BaseModel, EmailStr
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from app.api.deps import get_current_user
 from app.db import get_session
 from app.models.user import User
 from app.services.auth import create_access_token, hash_password, verify_password
@@ -33,6 +34,17 @@ class UserOut(BaseModel):
 class TokenOut(BaseModel):
     access_token: str
     token_type: str = "bearer"
+
+
+class MeOut(BaseModel):
+    id: int
+    email: str
+    webhook_url: str | None
+    model_config = {"from_attributes": True}
+
+
+class WebhookUpdate(BaseModel):
+    webhook_url: str | None = None
 
 
 # --------------------------------------------------------------------------- #
@@ -74,3 +86,21 @@ async def login(
             headers={"WWW-Authenticate": "Bearer"},
         )
     return {"access_token": create_access_token(user.id), "token_type": "bearer"}
+
+
+@router.get("/me", response_model=MeOut)
+async def get_me(current_user: User = Depends(get_current_user)) -> User:
+    return current_user
+
+
+@router.patch("/me", response_model=MeOut)
+async def update_me(
+    body: WebhookUpdate,
+    session: AsyncSession = Depends(get_session),
+    current_user: User = Depends(get_current_user),
+) -> User:
+    current_user.webhook_url = body.webhook_url
+    session.add(current_user)
+    await session.commit()
+    await session.refresh(current_user)
+    return current_user

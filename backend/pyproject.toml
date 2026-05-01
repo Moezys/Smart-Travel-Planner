@@ -27,6 +27,7 @@ dependencies = [
     "pydantic[email]>=2.13.3",
     "email-validator>=2.0",
     "bcrypt==4.0.1",
+    "tenacity>=9.0",
 ]
 
 [dependency-groups]

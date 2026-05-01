@@ -1,0 +1,55 @@
+services:
+
+  # ── Postgres + pgvector ──────────────────────────────────────────────────
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: stp-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-stp}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-stp}
+      POSTGRES_DB: ${POSTGRES_DB:-smart_travel_planner}
+    ports:
+      - "${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - stp_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-stp} -d ${POSTGRES_DB:-smart_travel_planner}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  # ── FastAPI backend ───────────────────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: stp-backend
+    # Load all secrets (API keys, JWT secret, etc.) from your .env file.
+    # DATABASE_URL is overridden below to use the Docker service name.
+    env_file: ./backend/.env
+    environment:
+      DATABASE_URL: "postgresql+psycopg://${POSTGRES_USER:-stp}:${POSTGRES_PASSWORD:-stp}@postgres:5432/${POSTGRES_DB:-smart_travel_planner}"
+      DATABASE_URL_SYNC: "postgresql+psycopg://${POSTGRES_USER:-stp}:${POSTGRES_PASSWORD:-stp}@postgres:5432/${POSTGRES_DB:-smart_travel_planner}"
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ── React frontend (nginx) ────────────────────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: stp-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  stp_pgdata:
+    external: true
