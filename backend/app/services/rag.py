@@ -14,7 +14,7 @@ human-readable output.
 from __future__ import annotations
 
 from pydantic import BaseModel, Field, ConfigDict
-from sqlalchemy import select
+from sqlalchemy import select, text
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.models import Chunk, Destination, Document
@@ -57,6 +57,11 @@ async def retrieve(
         Useful when the agent has already classified intent and wants to
         bias retrieval toward matching destinations.
     """
+    # Widen HNSW beam so small corpora get full recall. ef_search=200 is
+    # still sub-millisecond for our ~300-row corpus and ensures the
+    # approximate index returns the true top-k.
+    await session.execute(text("SET LOCAL hnsw.ef_search = 200"))
+
     qvec = await embed_query(query)
     distance = Chunk.embedding.cosine_distance(qvec)
 

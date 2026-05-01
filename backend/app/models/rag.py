@@ -93,14 +93,14 @@ class Chunk(Base):
     __table_args__ = (
         UniqueConstraint("document_id", "chunk_index",
                          name="uq_chunks_document_chunk_index"),
-        # Approximate-NN index on the embedding column. Cosine distance
-        # matches Voyage's normalised output. lists=100 is a safe default
-        # for our ~500-row scale; bump if we grow past ~50k chunks.
+        # HNSW ANN index — builds incrementally as rows are inserted, so
+        # it works correctly even when created on an empty table (unlike
+        # IVFFlat which needs data at CREATE INDEX time to train centroids).
         Index(
             "ix_chunks_embedding_cosine",
             "embedding",
-            postgresql_using="ivfflat",
-            postgresql_with={"lists": 100},
+            postgresql_using="hnsw",
+            postgresql_with={"m": 16, "ef_construction": 64},
             postgresql_ops={"embedding": "vector_cosine_ops"},
         ),
     )

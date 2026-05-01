@@ -63,6 +63,28 @@ class Settings(BaseSettings):
 
     # --- ML classifier ---
     ml_model_path: Path = BACKEND_DIR / "model" / "travel_style_classifier.joblib"
+    destinations_csv_path: Path = BACKEND_DIR / "data" / "destinations.csv"
+
+    # --- Agent LLM (Google AI) ---
+    google_api_key: SecretStr = Field(default=SecretStr(""))
+    # Strong model — used for final synthesis only.
+    agent_model: str = "gemma-4-31b-it"
+    # Cheap model — used for all tool-selection / argument-extraction rounds.
+    # Must support function calling.  Set to a lighter Gemini/Gemma model
+    # when available (e.g. gemini-2.0-flash).  Falls back to the same model
+    # as agent_model when the API key only has access to one model family.
+    agent_cheap_model: str = "gemma-4-31b-it"
+
+    # --- Auth (JWT) ---
+    # Generate a strong key: python -c "import secrets; print(secrets.token_hex(32))"
+    jwt_secret_key: SecretStr = Field(default=SecretStr("change-me-in-production"))
+    jwt_algorithm: str = "HS256"
+    access_token_expire_minutes: int = 30
+
+    # --- LangSmith tracing ---
+    langsmith_api_key: SecretStr = Field(default=SecretStr(""))
+    langchain_tracing_v2: bool = False
+    langchain_project: str = "smart-travel-planner"
 
 
 @lru_cache(maxsize=1)
